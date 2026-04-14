@@ -19,6 +19,17 @@
 
 说明：目录中另有未删节本、补充文本、其它文献、PDF文库，我这次优先完成了卷一至卷五主干文本的顺序学习与综合归纳。
 
+## 已写入仓库的顺序阅读笔记（持续更新）
+
+- 003《中国的红色政权为什么能够存在？》
+  - `survival_strategy/003-red-political-power-foothold-thinking.md`
+- 004《井冈山的斗争》
+  - `cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
+- 005《关于纠正党内的错误思想》
+  - `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
+  - `../inspiration_on_software_development/team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
+  - `../inspiration_on_running_a_company/organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
+
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
 把这些文章从1925年一路读到1957年，最明显的感受是：它不是静止不动的一套口号，而是一整套随着形势变化不断调整的“问题处理方法”。

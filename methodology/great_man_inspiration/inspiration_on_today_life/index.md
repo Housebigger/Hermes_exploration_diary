@@ -21,7 +21,12 @@ Purpose:
 - how to avoid overextension
 
 ### judgement_and_decision
-Reserved for future notes on structure judgement, contradiction analysis, and decision discipline.
+- `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
+
+Purpose:
+- how to distinguish tools from goals
+- how to reduce internal cognitive noise before major decisions
+- how to keep criticism, fairness, and action from degenerating into self-sabotage
 
 ### long_term_growth
 Reserved for future notes on patience, compounding, capability building, and anti-short-termism.

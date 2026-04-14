@@ -28,6 +28,9 @@ Subfolders:
 - `team_process_and_quality/`
 - `indexes/`
 
+Current contents:
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
+
 ### 3. inspiration_on_today_life
 Extract practical life lessons for ordinary people living through large-scale change.
 
@@ -41,6 +44,8 @@ Subfolders:
 Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/003-red-political-power-foothold-thinking.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 
 ### 4. inspiration_on_making_money
 Reserved for future notes on opportunity selection, capital discipline, anti-fragility, and wealth-building.
@@ -57,6 +62,9 @@ Subfolders:
 - `organization_design/`
 - `leadership_and_talent/`
 - `strategy_and_execution/`
+
+Current contents:
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
 
 ## Naming convention
 

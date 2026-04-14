@@ -23,7 +23,12 @@ Reserved for notes on software architecture, modularity, interfaces, technical c
 Reserved for notes on MVP strategy, release rhythm, staged rollout, and shipping discipline.
 
 ### team_process_and_quality
-Reserved for notes on collaboration, code review, QA, retrospectives, and engineering process.
+- `team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
+
+Purpose:
+- how software teams keep goals, discussion, and execution aligned
+- how to turn criticism into structured feedback instead of private resentment
+- how to resist evidence-light decision making and blind expansion
 
 ### indexes
 Reserved for future series indexes and overview notes.
