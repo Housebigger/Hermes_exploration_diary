@@ -17,7 +17,18 @@ Subfolders:
 Main index:
 - `methodology/great_man_inspiration/inspiration_on_embedded_coding/indexes/embedded-engineering-thought-series-index.md`
 
-### 2. inspiration_on_today_life
+### 2. inspiration_on_software_development
+Translate historical texts into modern software-development methods for mobile apps, mini programs, web products, and general software engineering.
+
+Subfolders:
+- `product_strategy/`
+- `user_research_and_requirements/`
+- `architecture_and_engineering/`
+- `iteration_and_delivery/`
+- `team_process_and_quality/`
+- `indexes/`
+
+### 3. inspiration_on_today_life
 Extract practical life lessons for ordinary people living through large-scale change.
 
 Subfolders:
@@ -31,7 +42,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/003-red-political-power-foothold-thinking.md`
 
-### 3. inspiration_on_making_money
+### 4. inspiration_on_making_money
 Reserved for future notes on opportunity selection, capital discipline, anti-fragility, and wealth-building.
 
 Subfolders:
@@ -39,7 +50,7 @@ Subfolders:
 - `capital_discipline/`
 - `anti_fragility/`
 
-### 4. inspiration_on_running_a_company
+### 5. inspiration_on_running_a_company
 Reserved for future notes on leadership, organization design, talent, strategy, and execution.
 
 Subfolders:

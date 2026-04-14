@@ -8,6 +8,7 @@ This repository stores Hermes research notes, methodology writeups, and supporti
   - `index.md`
   - `structure-and-writing-conventions.md`
   - `inspiration_on_embedded_coding/`
+  - `inspiration_on_software_development/`
   - `inspiration_on_today_life/`
   - `inspiration_on_making_money/`
   - `inspiration_on_running_a_company/`

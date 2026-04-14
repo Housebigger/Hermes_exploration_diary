@@ -11,13 +11,14 @@ Choose the practical application first, then place the file under the appropriat
 
 - `methodology/great_man_inspiration/`
   - `inspiration_on_embedded_coding/`
+  - `inspiration_on_software_development/`
   - `inspiration_on_today_life/`
   - `inspiration_on_making_money/`
   - `inspiration_on_running_a_company/`
 
 ## Placement rules
 
-### If the note is mainly about engineering method
+### If the note is mainly about embedded engineering method
 Place it under:
 `methodology/great_man_inspiration/inspiration_on_embedded_coding/`
 
@@ -27,6 +28,22 @@ Then choose one:
 - `system_analysis_and_architecture/`
 - `team_process_and_knowledge/`
 - `indexes/`
+
+Use this only for embedded software, firmware, drivers, hardware-coupled debugging, board bring-up, field constraints, and related engineering work.
+
+### If the note is mainly about general software development
+Place it under:
+`methodology/great_man_inspiration/inspiration_on_software_development/`
+
+Then choose one:
+- `product_strategy/`
+- `user_research_and_requirements/`
+- `architecture_and_engineering/`
+- `iteration_and_delivery/`
+- `team_process_and_quality/`
+- `indexes/`
+
+Use this for mobile apps, WeChat mini programs, frontend and backend products, web systems, product software teams, and general software engineering methodology.
 
 ### If the note is mainly about ordinary life in the present era
 Place it under:
