@@ -29,7 +29,12 @@ Purpose:
 - how to segment users by real behavior, incentives, and workflow position instead of surface identity
 
 ### architecture_and_engineering
-Reserved for notes on software architecture, modularity, interfaces, technical choices, and implementation strategy.
+- `architecture_and_engineering/010-build-core-capacity-and-healthy-ecosystem.md`
+
+Purpose:
+- how teams identify and protect first-priority core capacity in system building
+- how to balance self-built capabilities, external integrations, and ecosystem cooperation
+- how to keep complexity expansion tied to real delivery and maintenance capacity
 
 ### iteration_and_delivery
 - `iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`

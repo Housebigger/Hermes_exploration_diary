@@ -16,6 +16,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
+- `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -26,3 +27,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how managers investigate reality before issuing structural judgements and interventions
 - how companies build cash, supply, and operating resilience for long pressure cycles
 - how organizations classify people by real function, incentives, and structural role instead of title alone
+- how companies build an operating system that balances production, trade flow, partner structure, finance, and discipline

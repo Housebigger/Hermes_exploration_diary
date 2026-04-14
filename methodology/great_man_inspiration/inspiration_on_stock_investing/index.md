@@ -8,7 +8,11 @@ Theme: extract practical stock-investing methods from major historical texts.
 Reserved for future series indexes and overview notes.
 
 ### market_structure_and_cycles
-Reserved for notes on market regime judgment, cycle awareness, and structural shifts.
+- `market_structure_and_cycles/010-real-production-before-policy-premium.md`
+
+Purpose:
+- how investors judge policy themes by real production recovery, circulation repair, and economic carrying capacity
+- how to separate durable policy benefit from liquidity-only excitement
 
 ### research_and_thesis
 - `research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`

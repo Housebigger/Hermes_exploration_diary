@@ -49,6 +49,12 @@
   - `../inspiration_on_running_a_company/organization_design/009-classify-roles-by-real-function-and-incentives.md`
   - `../inspiration_on_stock_investing/research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
   - `../inspiration_on_making_money/monetization_models/009-classify-side-hustles-by-income-structure.md`
+- 010《我们的经济政策》
+  - `survival_strategy/010-build-a-self-sustaining-life-economy.md`
+  - `../inspiration_on_software_development/architecture_and_engineering/010-build-core-capacity-and-healthy-ecosystem.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
+  - `../inspiration_on_stock_investing/market_structure_and_cycles/010-real-production-before-policy-premium.md`
+  - `../inspiration_on_making_money/execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
