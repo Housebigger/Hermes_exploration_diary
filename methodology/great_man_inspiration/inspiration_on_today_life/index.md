@@ -14,11 +14,13 @@ Purpose:
 
 ### survival_strategy
 - `survival_strategy/003-red-political-power-foothold-thinking.md`
+- `survival_strategy/008-economic-basics-before-big-moves.md`
 
 Purpose:
 - how ordinary people build footholds
 - how to preserve a base under pressure
 - how to avoid overextension
+- how to build an economic base layer before long-cycle moves
 
 ### judgement_and_decision
 - `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`

@@ -32,6 +32,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/006-small-spark-product-wedge-and-wave-expansion.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/007-investigation-first-product-discovery.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
 
 ### 3. inspiration_on_today_life
 Extract practical life lessons for ordinary people living through large-scale change.
@@ -46,6 +47,7 @@ Subfolders:
 Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/003-red-political-power-foothold-thinking.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/008-economic-basics-before-big-moves.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/007-investigate-before-judging-major-decisions.md`
@@ -71,6 +73,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/007-no-investigation-no-organizational-voice.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 
 ## Naming convention
 

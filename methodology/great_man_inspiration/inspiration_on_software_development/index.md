@@ -30,7 +30,12 @@ Purpose:
 Reserved for notes on software architecture, modularity, interfaces, technical choices, and implementation strategy.
 
 ### iteration_and_delivery
-Reserved for notes on MVP strategy, release rhythm, staged rollout, and shipping discipline.
+- `iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
+
+Purpose:
+- how teams build resource flow and supply lines for sustained delivery
+- how to reduce hidden organizational drain during high-pressure execution
+- how to balance current delivery with the systems that keep delivery possible
 
 ### team_process_and_quality
 - `team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`

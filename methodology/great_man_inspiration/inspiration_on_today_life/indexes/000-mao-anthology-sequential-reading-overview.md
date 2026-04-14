@@ -38,6 +38,10 @@
   - `../inspiration_on_software_development/user_research_and_requirements/007-investigation-first-product-discovery.md`
   - `../inspiration_on_running_a_company/organization_design/007-no-investigation-no-organizational-voice.md`
   - `../inspiration_on_embedded_coding/debugging_and_fieldwork/004-against-book-worship-driver-development.md`（已有关联主题笔记）
+- 008《必须注意经济工作》
+  - `survival_strategy/008-economic-basics-before-big-moves.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
