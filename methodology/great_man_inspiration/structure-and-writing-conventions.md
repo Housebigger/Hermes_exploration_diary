@@ -11,7 +11,7 @@ Choose the practical application first, then place the file under the appropriat
 
 - `methodology/great_man_inspiration/`
   - `inspiration_on_embedded_coding/`
-  - `inspiration_on_today_living/`
+  - `inspiration_on_today_life/`
   - `inspiration_on_making_money/`
   - `inspiration_on_running_a_company/`
 
@@ -30,7 +30,7 @@ Then choose one:
 
 ### If the note is mainly about ordinary life in the present era
 Place it under:
-`methodology/great_man_inspiration/inspiration_on_today_living/`
+`methodology/great_man_inspiration/inspiration_on_today_life/`
 
 Then choose one:
 - `survival_strategy/`

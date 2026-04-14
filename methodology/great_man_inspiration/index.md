@@ -17,7 +17,7 @@ Subfolders:
 Main index:
 - `methodology/great_man_inspiration/inspiration_on_embedded_coding/indexes/embedded-engineering-thought-series-index.md`
 
-### 2. inspiration_on_today_living
+### 2. inspiration_on_today_life
 Extract practical life lessons for ordinary people living through large-scale change.
 
 Subfolders:
@@ -28,8 +28,8 @@ Subfolders:
 - `cooperation_and_organization/`
 
 Current contents:
-- `methodology/great_man_inspiration/inspiration_on_today_living/indexes/000-mao-anthology-sequential-reading-overview.md`
-- `methodology/great_man_inspiration/inspiration_on_today_living/survival_strategy/003-red-political-power-foothold-thinking.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/003-red-political-power-foothold-thinking.md`
 
 ### 3. inspiration_on_making_money
 Reserved for future notes on opportunity selection, capital discipline, anti-fragility, and wealth-building.

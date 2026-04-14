@@ -1,4 +1,4 @@
-# inspiration_on_today_living
+# inspiration_on_today_life
 
 Theme: extract practical lessons for ordinary people living through large-scale change.
 
