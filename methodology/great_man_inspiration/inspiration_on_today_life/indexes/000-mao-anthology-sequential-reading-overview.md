@@ -42,6 +42,7 @@
   - `survival_strategy/008-economic-basics-before-big-moves.md`
   - `../inspiration_on_software_development/iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

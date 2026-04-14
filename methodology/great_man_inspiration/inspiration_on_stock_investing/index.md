@@ -1,0 +1,30 @@
+# inspiration_on_stock_investing
+
+Theme: extract practical stock-investing methods from major historical texts.
+
+## Subfolders
+
+### indexes
+Reserved for future series indexes and overview notes.
+
+### market_structure_and_cycles
+Reserved for notes on market regime judgment, cycle awareness, and structural shifts.
+
+### research_and_thesis
+Reserved for notes on how investors investigate companies, industries, incentives, and edge sources before forming a thesis.
+
+### risk_and_position_management
+- `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
+
+Purpose:
+- how investors keep cash, resilience, and optionality before making large bets
+- how to avoid being forced out by broken supply lines, leverage, or emotional overextension
+- how to treat position management as survival first, return second
+
+### trading_and_execution
+Reserved for notes on execution rhythm, scaling in and out, and avoiding impulsive action.
+
+## Writing convention
+
+Use this folder for public-market investing and二级市场 methodology.
+If the note is mainly about building new active income sources, place it under `../inspiration_on_making_money/` instead.

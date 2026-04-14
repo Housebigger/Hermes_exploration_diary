@@ -14,6 +14,7 @@ Choose the practical application first, then place the file under the appropriat
   - `inspiration_on_software_development/`
   - `inspiration_on_today_life/`
   - `inspiration_on_making_money/`
+  - `inspiration_on_stock_investing/`
   - `inspiration_on_running_a_company/`
 
 ## Placement rules
@@ -56,10 +57,16 @@ Then choose one:
 - `cooperation_and_organization/`
 - `indexes/`
 
-### If the note is mainly about money, business, or company building
+### If the note is mainly about side-income, stock investing, business, or company building
 Prefer these reserved themes:
 - `inspiration_on_making_money/`
+- `inspiration_on_stock_investing/`
 - `inspiration_on_running_a_company/`
+
+Use them with this distinction:
+- `inspiration_on_making_money/` -> side-income, monetization, freelance/service offers, content/IP commercialization, and副业赚钱 systems
+- `inspiration_on_stock_investing/` -> stock-market investing, market observation, research discipline, position sizing, and risk control in二级市场
+- `inspiration_on_running_a_company/` -> company operation, leadership, organization design, and strategic execution
 
 ## Filename rules
 

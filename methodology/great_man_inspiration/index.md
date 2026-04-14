@@ -54,14 +54,27 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 
 ### 4. inspiration_on_making_money
-Reserved for future notes on opportunity selection, capital discipline, anti-fragility, and wealth-building.
+Reserved for future notes on side-income building, side projects, monetization paths, and practical副业赚钱 strategy.
 
 Subfolders:
-- `opportunity_selection/`
-- `capital_discipline/`
-- `anti_fragility/`
+- `side_hustle_selection/`
+- `monetization_models/`
+- `execution_and_delivery/`
 
-### 5. inspiration_on_running_a_company
+### 5. inspiration_on_stock_investing
+Reserved for future notes on stock-market investing, market structure, research discipline, risk control, and position management.
+
+Subfolders:
+- `indexes/`
+- `market_structure_and_cycles/`
+- `research_and_thesis/`
+- `risk_and_position_management/`
+- `trading_and_execution/`
+
+Current contents:
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
+
+### 6. inspiration_on_running_a_company
 Reserved for future notes on leadership, organization design, talent, strategy, and execution.
 
 Subfolders:
