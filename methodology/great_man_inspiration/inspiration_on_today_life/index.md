@@ -25,12 +25,14 @@ Purpose:
 ### judgement_and_decision
 - `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `judgement_and_decision/007-investigate-before-judging-major-decisions.md`
+- `judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
 
 Purpose:
 - how to distinguish tools from goals
 - how to reduce internal cognitive noise before major decisions
 - how to keep criticism, fairness, and action from degenerating into self-sabotage
 - how to investigate reality before making large life judgements
+- how to see through labels and judge life choices by real survival structure
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

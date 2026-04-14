@@ -51,6 +51,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/007-investigate-before-judging-major-decisions.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 
 ### 4. inspiration_on_making_money
@@ -60,6 +61,9 @@ Subfolders:
 - `side_hustle_selection/`
 - `monetization_models/`
 - `execution_and_delivery/`
+
+Current contents:
+- `methodology/great_man_inspiration/inspiration_on_making_money/monetization_models/009-classify-side-hustles-by-income-structure.md`
 
 ### 5. inspiration_on_stock_investing
 Reserved for future notes on stock-market investing, market structure, research discipline, risk control, and position management.
@@ -73,6 +77,7 @@ Subfolders:
 
 Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
 
 ### 6. inspiration_on_running_a_company
 Reserved for future notes on leadership, organization design, talent, strategy, and execution.
@@ -85,6 +90,7 @@ Subfolders:
 Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/007-no-investigation-no-organizational-voice.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 

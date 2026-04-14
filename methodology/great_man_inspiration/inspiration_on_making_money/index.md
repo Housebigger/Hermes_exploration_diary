@@ -13,4 +13,5 @@ Important boundary:
 ## Subfolders
 - `side_hustle_selection/`
 - `monetization_models/`
+  - `monetization_models/009-classify-side-hustles-by-income-structure.md`
 - `execution_and_delivery/`

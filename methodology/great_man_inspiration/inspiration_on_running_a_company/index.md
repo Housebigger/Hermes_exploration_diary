@@ -13,6 +13,7 @@ Reserved theme for future notes that translate historical texts into practical m
 ## Current contents
 - `organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
 - `organization_design/007-no-investigation-no-organizational-voice.md`
+- `organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 
@@ -24,3 +25,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how leaders avoid both premature despair and premature full-scale expansion
 - how managers investigate reality before issuing structural judgements and interventions
 - how companies build cash, supply, and operating resilience for long pressure cycles
+- how organizations classify people by real function, incentives, and structural role instead of title alone

@@ -11,7 +11,11 @@ Reserved for future series indexes and overview notes.
 Reserved for notes on market regime judgment, cycle awareness, and structural shifts.
 
 ### research_and_thesis
-Reserved for notes on how investors investigate companies, industries, incentives, and edge sources before forming a thesis.
+- `research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
+
+Purpose:
+- how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
+- how to distinguish durable business quality from story-driven classification errors
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

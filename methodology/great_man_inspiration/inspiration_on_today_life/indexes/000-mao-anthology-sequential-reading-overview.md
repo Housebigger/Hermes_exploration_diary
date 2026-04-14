@@ -43,6 +43,12 @@
   - `../inspiration_on_software_development/iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
   - `../inspiration_on_stock_investing/risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
+- 009《怎样分析农村阶级》
+  - `judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
+  - `../inspiration_on_software_development/user_research_and_requirements/009-segment-users-by-real-behavior-and-interests.md`
+  - `../inspiration_on_running_a_company/organization_design/009-classify-roles-by-real-function-and-incentives.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
+  - `../inspiration_on_making_money/monetization_models/009-classify-side-hustles-by-income-structure.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

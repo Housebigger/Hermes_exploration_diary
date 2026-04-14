@@ -20,11 +20,13 @@ Purpose:
 
 ### user_research_and_requirements
 - `user_research_and_requirements/007-investigation-first-product-discovery.md`
+- `user_research_and_requirements/009-segment-users-by-real-behavior-and-interests.md`
 
 Purpose:
 - how product teams investigate before asserting what users need
 - how to treat discovery as problem-definition work rather than ceremony
 - how to avoid replacing field evidence with templates, opinions, or meeting energy
+- how to segment users by real behavior, incentives, and workflow position instead of surface identity
 
 ### architecture_and_engineering
 Reserved for notes on software architecture, modularity, interfaces, technical choices, and implementation strategy.
