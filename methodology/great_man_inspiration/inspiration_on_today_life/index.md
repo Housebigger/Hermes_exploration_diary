@@ -46,11 +46,13 @@ Purpose:
 
 ### cooperation_and_organization
 - `cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
+- `cooperation_and_organization/011-real-support-comes-from-solving-concrete-problems.md`
 
 Purpose:
 - how to build a core zone under pressure
 - how to reduce internal fragmentation and overextension
 - how to preserve cooperation through fairness, structure, and supply
+- how to win durable support by noticing concrete pain points and solving real problems instead of relying on slogans
 
 ## Writing convention
 

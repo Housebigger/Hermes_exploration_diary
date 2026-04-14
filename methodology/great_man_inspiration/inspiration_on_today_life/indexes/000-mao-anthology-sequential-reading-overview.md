@@ -55,6 +55,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
   - `../inspiration_on_stock_investing/market_structure_and_cycles/010-real-production-before-policy-premium.md`
   - `../inspiration_on_making_money/execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
+- 011《关心群众生活，注意工作方法》
+  - `cooperation_and_organization/011-real-support-comes-from-solving-concrete-problems.md`
+  - `../inspiration_on_software_development/team_process_and_quality/011-user-pain-and-practical-methods-over-slogans.md`
+  - `../inspiration_on_running_a_company/leadership_and_talent/011-win-followership-by-solving-real-problems.md`
+  - `../inspiration_on_making_money/execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
+  - 本轮已评估 stock_investing 角度，但暂未单独成文：该文更强地指向支持形成机制、具体痛点处理与执行方法，而非二级市场研究、仓位或交易纪律。
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

@@ -14,6 +14,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
 - `organization_design/007-no-investigation-no-organizational-voice.md`
 - `organization_design/009-classify-roles-by-real-function-and-incentives.md`
+- `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 - `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`

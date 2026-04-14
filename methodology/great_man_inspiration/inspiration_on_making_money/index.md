@@ -16,3 +16,4 @@ Important boundary:
   - `monetization_models/009-classify-side-hustles-by-income-structure.md`
 - `execution_and_delivery/`
   - `execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
+  - `execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
