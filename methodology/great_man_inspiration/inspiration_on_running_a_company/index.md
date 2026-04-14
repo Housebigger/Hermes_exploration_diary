@@ -12,8 +12,11 @@ Reserved theme for future notes that translate historical texts into practical m
 
 ## Current contents
 - `organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
+- `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 
-## Focus of the current note
+## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
 - how to keep criticism inside mechanisms instead of letting it decay into factional noise
 - how to preserve strategic focus instead of drifting into blind expansion and internal fragmentation
+- how companies build local strongholds first and then expand in waves
+- how leaders avoid both premature despair and premature full-scale expansion

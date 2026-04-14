@@ -29,6 +29,10 @@
   - `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
   - `../inspiration_on_software_development/team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
   - `../inspiration_on_running_a_company/organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
+- 006《星星之火，可以燎原》
+  - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
+  - `../inspiration_on_software_development/product_strategy/006-small-spark-product-wedge-and-wave-expansion.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

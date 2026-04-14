@@ -29,7 +29,12 @@ Purpose:
 - how to keep criticism, fairness, and action from degenerating into self-sabotage
 
 ### long_term_growth
-Reserved for future notes on patience, compounding, capability building, and anti-short-termism.
+- `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
+
+Purpose:
+- how small but real progress compounds under the right conditions
+- how to resist premature despair during low-visibility growth phases
+- how to understand long-term growth as wave-like expansion rather than straight-line acceleration
 
 ### cooperation_and_organization
 - `cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`

@@ -11,7 +11,12 @@ This folder is for software product development beyond embedded coding, especial
 ## Subfolders
 
 ### product_strategy
-Reserved for notes on product positioning, phased strategy, trade-offs, and long-term roadmap judgement.
+- `product_strategy/006-small-spark-product-wedge-and-wave-expansion.md`
+
+Purpose:
+- how to identify a real product wedge before large-scale expansion
+- how to protect small but high-potential demand signals from premature abandonment
+- how to expand by waves instead of spreading thin across too many fronts
 
 ### user_research_and_requirements
 Reserved for notes on investigation, user understanding, requirement discovery, and problem framing.
