@@ -19,7 +19,12 @@ Purpose:
 - how to expand by waves instead of spreading thin across too many fronts
 
 ### user_research_and_requirements
-Reserved for notes on investigation, user understanding, requirement discovery, and problem framing.
+- `user_research_and_requirements/007-investigation-first-product-discovery.md`
+
+Purpose:
+- how product teams investigate before asserting what users need
+- how to treat discovery as problem-definition work rather than ceremony
+- how to avoid replacing field evidence with templates, opinions, or meeting energy
 
 ### architecture_and_engineering
 Reserved for notes on software architecture, modularity, interfaces, technical choices, and implementation strategy.

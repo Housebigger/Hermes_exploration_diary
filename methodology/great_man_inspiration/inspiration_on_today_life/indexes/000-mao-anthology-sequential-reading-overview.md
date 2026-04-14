@@ -33,6 +33,11 @@
   - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
   - `../inspiration_on_software_development/product_strategy/006-small-spark-product-wedge-and-wave-expansion.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
+- 007《反对本本主义》
+  - `judgement_and_decision/007-investigate-before-judging-major-decisions.md`
+  - `../inspiration_on_software_development/user_research_and_requirements/007-investigation-first-product-discovery.md`
+  - `../inspiration_on_running_a_company/organization_design/007-no-investigation-no-organizational-voice.md`
+  - `../inspiration_on_embedded_coding/debugging_and_fieldwork/004-against-book-worship-driver-development.md`（已有关联主题笔记）
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
