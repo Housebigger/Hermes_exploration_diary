@@ -27,7 +27,12 @@ Reserved for future notes on structure judgement, contradiction analysis, and de
 Reserved for future notes on patience, compounding, capability building, and anti-short-termism.
 
 ### cooperation_and_organization
-Reserved for future notes on family, community, teams, trust networks, and collaboration.
+- `cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
+
+Purpose:
+- how to build a core zone under pressure
+- how to reduce internal fragmentation and overextension
+- how to preserve cooperation through fairness, structure, and supply
 
 ## Writing convention
 
