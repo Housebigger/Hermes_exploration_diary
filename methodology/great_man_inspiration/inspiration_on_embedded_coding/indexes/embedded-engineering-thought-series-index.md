@@ -18,7 +18,7 @@
 ### 1. 从《论持久战》看长周期嵌入式软件工程的方法论启示
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/2026-04-14-embedded-software-lessons-from-on-protracted-war.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/001-on-protracted-war-long-cycle-embedded-software.md`
 
 核心主题：
 - 反对工程中的“亡国论”和“速胜论”
@@ -30,7 +30,7 @@
 ### 2. 从《实践论》看嵌入式调试中的“知行闭环”
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/2026-04-14-embedded-debugging-lessons-from-on-practice.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
 
 核心主题：
 - 调试中的教条主义与经验主义
@@ -41,7 +41,7 @@
 ### 3. 从《矛盾论》看复杂固件系统的主次矛盾与故障排序
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/2026-04-14-firmware-fault-ordering-lessons-from-on-contradiction.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/system_analysis_and_architecture/003-on-contradiction-firmware-fault-ordering.md`
 
 核心主题：
 - 不要孤立、静止地看待复杂固件问题
@@ -52,7 +52,7 @@
 ### 4. 从《反对本本主义》看驱动开发中的资料主义与实机主义
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/2026-04-14-driver-development-lessons-from-against-book-worship.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/debugging_and_fieldwork/004-against-book-worship-driver-development.md`
 
 核心主题：
 - 为什么驱动开发最容易陷入资料主义
@@ -63,7 +63,7 @@
 ### 5. 从《改造我们的学习》看工程团队的知识沉淀与技术复盘
 
 文件：
-`methodology/great_man_inspiration/inspiration_on_embedded_coding/2026-04-14-engineering-knowledge-retrospective-lessons-from-rectify-learning.md`
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md`
 
 核心主题：
 - 为什么工程团队最常见的问题不是没人干活，而是干完没留下

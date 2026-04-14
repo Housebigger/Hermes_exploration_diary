@@ -2,6 +2,10 @@
 
 This section organizes methodology notes inspired by major historical thinkers and texts.
 
+Start with:
+- `index.md`
+- `structure-and-writing-conventions.md`
+
 Current theme folders:
 - `inspiration_on_embedded_coding/`: engineering and embedded-software methodology notes
 - `inspiration_on_today_living/`: present-day life lessons for ordinary people

@@ -2,10 +2,12 @@
 
 Theme: translate major historical texts into modern embedded-software and engineering methodology.
 
-Current contents:
-- embedded engineering thought series index
-- notes from 《论持久战》
-- notes from 《实践论》
-- notes from 《矛盾论》
-- notes from 《反对本本主义》
-- notes from 《改造我们的学习》
+Start with:
+- `index.md`
+- `indexes/embedded-engineering-thought-series-index.md`
+
+Current contents are organized by practical engineering use:
+- `engineering_strategy/`
+- `debugging_and_fieldwork/`
+- `system_analysis_and_architecture/`
+- `team_process_and_knowledge/`
