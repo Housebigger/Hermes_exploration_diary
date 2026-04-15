@@ -15,3 +15,4 @@ Current seed note:
 - `002-stage-summary-015-016-from-broad-alliance-to-organized-mass-participation.md`
 - `003-stage-summary-017-018-from-entering-reality-to-grasping-the-main-contradiction.md`
 - `004-stage-summary-019-from-correct-direction-to-systemic-mobilization.md`
+- `005-stage-summary-019-020-from-correct-direction-to-full-mobilization.md`

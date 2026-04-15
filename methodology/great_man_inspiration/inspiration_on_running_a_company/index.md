@@ -26,6 +26,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/013-preserve-core-strength-and-concentrate-for-the-decisive-company-battle.md`
 - `strategy_and_execution/018-find-the-main-operating-contradiction-before-fighting-on-all-fronts.md`
 - `strategy_and_execution/019-dont-just-set-strategy-build-the-org-and-resource-system.md`
+- `strategy_and_execution/020-company-crucial-phases-need-full-mobilization-not-partial-effort.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -46,3 +47,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how leadership teams judge claimed turnarounds by whether old harmful policies stop, real resources move, and key actors pay the cost of changing course
 - how management identifies the current main operating contradiction instead of letting every department escalate its own pressure into the company's top priority
 - how companies match a correct strategy with organization, resource, alliance, governance, and cash arrangements so the business does not confuse right direction with automatic execution
+- how companies fight crucial phases by fully mobilizing people, budgets, structure, partners, and one-line realities instead of relying on half-converted strategy and a few exhausted core operators
