@@ -11,3 +11,4 @@ Suggested contents:
 
 Current seed note:
 - `000-mao-study-execution-wisdom.md`
+- `001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`

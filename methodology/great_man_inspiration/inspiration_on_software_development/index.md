@@ -52,12 +52,14 @@ Purpose:
 ### team_process_and_quality
 - `team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
 - `team_process_and_quality/011-user-pain-and-practical-methods-over-slogans.md`
+- `team_process_and_quality/014-dont-confuse-stakeholder-statements-with-execution-support.md`
 
 Purpose:
 - how software teams keep goals, discussion, and execution aligned
 - how to turn criticism into structured feedback instead of private resentment
 - how to resist evidence-light decision making and blind expansion
 - how to connect strategy with concrete user pain and execution methods instead of slogan-heavy delivery pressure
+- how product teams verify stakeholder support by looking for real resource movement, removed blockers, and continuous follow-through instead of trusting meeting statements alone
 
 ### indexes
 Reserved for future series indexes and overview notes.

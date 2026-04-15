@@ -31,6 +31,7 @@ Purpose:
 - `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
+- `judgement_and_decision/014-judge-turning-points-by-actions-not-statements.md`
 
 Purpose:
 - how to distinguish tools from goals
@@ -38,6 +39,7 @@ Purpose:
 - how to keep criticism, fairness, and action from degenerating into self-sabotage
 - how to investigate reality before making large life judgements
 - how to see through labels and judge life choices by real survival structure
+- how to judge whether people and institutions have really changed by watching whether old harmful actions stop and new promises are continuously fulfilled
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

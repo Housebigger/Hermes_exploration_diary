@@ -73,6 +73,16 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/013-preserve-core-strength-and-concentrate-for-the-decisive-company-battle.md`
   - `../inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
   - `../inspiration_on_making_money/execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
+- 014《关于蒋介石声明的声明》
+  - `judgement_and_decision/014-judge-turning-points-by-actions-not-statements.md`
+  - `../inspiration_on_software_development/team_process_and_quality/014-dont-confuse-stakeholder-statements-with-execution-support.md`
+  - `../inspiration_on_running_a_company/leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
+  - `../inspiration_on_making_money/execution_and_delivery/014-verify-support-in-side-hustle-collaboration-by-actions.md`
+
+## 阶段补充小结（自动追加）
+
+- 012—014 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

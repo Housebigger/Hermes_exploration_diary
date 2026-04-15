@@ -36,6 +36,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/architecture_and_engineering/010-build-core-capacity-and-healthy-ecosystem.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/011-user-pain-and-practical-methods-over-slogans.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/014-dont-confuse-stakeholder-statements-with-execution-support.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/013-dont-turn-every-front-into-trench-war-concentrate-for-decisive-software-battles.md`
 
@@ -60,6 +61,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/014-judge-turning-points-by-actions-not-statements.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/013-dont-defend-every-inch-preserve-strength-and-counterattack-when-odds-shift.md`
 
@@ -76,6 +78,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/014-verify-support-in-side-hustle-collaboration-by-actions.md`
 
 ### 5. inspiration_on_stock_investing
 Reserved for future notes on stock-market investing, market structure, research discipline, risk control, and position management.
@@ -91,6 +94,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/market_structure_and_cycles/010-real-production-before-policy-premium.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 
 ### 6. inspiration_on_running_a_company
@@ -106,6 +110,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/007-no-investigation-no-organizational-voice.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/011-win-followership-by-solving-real-problems.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`

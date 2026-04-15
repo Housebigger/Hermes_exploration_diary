@@ -16,10 +16,12 @@ Purpose:
 
 ### research_and_thesis
 - `research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
+- `research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
 
 Purpose:
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
 - how to distinguish durable business quality from story-driven classification errors
+- how investors verify management turnarounds by watching for stopped old mistakes, changed capital allocation, and continuous action rather than trusting guidance alone
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

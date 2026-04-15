@@ -15,6 +15,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `organization_design/007-no-investigation-no-organizational-voice.md`
 - `organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
+- `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 - `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
@@ -34,3 +35,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies re-identify the main external threat, widen the alliance structure, and avoid self-isolating strategy during major regime change
 - how companies preserve core cash, talent, and operating strength instead of trying to defend every front at once
 - how leadership contracts secondary lines and concentrates force on one decisive operating battle when under pressure
+- how leadership teams judge claimed turnarounds by whether old harmful policies stop, real resources move, and key actors pay the cost of changing course

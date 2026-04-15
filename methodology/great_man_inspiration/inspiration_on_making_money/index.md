@@ -19,4 +19,5 @@ Important boundary:
 - `execution_and_delivery/`
   - `execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
   - `execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
-- `execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
+  - `execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
+  - `execution_and_delivery/014-verify-support-in-side-hustle-collaboration-by-actions.md`
