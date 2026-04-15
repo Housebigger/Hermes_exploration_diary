@@ -91,6 +91,12 @@
   - `../inspiration_on_running_a_company/organization_design/016-turn-strategy-into-a-shared-company-mission.md`
   - `../inspiration_on_stock_investing/research_and_thesis/016-build-a-research-system-not-just-a-right-opinion.md`
   - `../inspiration_on_making_money/execution_and_delivery/016-organize-support-so-your-side-hustle-can-scale.md`
+- 017《实践论》
+  - `long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`
+  - `../inspiration_on_software_development/user_research_and_requirements/017-product-understanding-grows-from-research-build-verify-repeat.md`
+  - `../inspiration_on_running_a_company/organization_design/017-organizational-understanding-grows-from-field-contact-and-revalidation.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/017-investment-understanding-grows-from-contact-testing-and-revision.md`
+  - `../inspiration_on_making_money/execution_and_delivery/017-side-hustle-understanding-grows-through-doing-and-revising.md`
 
 ## 阶段补充小结（自动追加）
 

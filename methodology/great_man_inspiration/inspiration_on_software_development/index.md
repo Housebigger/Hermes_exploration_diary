@@ -23,12 +23,14 @@ Purpose:
 ### user_research_and_requirements
 - `user_research_and_requirements/007-investigation-first-product-discovery.md`
 - `user_research_and_requirements/009-segment-users-by-real-behavior-and-interests.md`
+- `user_research_and_requirements/017-product-understanding-grows-from-research-build-verify-repeat.md`
 
 Purpose:
 - how product teams investigate before asserting what users need
 - how to treat discovery as problem-definition work rather than ceremony
 - how to avoid replacing field evidence with templates, opinions, or meeting energy
 - how to segment users by real behavior, incentives, and workflow position instead of surface identity
+- how software teams turn raw user and system contact into verified product understanding through repeated research, build, feedback, and revalidation loops
 
 ### architecture_and_engineering
 - `architecture_and_engineering/010-build-core-capacity-and-healthy-ecosystem.md`

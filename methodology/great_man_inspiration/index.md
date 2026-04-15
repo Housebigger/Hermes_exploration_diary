@@ -39,6 +39,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/014-dont-confuse-stakeholder-statements-with-execution-support.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/015-broaden-support-without-surrendering-product-judgment.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/016-turn-correct-product-direction-into-shared-execution-structure.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/017-product-understanding-grows-from-research-build-verify-repeat.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/013-dont-turn-every-front-into-trench-war-concentrate-for-decisive-software-battles.md`
 
@@ -67,10 +68,11 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/014-judge-turning-points-by-actions-not-statements.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/013-dont-defend-every-inch-preserve-strength-and-counterattack-when-odds-shift.md`
 
 ### 4. inspiration_on_making_money
-Reserved for future notes on side-income building, side projects, monetization paths, and practical副业赚钱 strategy.
+Translate historical texts into practical methods for side-income building, monetization, delivery, and sustainable副业赚钱 systems.
 
 Subfolders:
 - `side_hustle_selection/`
@@ -85,9 +87,10 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/014-verify-support-in-side-hustle-collaboration-by-actions.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/015-broaden-support-without-losing-your-side-hustle-direction.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/016-organize-support-so-your-side-hustle-can-scale.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/017-side-hustle-understanding-grows-through-doing-and-revising.md`
 
 ### 5. inspiration_on_stock_investing
-Reserved for future notes on stock-market investing, market structure, research discipline, risk control, and position management.
+Translate historical texts into practical methods for stock-market investing, market observation, thesis research, risk control, and execution discipline.
 
 Subfolders:
 - `indexes/`
@@ -103,10 +106,11 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/015-broaden-your-information-front-without-losing-research-independence.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/016-build-a-research-system-not-just-a-right-opinion.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/017-investment-understanding-grows-from-contact-testing-and-revision.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 
 ### 6. inspiration_on_running_a_company
-Reserved for future notes on leadership, organization design, talent, strategy, and execution.
+Translate historical texts into practical methods for leadership, organization design, talent systems, strategy, and execution.
 
 Subfolders:
 - `organization_design/`
@@ -119,6 +123,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/015-broaden-the-alliance-without-giving-away-the-strategic-core.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/016-turn-strategy-into-a-shared-company-mission.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/017-organizational-understanding-grows-from-field-contact-and-revalidation.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
