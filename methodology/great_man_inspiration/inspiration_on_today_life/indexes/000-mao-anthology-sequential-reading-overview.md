@@ -79,6 +79,12 @@
   - `../inspiration_on_running_a_company/leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
   - `../inspiration_on_stock_investing/research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
   - `../inspiration_on_making_money/execution_and_delivery/014-verify-support-in-side-hustle-collaboration-by-actions.md`
+- 015《中国共产党在抗日时期的任务》
+  - `cooperation_and_organization/015-build-a-broad-front-without-losing-your-own-direction.md`
+  - `../inspiration_on_software_development/team_process_and_quality/015-broaden-support-without-surrendering-product-judgment.md`
+  - `../inspiration_on_running_a_company/organization_design/015-broaden-the-alliance-without-giving-away-the-strategic-core.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/015-broaden-your-information-front-without-losing-research-independence.md`
+  - `../inspiration_on_making_money/execution_and_delivery/015-broaden-support-without-losing-your-side-hustle-direction.md`
 
 ## 阶段补充小结（自动追加）
 

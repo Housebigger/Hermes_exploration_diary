@@ -53,6 +53,7 @@ Purpose:
 - `cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
 - `cooperation_and_organization/011-real-support-comes-from-solving-concrete-problems.md`
 - `cooperation_and_organization/012-dont-fight-every-difference-build-a-broad-alliance.md`
+- `cooperation_and_organization/015-build-a-broad-front-without-losing-your-own-direction.md`
 
 Purpose:
 - how to build a core zone under pressure
@@ -60,6 +61,7 @@ Purpose:
 - how to preserve cooperation through fairness, structure, and supply
 - how to win durable support by noticing concrete pain points and solving real problems instead of relying on slogans
 - how to identify the main threat, avoid fighting every difference at once, and build a broad alliance in times of major change
+- how to broaden your real support network in a more complex stage without surrendering your own direction, boundaries, and independent judgement
 
 ## Writing convention
 
