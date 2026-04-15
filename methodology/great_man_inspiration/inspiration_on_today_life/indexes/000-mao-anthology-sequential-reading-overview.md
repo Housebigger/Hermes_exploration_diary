@@ -61,6 +61,12 @@
   - `../inspiration_on_running_a_company/leadership_and_talent/011-win-followership-by-solving-real-problems.md`
   - `../inspiration_on_making_money/execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
   - 本轮已评估 stock_investing 角度，但暂未单独成文：该文更强地指向支持形成机制、具体痛点处理与执行方法，而非二级市场研究、仓位或交易纪律。
+- 012《论反对日本帝国主义的策略》
+  - `cooperation_and_organization/012-dont-fight-every-difference-build-a-broad-alliance.md`
+  - `../inspiration_on_software_development/product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/012-realign-the-company-around-the-main-threat-and-broad-alliance.md`
+  - 本轮已评估 making_money 角度，但暂未单独成文：该文更强地指向主要威胁识别、联盟组织和阶段性联合，不如前几篇那样直接落到副业变现结构或成交执行。
+  - 本轮已评估 stock_investing 角度，但暂未单独成文：其启示更偏宏观主敌判断与联盟策略，不如已有投资笔记那样直接落到公司研究、仓位纪律或市场执行框架。
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

@@ -18,6 +18,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 - `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
+- `strategy_and_execution/012-realign-the-company-around-the-main-threat-and-broad-alliance.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -29,3 +30,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies build cash, supply, and operating resilience for long pressure cycles
 - how organizations classify people by real function, incentives, and structural role instead of title alone
 - how companies build an operating system that balances production, trade flow, partner structure, finance, and discipline
+- how companies re-identify the main external threat, widen the alliance structure, and avoid self-isolating strategy during major regime change

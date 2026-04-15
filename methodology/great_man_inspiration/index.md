@@ -36,6 +36,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/architecture_and_engineering/010-build-core-capacity-and-healthy-ecosystem.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/011-user-pain-and-practical-methods-over-slogans.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
 
 ### 3. inspiration_on_today_life
 Extract practical life lessons for ordinary people living through large-scale change.
@@ -54,6 +55,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/010-build-a-self-sustaining-life-economy.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/011-real-support-comes-from-solving-concrete-problems.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/012-dont-fight-every-difference-build-a-broad-alliance.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
@@ -103,6 +105,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/012-realign-the-company-around-the-main-threat-and-broad-alliance.md`
 
 ## Naming convention
 
