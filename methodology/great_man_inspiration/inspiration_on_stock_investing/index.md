@@ -18,12 +18,14 @@ Purpose:
 - `research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
 - `research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
 - `research_and_thesis/015-broaden-your-information-front-without-losing-research-independence.md`
+- `research_and_thesis/016-build-a-research-system-not-just-a-right-opinion.md`
 
 Purpose:
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
 - how to distinguish durable business quality from story-driven classification errors
 - how investors verify management turnarounds by watching for stopped old mistakes, changed capital allocation, and continuous action rather than trusting guidance alone
 - how investors widen their information network and validation surface in a new market stage without surrendering their own research framework, risk boundaries, and independent judgement
+- how investors upgrade a fragile single-point insight into a durable research system by organizing broader information inputs, dissent, validation loops, and disciplined review
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

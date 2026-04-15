@@ -85,10 +85,17 @@
   - `../inspiration_on_running_a_company/organization_design/015-broaden-the-alliance-without-giving-away-the-strategic-core.md`
   - `../inspiration_on_stock_investing/research_and_thesis/015-broaden-your-information-front-without-losing-research-independence.md`
   - `../inspiration_on_making_money/execution_and_delivery/015-broaden-support-without-losing-your-side-hustle-direction.md`
+- 016《为争取千百万群众进入抗日民族统一战线而斗争》
+  - `cooperation_and_organization/016-dont-just-be-right-turn-direction-into-organized-support.md`
+  - `../inspiration_on_software_development/team_process_and_quality/016-turn-correct-product-direction-into-shared-execution-structure.md`
+  - `../inspiration_on_running_a_company/organization_design/016-turn-strategy-into-a-shared-company-mission.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/016-build-a-research-system-not-just-a-right-opinion.md`
+  - `../inspiration_on_making_money/execution_and_delivery/016-organize-support-so-your-side-hustle-can-scale.md`
 
 ## 阶段补充小结（自动追加）
 
 - 012—014 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`
+- 015—016 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/002-stage-summary-015-016-from-broad-alliance-to-organized-mass-participation.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

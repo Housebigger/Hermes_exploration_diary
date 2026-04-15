@@ -15,6 +15,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `organization_design/007-no-investigation-no-organizational-voice.md`
 - `organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `organization_design/015-broaden-the-alliance-without-giving-away-the-strategic-core.md`
+- `organization_design/016-turn-strategy-into-a-shared-company-mission.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
@@ -35,6 +36,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies build an operating system that balances production, trade flow, partner structure, finance, and discipline
 - how companies re-identify the main external threat, widen the alliance structure, and avoid self-isolating strategy during major regime change
 - how organizations broaden internal and external alliance structures in a more complex stage without giving away strategic direction, independence, and leadership responsibility
+- how companies turn a top-level strategic direction into a shared organizational mission by opening real feedback channels, developing backbone operators, and organizing broad participation
 - how companies preserve core cash, talent, and operating strength instead of trying to defend every front at once
 - how leadership contracts secondary lines and concentrates force on one decisive operating battle when under pressure
 - how leadership teams judge claimed turnarounds by whether old harmful policies stop, real resources move, and key actors pay the cost of changing course

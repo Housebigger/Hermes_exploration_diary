@@ -54,6 +54,7 @@ Purpose:
 - `cooperation_and_organization/011-real-support-comes-from-solving-concrete-problems.md`
 - `cooperation_and_organization/012-dont-fight-every-difference-build-a-broad-alliance.md`
 - `cooperation_and_organization/015-build-a-broad-front-without-losing-your-own-direction.md`
+- `cooperation_and_organization/016-dont-just-be-right-turn-direction-into-organized-support.md`
 
 Purpose:
 - how to build a core zone under pressure
@@ -62,6 +63,7 @@ Purpose:
 - how to win durable support by noticing concrete pain points and solving real problems instead of relying on slogans
 - how to identify the main threat, avoid fighting every difference at once, and build a broad alliance in times of major change
 - how to broaden your real support network in a more complex stage without surrendering your own direction, boundaries, and independent judgement
+- how to turn a correct personal direction into organized support by making room for real feedback, developing reliable backbone people, and converting private clarity into shared participation
 
 ## Writing convention
 

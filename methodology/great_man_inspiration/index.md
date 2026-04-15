@@ -38,6 +38,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/011-user-pain-and-practical-methods-over-slogans.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/014-dont-confuse-stakeholder-statements-with-execution-support.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/015-broaden-support-without-surrendering-product-judgment.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/016-turn-correct-product-direction-into-shared-execution-structure.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/013-dont-turn-every-front-into-trench-war-concentrate-for-decisive-software-battles.md`
 
@@ -60,6 +61,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/011-real-support-comes-from-solving-concrete-problems.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/012-dont-fight-every-difference-build-a-broad-alliance.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/015-build-a-broad-front-without-losing-your-own-direction.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/016-dont-just-be-right-turn-direction-into-organized-support.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
@@ -82,6 +84,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/014-verify-support-in-side-hustle-collaboration-by-actions.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/015-broaden-support-without-losing-your-side-hustle-direction.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/016-organize-support-so-your-side-hustle-can-scale.md`
 
 ### 5. inspiration_on_stock_investing
 Reserved for future notes on stock-market investing, market structure, research discipline, risk control, and position management.
@@ -99,6 +102,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/015-broaden-your-information-front-without-losing-research-independence.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/016-build-a-research-system-not-just-a-right-opinion.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 
 ### 6. inspiration_on_running_a_company
@@ -114,6 +118,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/007-no-investigation-no-organizational-voice.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/009-classify-roles-by-real-function-and-incentives.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/015-broaden-the-alliance-without-giving-away-the-strategic-core.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/016-turn-strategy-into-a-shared-company-mission.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
