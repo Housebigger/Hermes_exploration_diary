@@ -21,6 +21,7 @@ Purpose:
 - `research_and_thesis/016-build-a-research-system-not-just-a-right-opinion.md`
 - `research_and_thesis/017-investment-understanding-grows-from-contact-testing-and-revision.md`
 - `research_and_thesis/018-find-the-main-market-contradiction-before-weighting-every-variable-equally.md`
+- `research_and_thesis/019-dont-just-be-right-build-the-research-and-positioning-system.md`
 
 Purpose:
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
@@ -30,6 +31,7 @@ Purpose:
 - how investors upgrade a fragile single-point insight into a durable research system by organizing broader information inputs, dissent, validation loops, and disciplined review
 - how investors develop more reliable conviction by moving from raw company and market contact to explicit hypotheses, then letting time and reality repeatedly validate or break them
 - how investors identify the current main market contradiction driving price formation instead of treating every variable as equally decisive in every phase
+- how investors match a correct thesis with research process, information flow, cash planning, position structure, and verification rules instead of assuming directional correctness is enough
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

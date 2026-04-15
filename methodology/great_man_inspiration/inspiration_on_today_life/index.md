@@ -59,6 +59,7 @@ Purpose:
 - `cooperation_and_organization/012-dont-fight-every-difference-build-a-broad-alliance.md`
 - `cooperation_and_organization/015-build-a-broad-front-without-losing-your-own-direction.md`
 - `cooperation_and_organization/016-dont-just-be-right-turn-direction-into-organized-support.md`
+- `cooperation_and_organization/019-dont-just-know-the-right-direction-build-the-people-and-methods.md`
 
 Purpose:
 - how to build a core zone under pressure
@@ -68,6 +69,7 @@ Purpose:
 - how to identify the main threat, avoid fighting every difference at once, and build a broad alliance in times of major change
 - how to broaden your real support network in a more complex stage without surrendering your own direction, boundaries, and independent judgement
 - how to turn a correct personal direction into organized support by making room for real feedback, developing reliable backbone people, and converting private clarity into shared participation
+- how to turn a personally correct direction under pressure into a real support-and-method system by mobilizing people, money, information, rules, and cooperation instead of stopping at inner clarity
 
 ## Writing convention
 

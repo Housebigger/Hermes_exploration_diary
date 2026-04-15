@@ -103,12 +103,19 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/018-find-the-main-operating-contradiction-before-fighting-on-all-fronts.md`
   - `../inspiration_on_stock_investing/research_and_thesis/018-find-the-main-market-contradiction-before-weighting-every-variable-equally.md`
   - `../inspiration_on_making_money/execution_and_delivery/018-find-the-main-monetization-contradiction-before-fixing-everything-at-once.md`
+- 019《反对日本进攻的方针、办法和前途》
+  - `cooperation_and_organization/019-dont-just-know-the-right-direction-build-the-people-and-methods.md`
+  - `../inspiration_on_software_development/team_process_and_quality/019-dont-just-agree-on-strategy-mobilize-people-process-and-resources.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/019-dont-just-set-strategy-build-the-org-and-resource-system.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/019-dont-just-be-right-build-the-research-and-positioning-system.md`
+  - `../inspiration_on_making_money/execution_and_delivery/019-dont-just-have-the-right-side-hustle-direction-build-the-system.md`
 
 ## 阶段补充小结（自动追加）
 
 - 012—014 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`
 - 015—016 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/002-stage-summary-015-016-from-broad-alliance-to-organized-mass-participation.md`
 - 017—018 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/003-stage-summary-017-018-from-entering-reality-to-grasping-the-main-contradiction.md`
+- 019 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/004-stage-summary-019-from-correct-direction-to-systemic-mobilization.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
