@@ -14,6 +14,10 @@ This repository stores Hermes research notes, methodology writeups, and supporti
   - `inspiration_on_stock_investing/`
   - `inspiration_on_running_a_company/`
 - `supportive_materials/`
+  - `README.md`
+  - `system_settings/`
+  - `experience_crystallization/`
+  - `spiritual_growth/`
 
 ## Notes
 
@@ -23,3 +27,4 @@ This repository now uses a theme-first structure so future writing is grouped by
 Start here:
 - `methodology/great_man_inspiration/index.md`
 - `methodology/great_man_inspiration/structure-and-writing-conventions.md`
+- `supportive_materials/README.md`
