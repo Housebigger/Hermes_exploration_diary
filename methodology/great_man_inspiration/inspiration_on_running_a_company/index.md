@@ -24,6 +24,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
 - `strategy_and_execution/012-realign-the-company-around-the-main-threat-and-broad-alliance.md`
 - `strategy_and_execution/013-preserve-core-strength-and-concentrate-for-the-decisive-company-battle.md`
+- `strategy_and_execution/018-find-the-main-operating-contradiction-before-fighting-on-all-fronts.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -42,3 +43,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies preserve core cash, talent, and operating strength instead of trying to defend every front at once
 - how leadership contracts secondary lines and concentrates force on one decisive operating battle when under pressure
 - how leadership teams judge claimed turnarounds by whether old harmful policies stop, real resources move, and key actors pay the cost of changing course
+- how management identifies the current main operating contradiction instead of letting every department escalate its own pressure into the company's top priority

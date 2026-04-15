@@ -24,9 +24,11 @@ Important boundary:
 - `execution_and_delivery/015-broaden-support-without-losing-your-side-hustle-direction.md`
 - `execution_and_delivery/016-organize-support-so-your-side-hustle-can-scale.md`
 - `execution_and_delivery/017-side-hustle-understanding-grows-through-doing-and-revising.md`
+- `execution_and_delivery/018-find-the-main-monetization-contradiction-before-fixing-everything-at-once.md`
 
 Additional focus:
 - how side-project operators widen channels, collaborators, and support networks when entering a larger stage
 - how to borrow outside help without losing your positioning, delivery boundaries, and long-term side-hustle direction
 - how side-hustle builders turn a personally clear direction into a shared operating system with partners, feedback, backbone nodes, and organized support
 - how side-hustle builders improve their business understanding through repeated cycles of selling, delivering, reviewing, and revising instead of relying on brain-only planning
+- how side-hustle builders identify the current monetization bottleneck before trying to fix positioning, traffic, sales, delivery, and scaling all at once

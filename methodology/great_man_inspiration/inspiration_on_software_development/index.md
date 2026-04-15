@@ -13,12 +13,14 @@ This folder is for software product development beyond embedded coding, especial
 ### product_strategy
 - `product_strategy/006-small-spark-product-wedge-and-wave-expansion.md`
 - `product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
+- `product_strategy/018-find-the-main-product-contradiction-before-escalating-everything.md`
 
 Purpose:
 - how to identify a real product wedge before large-scale expansion
 - how to protect small but high-potential demand signals from premature abandonment
 - how to expand by waves instead of spreading thin across too many fronts
 - how to identify the main product battle, re-map allies and opponents, and organize a broader coalition around the core strategic objective
+- how software teams identify the current main contradiction in product delivery and stop escalating every visible problem to the same strategic level
 
 ### user_research_and_requirements
 - `user_research_and_requirements/007-investigation-first-product-discovery.md`

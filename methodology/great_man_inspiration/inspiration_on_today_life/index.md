@@ -32,6 +32,7 @@ Purpose:
 - `judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
 - `judgement_and_decision/014-judge-turning-points-by-actions-not-statements.md`
+- `judgement_and_decision/018-find-the-main-contradiction-before-spending-your-life-force.md`
 
 Purpose:
 - how to distinguish tools from goals
@@ -40,6 +41,7 @@ Purpose:
 - how to investigate reality before making large life judgements
 - how to see through labels and judge life choices by real survival structure
 - how to judge whether people and institutions have really changed by watching whether old harmful actions stop and new promises are continuously fulfilled
+- how to identify the current main contradiction in a messy life situation instead of treating every pressure, conflict, and desire as the same-level emergency
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

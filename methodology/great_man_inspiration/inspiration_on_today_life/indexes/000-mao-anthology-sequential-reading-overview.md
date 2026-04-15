@@ -97,11 +97,18 @@
   - `../inspiration_on_running_a_company/organization_design/017-organizational-understanding-grows-from-field-contact-and-revalidation.md`
   - `../inspiration_on_stock_investing/research_and_thesis/017-investment-understanding-grows-from-contact-testing-and-revision.md`
   - `../inspiration_on_making_money/execution_and_delivery/017-side-hustle-understanding-grows-through-doing-and-revising.md`
+- 018《矛盾论》
+  - `judgement_and_decision/018-find-the-main-contradiction-before-spending-your-life-force.md`
+  - `../inspiration_on_software_development/product_strategy/018-find-the-main-product-contradiction-before-escalating-everything.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/018-find-the-main-operating-contradiction-before-fighting-on-all-fronts.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/018-find-the-main-market-contradiction-before-weighting-every-variable-equally.md`
+  - `../inspiration_on_making_money/execution_and_delivery/018-find-the-main-monetization-contradiction-before-fixing-everything-at-once.md`
 
 ## 阶段补充小结（自动追加）
 
 - 012—014 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`
 - 015—016 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/002-stage-summary-015-016-from-broad-alliance-to-organized-mass-participation.md`
+- 017—018 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/003-stage-summary-017-018-from-entering-reality-to-grasping-the-main-contradiction.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
