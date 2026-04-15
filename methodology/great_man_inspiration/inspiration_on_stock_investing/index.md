@@ -23,11 +23,14 @@ Purpose:
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
+- `risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 
 Purpose:
 - how investors keep cash, resilience, and optionality before making large bets
 - how to avoid being forced out by broken supply lines, leverage, or emotional overextension
 - how to treat position management as survival first, return second
+- how investors preserve capital and flexibility instead of defending every position during adverse market conditions
+- how to wait for the odds to shift and then concentrate on a few high-conviction, high-payoff opportunities
 
 ### trading_and_execution
 Reserved for notes on execution rhythm, scaling in and out, and avoiding impulsive action.

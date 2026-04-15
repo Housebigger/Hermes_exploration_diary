@@ -19,6 +19,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/008-economic-foundation-and-war-chest-discipline.md`
 - `strategy_and_execution/010-operating-system-balance-production-trade-and-discipline.md`
 - `strategy_and_execution/012-realign-the-company-around-the-main-threat-and-broad-alliance.md`
+- `strategy_and_execution/013-preserve-core-strength-and-concentrate-for-the-decisive-company-battle.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -31,3 +32,5 @@ Reserved theme for future notes that translate historical texts into practical m
 - how organizations classify people by real function, incentives, and structural role instead of title alone
 - how companies build an operating system that balances production, trade flow, partner structure, finance, and discipline
 - how companies re-identify the main external threat, widen the alliance structure, and avoid self-isolating strategy during major regime change
+- how companies preserve core cash, talent, and operating strength instead of trying to defend every front at once
+- how leadership contracts secondary lines and concentrates force on one decisive operating battle when under pressure

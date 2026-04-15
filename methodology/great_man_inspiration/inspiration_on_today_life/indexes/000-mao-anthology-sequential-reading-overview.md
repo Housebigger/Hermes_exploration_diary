@@ -67,6 +67,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/012-realign-the-company-around-the-main-threat-and-broad-alliance.md`
   - 本轮已评估 making_money 角度，但暂未单独成文：该文更强地指向主要威胁识别、联盟组织和阶段性联合，不如前几篇那样直接落到副业变现结构或成交执行。
   - 本轮已评估 stock_investing 角度，但暂未单独成文：其启示更偏宏观主敌判断与联盟策略，不如已有投资笔记那样直接落到公司研究、仓位纪律或市场执行框架。
+- 013《中国革命战争的战略问题》
+  - `survival_strategy/013-dont-defend-every-inch-preserve-strength-and-counterattack-when-odds-shift.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/013-dont-turn-every-front-into-trench-war-concentrate-for-decisive-software-battles.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/013-preserve-core-strength-and-concentrate-for-the-decisive-company-battle.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
+  - `../inspiration_on_making_money/execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

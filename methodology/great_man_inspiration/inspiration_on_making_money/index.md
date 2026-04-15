@@ -5,6 +5,8 @@ Reserved theme for future notes that translate historical texts into practical m
 - monetization model design
 - execution rhythm for part-time projects
 - income diversification through active earning systems
+- how side-project operators preserve cashflow and delivery capacity instead of stretching themselves across every possible line
+- how to contract secondary projects and concentrate resources on the one most likely to break through
 
 Important boundary:
 - this folder is for creating new income through副业、项目、服务、内容或技能变现
@@ -17,3 +19,4 @@ Important boundary:
 - `execution_and_delivery/`
   - `execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
   - `execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
+- `execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
