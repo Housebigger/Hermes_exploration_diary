@@ -50,12 +50,14 @@ Purpose:
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`
+- `long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
 
 Purpose:
 - how small but real progress compounds under the right conditions
 - how to resist premature despair during low-visibility growth phases
 - how to understand long-term growth as wave-like expansion rather than straight-line acceleration
 - how to treat understanding itself as a compounding capability that deepens through action, reflection, correction, and renewed action rather than through detached overthinking
+- how ordinary people face major life battles without falling into defeatism or quick-win fantasy, and instead use stage judgment, long positioning, local quick wins, and sustained mobilization to turn weak situations into winnable ones
 
 ### cooperation_and_organization
 - `cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`

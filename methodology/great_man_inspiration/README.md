@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 27 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 116 |
-| 顺序学习已连续覆盖范围 | 001—026 |
-| 顺序覆盖段标题核对结果 | 26/26 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 28 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 121 |
+| 顺序学习已连续覆盖范围 | 001—027 |
+| 顺序覆盖段标题核对结果 | 27/27 与 marxists.org 标题一致 |
 | 顺序概览是否连续 | 是 |
-| 顺序主线的下一篇 | 027《论持久战》 |
+| 顺序主线的下一篇 | 028《中国共产党在民族战争中的地位》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `026《抗日游击战争的战略问题》`。
-- 在 `001—026` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `027《论持久战》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `027《论持久战》`。
+- 在 `001—027` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `028《中国共产党在民族战争中的地位》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm
 
 ### 2.2 这次补齐后，顺序主线开头缺口已被补上
 
@@ -40,8 +40,8 @@
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—026 顺序主线已建立关联        [##########################]
-027 论持久战                         [NEXT]
+001—027 顺序主线已建立关联        [###########################]
+028 中国共产党在民族战争中的地位    [NEXT]
 060 改造我们的学习                  [EXTRA] 非顺序拓展
 ```
 
@@ -88,6 +88,7 @@
 | 024 | 《上海太原失陷以后抗日战争的形势和任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371112.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/024-dont-mistake-partial-turning-points-for-a-real-life-system-upgrade.md) | [SD](./inspiration_on_software_development/team_process_and_quality/024-dont-mistake-partial-org-alignment-for-a-real-project-turnaround.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/024-dont-mistake-partial-operating-relief-for-a-real-company-turnaround.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/024-dont-mistake-partial-market-repair-for-a-real-thesis-turnaround.md) | [MM](./inspiration_on_making_money/execution_and_delivery/024-dont-mistake-partial-side-hustle-momentum-for-a-real-system-takeoff.md) | — | 5 |
 | 025 | 《陕甘宁边区政府第八路军后方留守处布告》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/025-dont-let-chaotic-helpers-reopen-your-hard-won-life-order.md) | [SD](./inspiration_on_software_development/team_process_and_quality/025-dont-let-unbounded-support-disrupt-your-engineering-order.md) | [RC](./inspiration_on_running_a_company/organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md) | [MM](./inspiration_on_making_money/execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md) | — | 5 |
 | 026 | 《抗日游击战争的战略问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm) | [TL](./inspiration_on_today_life/survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md) | [MM](./inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md) | — | 5 |
+| 027 | 《论持久战》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | [TL](./inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md) | [MM](./inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md) | — | 5 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | 1 |
 
 ## 5. 已建立关联的原文标题清单（按真实顺序）
@@ -337,6 +338,16 @@
   - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
 
+### 027《论持久战》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 9 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm
+- 已关联 inspiration 文件数：5
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -346,6 +357,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`027《论持久战》`
+- 如果要从当前边界继续向下推进，下一篇应是：`028《中国共产党在民族战争中的地位》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

@@ -163,6 +163,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
   - `../inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
   - `../inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
+- 027《论持久战》
+  - `long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
+  - `../inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -177,6 +183,7 @@
 - 022—024 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/009-stage-summary-022-024-from-formal-cooperation-to-real-participation-and-independent-position-in-transition.md`
 - 023—025 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/010-stage-summary-023-025-from-broader-participation-and-independent-position-to-boundary-governance-and-anti-disruption.md`
 - 024—026 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/011-stage-summary-024-026-from-transition-discipline-and-boundary-governance-to-base-area-building-and-flexible-growth.md`
+- 025—027 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/012-stage-summary-025-027-from-boundary-governance-and-base-area-building-to-stage-judgment-and-protracted-positioning.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

@@ -50,6 +50,7 @@ Purpose:
 - `risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 - `risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
 - `risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
+- `risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
 
 Purpose:
 - how investors keep cash, resilience, and optionality before making large bets
@@ -59,6 +60,7 @@ Purpose:
 - how to wait for the odds to shift and then concentrate on a few high-conviction, high-payoff opportunities
 - how investors protect hard-won research and risk discipline during market repair periods by refusing to let soft bullish signals, external endorsements, or relationship narratives reopen old bad habits
 - how investors build real investment base areas under long pressure, preserve principal and flexibility, and gradually upgrade scattered survival trades into stronger system-level capability
+- how investors avoid both market defeatism and quick-win fantasy by using stage judgment, long positioning, local fast decisions, and continued verification to turn weak situations into winnable ones
 
 ### trading_and_execution
 - `trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`

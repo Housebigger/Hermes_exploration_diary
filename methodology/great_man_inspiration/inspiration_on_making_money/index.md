@@ -35,6 +35,7 @@ Important boundary:
 - `execution_and_delivery/024-dont-mistake-partial-side-hustle-momentum-for-a-real-system-takeoff.md`
 - `execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
 - `execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
+- `execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
@@ -52,3 +53,4 @@ Additional focus:
 - how side-hustle builders navigate dangerous transition periods by not mistaking partial momentum for a real system takeoff, while widening true participation and preserving enough ownership, standards, and boundary control to stop the old system from pulling the business back
 - how side-hustle builders protect hard-won pricing, delivery, and cooperation order during growth periods by welcoming useful introductions without letting favors, informal coordination, or familiar pressure reopen boundaryless operations
 - how side-hustle builders build real operating base areas under long pressure, preserve cashflow and delivery mobility, and gradually turn scattered hustle survival into stronger main-force business capacity
+- how side-hustle builders avoid both early give-up and overnight-takeoff fantasy by using stage judgment, long positioning, local decisive pushes, and sustained support-system building to turn weak positions into winnable ones

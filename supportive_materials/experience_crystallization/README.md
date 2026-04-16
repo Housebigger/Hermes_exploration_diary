@@ -22,3 +22,4 @@ Current seed note:
 - `009-stage-summary-022-024-from-formal-cooperation-to-real-participation-and-independent-position-in-transition.md`
 - `010-stage-summary-023-025-from-broader-participation-and-independent-position-to-boundary-governance-and-anti-disruption.md`
 - `011-stage-summary-024-026-from-transition-discipline-and-boundary-governance-to-base-area-building-and-flexible-growth.md`
+- `012-stage-summary-025-027-from-boundary-governance-and-base-area-building-to-stage-judgment-and-protracted-positioning.md`

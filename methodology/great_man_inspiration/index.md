@@ -49,6 +49,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/025-dont-let-unbounded-support-disrupt-your-engineering-order.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/023-dont-run-key-projects-as-a-passive-defensive-war.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/017-product-understanding-grows-from-research-build-verify-repeat.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/018-find-the-main-product-contradiction-before-escalating-everything.md`
@@ -90,6 +91,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/018-find-the-main-contradiction-before-spending-your-life-force.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/013-dont-defend-every-inch-preserve-strength-and-counterattack-when-odds-shift.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md`
 
@@ -121,6 +123,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/024-dont-mistake-partial-side-hustle-momentum-for-a-real-system-takeoff.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
 
 ### 5. inspiration_on_stock_investing
 Translate historical texts into practical methods for stock-market investing, market observation, thesis research, risk control, and execution discipline.
@@ -152,6 +155,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
 
 ### 6. inspiration_on_running_a_company
 Translate historical texts into practical methods for leadership, organization design, talent systems, strategy, and execution.
@@ -186,6 +190,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/023-dont-run-company-critical-phases-as-a-passive-defensive-war.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/024-dont-mistake-partial-operating-relief-for-a-real-company-turnaround.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md`
 
 ## Naming convention
 

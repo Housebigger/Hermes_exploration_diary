@@ -49,6 +49,7 @@ Purpose:
 - `iteration_and_delivery/013-dont-turn-every-front-into-trench-war-concentrate-for-decisive-software-battles.md`
 - `iteration_and_delivery/023-dont-run-key-projects-as-a-passive-defensive-war.md`
 - `iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
+- `iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
 
 Purpose:
 - how teams build resource flow and supply lines for sustained delivery
@@ -58,6 +59,7 @@ Purpose:
 - how teams actively contract secondary fronts, preserve core capacity, and mass effort for decisive product-engineering wins
 - how software teams stop running key projects as passive defensive wars by organizing broader role participation, upgrading governance, and actively attacking decisive bottlenecks instead of only patching problems
 - how software teams build real engineering base areas under long pressure, preserve delivery mobility, and gradually upgrade scattered firefighting into stronger main-force capability
+- how software teams avoid both project defeatism and quick-win fantasy by using stage judgment, long positioning, local fast battles, and sustained mobilization to turn weak projects into winnable ones
 
 ### team_process_and_quality
 - `team_process_and_quality/002-dont-treat-bottom-up-product-change-as-mere-chaos.md`
