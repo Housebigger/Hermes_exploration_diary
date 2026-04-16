@@ -127,6 +127,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/022-dont-confuse-top-level-reconciliation-with-operating-turnaround.md`
   - `../inspiration_on_stock_investing/research_and_thesis/022-dont-confuse-sentiment-recovery-with-structural-turnaround.md`
   - `../inspiration_on_making_money/execution_and_delivery/022-dont-confuse-willing-collaboration-with-a-real-side-hustle-system.md`
+- 023《和英国记者贝特兰的谈话》
+  - `cooperation_and_organization/023-dont-fight-major-life-battles-as-a-one-person-defensive-war.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/023-dont-run-key-projects-as-a-passive-defensive-war.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/023-dont-run-company-critical-phases-as-a-passive-defensive-war.md`
+  - `../inspiration_on_stock_investing/trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
+  - `../inspiration_on_making_money/execution_and_delivery/023-dont-run-side-hustle-growth-as-a-passive-defensive-war.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -137,6 +143,7 @@
 - 019—020 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/005-stage-summary-019-020-from-correct-direction-to-full-mobilization.md`
 - 020—021 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/006-stage-summary-020-021-from-full-mobilization-to-opposing-internal-liberalism.md`
 - 020—022 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/007-stage-summary-020-022-from-mobilization-and-anti-softness-to-real-system-turnaround.md`
+- 020—023 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/008-stage-summary-020-023-from-full-mobilization-to-mass-participation-and-active-initiative.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

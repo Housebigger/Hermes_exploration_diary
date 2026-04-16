@@ -63,6 +63,7 @@ Purpose:
 - `cooperation_and_organization/020-major-life-battles-need-full-mobilization-not-half-measures.md`
 - `cooperation_and_organization/021-dont-trade-principled-feedback-for-surface-harmony.md`
 - `cooperation_and_organization/022-dont-stop-at-formal-cooperation-build-shared-rules-and-real-support.md`
+- `cooperation_and_organization/023-dont-fight-major-life-battles-as-a-one-person-defensive-war.md`
 
 Purpose:
 - how to build a core zone under pressure
@@ -76,6 +77,7 @@ Purpose:
 - how to stop fighting major life battles with half-measures by fully mobilizing support, structure, budget, information, and everyday living conditions around the real main task
 - how to keep long-term relationships and small collectives from rotting under surface harmony by bringing problems back to principles, direct feedback, and repairable rules in time
 - how to avoid mistaking formal reconciliation or surface cooperation for a real life-system turnaround by widening participation, establishing shared rules, and replacing old low-trust ways of working together
+- how to stop fighting major life battles as a one-person defensive war by turning support into real participation, upgrading old life systems, and shifting from passive damage control to active initiative
 
 ## Writing convention
 

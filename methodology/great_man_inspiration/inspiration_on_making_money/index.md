@@ -29,6 +29,7 @@ Important boundary:
 - `execution_and_delivery/020-side-hustle-critical-phases-need-full-system-mobilization.md`
 - `execution_and_delivery/021-dont-trade-surface-harmony-for-sustainable-side-hustle-collaboration.md`
 - `execution_and_delivery/022-dont-confuse-willing-collaboration-with-a-real-side-hustle-system.md`
+- `execution_and_delivery/023-dont-run-side-hustle-growth-as-a-passive-defensive-war.md`
 
 Additional focus:
 - how side-hustle builders widen channels, collaborators, and support networks when entering a larger stage
@@ -40,3 +41,4 @@ Additional focus:
 - how side-hustle builders stop fighting crucial growth phases with a half-built system by fully mobilizing traffic, delivery, customer feedback, partner roles, cash buffer, and execution discipline
 - how side-hustle builders prevent long-term collaboration and delivery from rotting under surface harmony by pushing problems back into explicit boundaries, feedback, and rule repair
 - how side-hustle builders avoid mistaking willing collaboration and warmer relationships for a real business takeoff by widening real participation, clarifying shared rules, and replacing ad-hoc old ways of working
+- how side-hustle builders stop running growth as a passive defensive war by turning support into real participation, upgrading outdated operating habits, and actively attacking the most leverageable breakthrough point

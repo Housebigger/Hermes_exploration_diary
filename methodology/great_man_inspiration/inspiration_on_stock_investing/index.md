@@ -51,7 +51,12 @@ Purpose:
 - how to wait for the odds to shift and then concentrate on a few high-conviction, high-payoff opportunities
 
 ### trading_and_execution
-Reserved for notes on execution rhythm, scaling in and out, and avoiding impulsive action.
+- `trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
+
+Purpose:
+- how investors avoid mistaking small early participation and warming signals for broad-based opportunity confirmation
+- how to shift from passive defensive holding into active concentration on the highest-odds attack points when conditions turn favorable
+- how to preserve execution flexibility instead of turning every position into a rigid defensive line
 
 ## Writing convention
 

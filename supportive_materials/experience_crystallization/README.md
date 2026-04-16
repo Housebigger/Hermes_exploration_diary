@@ -17,3 +17,5 @@ Current seed note:
 - `004-stage-summary-019-from-correct-direction-to-systemic-mobilization.md`
 - `005-stage-summary-019-020-from-correct-direction-to-full-mobilization.md`
 - `006-stage-summary-020-021-from-full-mobilization-to-opposing-internal-liberalism.md`
+- `007-stage-summary-020-022-from-mobilization-and-anti-softness-to-real-system-turnaround.md`
+- `008-stage-summary-020-023-from-full-mobilization-to-mass-participation-and-active-initiative.md`
