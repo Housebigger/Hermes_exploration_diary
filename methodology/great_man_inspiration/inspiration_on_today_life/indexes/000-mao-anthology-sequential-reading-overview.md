@@ -121,6 +121,12 @@
   - `../inspiration_on_running_a_company/organization_design/021-dont-trade-surface-harmony-for-organizational-truth.md`
   - `../inspiration_on_stock_investing/research_and_thesis/021-dont-trade-research-truth-for-surface-consensus.md`
   - `../inspiration_on_making_money/execution_and_delivery/021-dont-trade-surface-harmony-for-sustainable-side-hustle-collaboration.md`
+- 022《国共合作成立后的迫切任务》
+  - `cooperation_and_organization/022-dont-stop-at-formal-cooperation-build-shared-rules-and-real-support.md`
+  - `../inspiration_on_software_development/team_process_and_quality/022-dont-confuse-cross-functional-alignment-with-real-execution-capacity.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/022-dont-confuse-top-level-reconciliation-with-operating-turnaround.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/022-dont-confuse-sentiment-recovery-with-structural-turnaround.md`
+  - `../inspiration_on_making_money/execution_and_delivery/022-dont-confuse-willing-collaboration-with-a-real-side-hustle-system.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -130,6 +136,7 @@
 - 019 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/004-stage-summary-019-from-correct-direction-to-systemic-mobilization.md`
 - 019—020 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/005-stage-summary-019-020-from-correct-direction-to-full-mobilization.md`
 - 020—021 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/006-stage-summary-020-021-from-full-mobilization-to-opposing-internal-liberalism.md`
+- 020—022 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/007-stage-summary-020-022-from-mobilization-and-anti-softness-to-real-system-turnaround.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

@@ -24,6 +24,7 @@ Purpose:
 - `research_and_thesis/019-dont-just-be-right-build-the-research-and-positioning-system.md`
 - `research_and_thesis/020-big-investment-opportunities-need-full-preparation.md`
 - `research_and_thesis/021-dont-trade-research-truth-for-surface-consensus.md`
+- `research_and_thesis/022-dont-confuse-sentiment-recovery-with-structural-turnaround.md`
 
 Purpose:
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
@@ -36,6 +37,7 @@ Purpose:
 - how investors match a correct thesis with research process, information flow, cash planning, position structure, and verification rules instead of assuming directional correctness is enough
 - how investors stop approaching major opportunities with half-preparation by fully mobilizing research depth, cash reserves, position structure, verification, and governance rules
 - how investors stop letting holdings, group mood, and personal face distort research by forcing bad signals and thesis cracks back into explicit verification and action rules
+- how investors avoid mistaking sentiment recovery and top-level reassurance for structural turnaround by checking whether broader participants, new validation frameworks, and real mechanism changes have appeared
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

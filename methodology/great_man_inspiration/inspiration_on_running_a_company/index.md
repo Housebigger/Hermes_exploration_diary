@@ -28,6 +28,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/018-find-the-main-operating-contradiction-before-fighting-on-all-fronts.md`
 - `strategy_and_execution/019-dont-just-set-strategy-build-the-org-and-resource-system.md`
 - `strategy_and_execution/020-company-crucial-phases-need-full-mobilization-not-partial-effort.md`
+- `strategy_and_execution/022-dont-confuse-top-level-reconciliation-with-operating-turnaround.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -50,3 +51,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how management identifies the current main operating contradiction instead of letting every department escalate its own pressure into the company's top priority
 - how companies match a correct strategy with organization, resource, alliance, governance, and cash arrangements so the business does not confuse right direction with automatic execution
 - how companies fight crucial phases by fully mobilizing people, budgets, structure, partners, and one-line realities instead of relying on half-converted strategy and a few exhausted core operators
+- how companies avoid mistaking top-level reconciliation, investor calm, or partner détente for a real operating turnaround by building a shared governing framework, widening real participation, and retiring outdated systems
