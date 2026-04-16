@@ -31,6 +31,7 @@ Important boundary:
 - `execution_and_delivery/022-dont-confuse-willing-collaboration-with-a-real-side-hustle-system.md`
 - `execution_and_delivery/023-dont-run-side-hustle-growth-as-a-passive-defensive-war.md`
 - `execution_and_delivery/024-dont-mistake-partial-side-hustle-momentum-for-a-real-system-takeoff.md`
+- `execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
 
 Additional focus:
 - how side-hustle builders widen channels, collaborators, and support networks when entering a larger stage
@@ -44,3 +45,4 @@ Additional focus:
 - how side-hustle builders avoid mistaking willing collaboration and warmer relationships for a real business takeoff by widening real participation, clarifying shared rules, and replacing ad-hoc old ways of working
 - how side-hustle builders stop running growth as a passive defensive war by turning support into real participation, upgrading outdated operating habits, and actively attacking the most leverageable breakthrough point
 - how side-hustle builders navigate dangerous transition periods by not mistaking partial momentum for a real system takeoff, while widening true participation and preserving enough ownership, standards, and boundary control to stop the old system from pulling the business back
+- how side-hustle builders protect hard-won pricing, delivery, and cooperation order during growth periods by welcoming useful introductions without letting favors, informal coordination, or familiar pressure reopen boundaryless operations

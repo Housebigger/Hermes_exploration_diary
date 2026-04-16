@@ -139,6 +139,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/024-dont-mistake-partial-operating-relief-for-a-real-company-turnaround.md`
   - `../inspiration_on_stock_investing/research_and_thesis/024-dont-mistake-partial-market-repair-for-a-real-thesis-turnaround.md`
   - `../inspiration_on_making_money/execution_and_delivery/024-dont-mistake-partial-side-hustle-momentum-for-a-real-system-takeoff.md`
+- 025《陕甘宁边区政府第八路军后方留守处布告》
+  - `cooperation_and_organization/025-dont-let-chaotic-helpers-reopen-your-hard-won-life-order.md`
+  - `../inspiration_on_software_development/team_process_and_quality/025-dont-let-unbounded-support-disrupt-your-engineering-order.md`
+  - `../inspiration_on_running_a_company/organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
+  - `../inspiration_on_making_money/execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -151,6 +157,7 @@
 - 020—022 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/007-stage-summary-020-022-from-mobilization-and-anti-softness-to-real-system-turnaround.md`
 - 020—023 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/008-stage-summary-020-023-from-full-mobilization-to-mass-participation-and-active-initiative.md`
 - 022—024 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/009-stage-summary-022-024-from-formal-cooperation-to-real-participation-and-independent-position-in-transition.md`
+- 023—025 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/010-stage-summary-023-025-from-broader-participation-and-independent-position-to-boundary-governance-and-anti-disruption.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

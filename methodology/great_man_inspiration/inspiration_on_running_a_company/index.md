@@ -18,6 +18,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `organization_design/016-turn-strategy-into-a-shared-company-mission.md`
 - `organization_design/017-organizational-understanding-grows-from-field-contact-and-revalidation.md`
 - `organization_design/021-dont-trade-surface-harmony-for-organizational-truth.md`
+- `organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
@@ -56,3 +57,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies avoid mistaking top-level reconciliation, investor calm, or partner détente for a real operating turnaround by building a shared governing framework, widening real participation, and retiring outdated systems
 - how companies stop running critical phases as passive defensive wars by widening real participation, replacing outdated operating systems, and concentrating force on proactive attacks against decisive business bottlenecks
 - how companies navigate dangerous transition periods by not mistaking partial operating relief for a real turnaround, while widening true participation and preserving enough independent organizational position to stop the old system from reabsorbing the attempted transformation
+- how companies protect hard-won operating order during coordination periods by welcoming real support while preventing unauthorized intervention, reopened old privileges, and boundaryless cooperation from dragging the business back into chaos

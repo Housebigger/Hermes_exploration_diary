@@ -65,6 +65,7 @@ Purpose:
 - `cooperation_and_organization/022-dont-stop-at-formal-cooperation-build-shared-rules-and-real-support.md`
 - `cooperation_and_organization/023-dont-fight-major-life-battles-as-a-one-person-defensive-war.md`
 - `cooperation_and_organization/024-dont-mistake-partial-turning-points-for-a-real-life-system-upgrade.md`
+- `cooperation_and_organization/025-dont-let-chaotic-helpers-reopen-your-hard-won-life-order.md`
 
 Purpose:
 - how to build a core zone under pressure
@@ -80,6 +81,7 @@ Purpose:
 - how to avoid mistaking formal reconciliation or surface cooperation for a real life-system turnaround by widening participation, establishing shared rules, and replacing old low-trust ways of working together
 - how to stop fighting major life battles as a one-person defensive war by turning support into real participation, upgrading old life systems, and shifting from passive damage control to active initiative
 - how ordinary people navigate dangerous transition periods by not mistaking partial turning points for a real life-system upgrade, while both widening real participation and preserving enough independent position to keep the new direction from being absorbed by the old system
+- how ordinary people protect hard-won life order during cooperation periods by welcoming real help without allowing chaotic helpers, emotional pressure, or boundaryless intervention to reopen old disorder
 
 ## Writing convention
 
