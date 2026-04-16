@@ -61,6 +61,7 @@ Purpose:
 - `cooperation_and_organization/016-dont-just-be-right-turn-direction-into-organized-support.md`
 - `cooperation_and_organization/019-dont-just-know-the-right-direction-build-the-people-and-methods.md`
 - `cooperation_and_organization/020-major-life-battles-need-full-mobilization-not-half-measures.md`
+- `cooperation_and_organization/021-dont-trade-principled-feedback-for-surface-harmony.md`
 
 Purpose:
 - how to build a core zone under pressure
@@ -72,6 +73,7 @@ Purpose:
 - how to turn a correct personal direction into organized support by making room for real feedback, developing reliable backbone people, and converting private clarity into shared participation
 - how to turn a personally correct direction under pressure into a real support-and-method system by mobilizing people, money, information, rules, and cooperation instead of stopping at inner clarity
 - how to stop fighting major life battles with half-measures by fully mobilizing support, structure, budget, information, and everyday living conditions around the real main task
+- how to keep long-term relationships and small collectives from rotting under surface harmony by bringing problems back to principles, direct feedback, and repairable rules in time
 
 ## Writing convention
 

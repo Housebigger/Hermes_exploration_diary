@@ -16,3 +16,4 @@ Current seed note:
 - `003-stage-summary-017-018-from-entering-reality-to-grasping-the-main-contradiction.md`
 - `004-stage-summary-019-from-correct-direction-to-systemic-mobilization.md`
 - `005-stage-summary-019-020-from-correct-direction-to-full-mobilization.md`
+- `006-stage-summary-020-021-from-full-mobilization-to-opposing-internal-liberalism.md`

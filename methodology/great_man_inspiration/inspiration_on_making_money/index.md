@@ -27,6 +27,7 @@ Important boundary:
 - `execution_and_delivery/018-find-the-main-monetization-contradiction-before-fixing-everything-at-once.md`
 - `execution_and_delivery/019-dont-just-have-the-right-side-hustle-direction-build-the-system.md`
 - `execution_and_delivery/020-side-hustle-critical-phases-need-full-system-mobilization.md`
+- `execution_and_delivery/021-dont-trade-surface-harmony-for-sustainable-side-hustle-collaboration.md`
 
 Additional focus:
 - how side-hustle builders widen channels, collaborators, and support networks when entering a larger stage
@@ -36,3 +37,4 @@ Additional focus:
 - how side-hustle builders identify the current monetization bottleneck before trying to fix positioning, traffic, sales, delivery, and scaling all at once
 - how side-hustle builders turn a correct direction into a working income system by organizing traffic, delivery, partner roles, customer feedback, cash reserves, and execution rules
 - how side-hustle builders stop fighting crucial growth phases with a half-built system by fully mobilizing traffic, delivery, customer feedback, partner roles, cash buffer, and execution discipline
+- how side-hustle builders prevent long-term collaboration and delivery from rotting under surface harmony by pushing problems back into explicit boundaries, feedback, and rule repair

@@ -23,6 +23,7 @@ Purpose:
 - `research_and_thesis/018-find-the-main-market-contradiction-before-weighting-every-variable-equally.md`
 - `research_and_thesis/019-dont-just-be-right-build-the-research-and-positioning-system.md`
 - `research_and_thesis/020-big-investment-opportunities-need-full-preparation.md`
+- `research_and_thesis/021-dont-trade-research-truth-for-surface-consensus.md`
 
 Purpose:
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
@@ -34,6 +35,7 @@ Purpose:
 - how investors identify the current main market contradiction driving price formation instead of treating every variable as equally decisive in every phase
 - how investors match a correct thesis with research process, information flow, cash planning, position structure, and verification rules instead of assuming directional correctness is enough
 - how investors stop approaching major opportunities with half-preparation by fully mobilizing research depth, cash reserves, position structure, verification, and governance rules
+- how investors stop letting holdings, group mood, and personal face distort research by forcing bad signals and thesis cracks back into explicit verification and action rules
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

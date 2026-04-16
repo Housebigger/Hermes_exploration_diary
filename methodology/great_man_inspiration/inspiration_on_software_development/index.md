@@ -61,6 +61,7 @@ Purpose:
 - `team_process_and_quality/016-turn-correct-product-direction-into-shared-execution-structure.md`
 - `team_process_and_quality/019-dont-just-agree-on-strategy-mobilize-people-process-and-resources.md`
 - `team_process_and_quality/020-key-product-battles-need-full-organizational-mobilization.md`
+- `team_process_and_quality/021-dont-trade-surface-harmony-for-team-truth-and-discipline.md`
 
 Purpose:
 - how software teams keep goals, discussion, and execution aligned
@@ -72,6 +73,7 @@ Purpose:
 - how software teams convert a correct product-engineering direction into a shared execution structure through real participation, backbone development, and sustained organizational translation work
 - how software teams translate strategic correctness into a full execution system through real resource movement, user-feedback mobilization, governance upgrades, and cross-team coordination rather than stopping at verbal alignment
 - how software teams stop fighting key product battles with partial coordination by fully mobilizing cross-functional forces, governance changes, one-line feedback, and delivery conditions around the true main front
+- how software teams prevent slow internal decay by pulling disagreement, bad signals, and accountability gaps back into explicit mechanisms instead of letting surface harmony and private resentment run the organization
 
 ### indexes
 Reserved for future series indexes and overview notes.

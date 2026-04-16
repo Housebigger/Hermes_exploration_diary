@@ -41,6 +41,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/016-turn-correct-product-direction-into-shared-execution-structure.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/019-dont-just-agree-on-strategy-mobilize-people-process-and-resources.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/020-key-product-battles-need-full-organizational-mobilization.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/021-dont-trade-surface-harmony-for-team-truth-and-discipline.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/017-product-understanding-grows-from-research-build-verify-repeat.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/012-broaden-the-alliance-around-the-main-product-battle.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/018-find-the-main-product-contradiction-before-escalating-everything.md`
@@ -68,6 +69,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/016-dont-just-be-right-turn-direction-into-organized-support.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/019-dont-just-know-the-right-direction-build-the-people-and-methods.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/020-major-life-battles-need-full-mobilization-not-half-measures.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/021-dont-trade-principled-feedback-for-surface-harmony.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
@@ -97,6 +99,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/018-find-the-main-monetization-contradiction-before-fixing-everything-at-once.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/019-dont-just-have-the-right-side-hustle-direction-build-the-system.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/020-side-hustle-critical-phases-need-full-system-mobilization.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/021-dont-trade-surface-harmony-for-sustainable-side-hustle-collaboration.md`
 
 ### 5. inspiration_on_stock_investing
 Translate historical texts into practical methods for stock-market investing, market observation, thesis research, risk control, and execution discipline.
@@ -119,6 +122,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/018-find-the-main-market-contradiction-before-weighting-every-variable-equally.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/019-dont-just-be-right-build-the-research-and-positioning-system.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/020-big-investment-opportunities-need-full-preparation.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/021-dont-trade-research-truth-for-surface-consensus.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 
 ### 6. inspiration_on_running_a_company
@@ -136,6 +140,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/015-broaden-the-alliance-without-giving-away-the-strategic-core.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/016-turn-strategy-into-a-shared-company-mission.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/017-organizational-understanding-grows-from-field-contact-and-revalidation.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/021-dont-trade-surface-harmony-for-organizational-truth.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`

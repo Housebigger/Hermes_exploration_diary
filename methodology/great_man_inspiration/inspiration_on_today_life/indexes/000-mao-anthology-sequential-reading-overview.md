@@ -115,6 +115,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/020-company-crucial-phases-need-full-mobilization-not-partial-effort.md`
   - `../inspiration_on_stock_investing/research_and_thesis/020-big-investment-opportunities-need-full-preparation.md`
   - `../inspiration_on_making_money/execution_and_delivery/020-side-hustle-critical-phases-need-full-system-mobilization.md`
+- 021《反对自由主义》
+  - `cooperation_and_organization/021-dont-trade-principled-feedback-for-surface-harmony.md`
+  - `../inspiration_on_software_development/team_process_and_quality/021-dont-trade-surface-harmony-for-team-truth-and-discipline.md`
+  - `../inspiration_on_running_a_company/organization_design/021-dont-trade-surface-harmony-for-organizational-truth.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/021-dont-trade-research-truth-for-surface-consensus.md`
+  - `../inspiration_on_making_money/execution_and_delivery/021-dont-trade-surface-harmony-for-sustainable-side-hustle-collaboration.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -123,6 +129,7 @@
 - 017—018 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/003-stage-summary-017-018-from-entering-reality-to-grasping-the-main-contradiction.md`
 - 019 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/004-stage-summary-019-from-correct-direction-to-systemic-mobilization.md`
 - 019—020 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/005-stage-summary-019-020-from-correct-direction-to-full-mobilization.md`
+- 020—021 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/006-stage-summary-020-021-from-full-mobilization-to-opposing-internal-liberalism.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
