@@ -46,6 +46,7 @@ Purpose:
 - `iteration_and_delivery/008-resource-flow-and-sustained-delivery.md`
 - `iteration_and_delivery/013-dont-turn-every-front-into-trench-war-concentrate-for-decisive-software-battles.md`
 - `iteration_and_delivery/023-dont-run-key-projects-as-a-passive-defensive-war.md`
+- `iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
 
 Purpose:
 - how teams build resource flow and supply lines for sustained delivery
@@ -54,6 +55,7 @@ Purpose:
 - how software teams avoid turning every workstream into a fixed defensive line that drains delivery capacity
 - how teams actively contract secondary fronts, preserve core capacity, and mass effort for decisive product-engineering wins
 - how software teams stop running key projects as passive defensive wars by organizing broader role participation, upgrading governance, and actively attacking decisive bottlenecks instead of only patching problems
+- how software teams build real engineering base areas under long pressure, preserve delivery mobility, and gradually upgrade scattered firefighting into stronger main-force capability
 
 ### team_process_and_quality
 - `team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`

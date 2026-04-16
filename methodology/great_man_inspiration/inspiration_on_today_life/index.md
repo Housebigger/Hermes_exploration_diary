@@ -17,6 +17,7 @@ Purpose:
 - `survival_strategy/008-economic-basics-before-big-moves.md`
 - `survival_strategy/010-build-a-self-sustaining-life-economy.md`
 - `survival_strategy/013-dont-defend-every-inch-preserve-strength-and-counterattack-when-odds-shift.md`
+- `survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md`
 
 Purpose:
 - how ordinary people build footholds
@@ -26,6 +27,7 @@ Purpose:
 - how to turn daily life into a self-sustaining economic system with production, exchange, and reserves
 - how to preserve strength under strong external pressure instead of exhausting yourself defending every front
 - how to retreat, wait for conditions to shift, and concentrate effort on one decisive life battle
+- how ordinary people build a real life base area under long pressure, keep room to move, and gradually grow through active, flexible, planned local wins
 
 ### judgement_and_decision
 - `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`

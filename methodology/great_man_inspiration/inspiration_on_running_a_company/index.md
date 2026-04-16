@@ -32,6 +32,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/022-dont-confuse-top-level-reconciliation-with-operating-turnaround.md`
 - `strategy_and_execution/023-dont-run-company-critical-phases-as-a-passive-defensive-war.md`
 - `strategy_and_execution/024-dont-mistake-partial-operating-relief-for-a-real-company-turnaround.md`
+- `strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -58,3 +59,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies stop running critical phases as passive defensive wars by widening real participation, replacing outdated operating systems, and concentrating force on proactive attacks against decisive business bottlenecks
 - how companies navigate dangerous transition periods by not mistaking partial operating relief for a real turnaround, while widening true participation and preserving enough independent organizational position to stop the old system from reabsorbing the attempted transformation
 - how companies protect hard-won operating order during coordination periods by welcoming real support while preventing unauthorized intervention, reopened old privileges, and boundaryless cooperation from dragging the business back into chaos
+- how companies build real operating base areas under long pressure, preserve cash and organizational mobility, and gradually turn weak-position survival into stronger main-force business capacity

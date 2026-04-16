@@ -145,6 +145,12 @@
   - `../inspiration_on_running_a_company/organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md`
   - `../inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
   - `../inspiration_on_making_money/execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
+- 026《抗日游击战争的战略问题》
+  - `survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
+  - `../inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -158,6 +164,7 @@
 - 020—023 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/008-stage-summary-020-023-from-full-mobilization-to-mass-participation-and-active-initiative.md`
 - 022—024 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/009-stage-summary-022-024-from-formal-cooperation-to-real-participation-and-independent-position-in-transition.md`
 - 023—025 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/010-stage-summary-023-025-from-broader-participation-and-independent-position-to-boundary-governance-and-anti-disruption.md`
+- 024—026 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/011-stage-summary-024-026-from-transition-discipline-and-boundary-governance-to-base-area-building-and-flexible-growth.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
