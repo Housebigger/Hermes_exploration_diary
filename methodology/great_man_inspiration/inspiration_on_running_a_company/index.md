@@ -30,6 +30,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/020-company-crucial-phases-need-full-mobilization-not-partial-effort.md`
 - `strategy_and_execution/022-dont-confuse-top-level-reconciliation-with-operating-turnaround.md`
 - `strategy_and_execution/023-dont-run-company-critical-phases-as-a-passive-defensive-war.md`
+- `strategy_and_execution/024-dont-mistake-partial-operating-relief-for-a-real-company-turnaround.md`
 
 ## Focus of the current notes
 - how organizations identify recurring internal cognitive and coordination errors
@@ -54,3 +55,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies fight crucial phases by fully mobilizing people, budgets, structure, partners, and one-line realities instead of relying on half-converted strategy and a few exhausted core operators
 - how companies avoid mistaking top-level reconciliation, investor calm, or partner détente for a real operating turnaround by building a shared governing framework, widening real participation, and retiring outdated systems
 - how companies stop running critical phases as passive defensive wars by widening real participation, replacing outdated operating systems, and concentrating force on proactive attacks against decisive business bottlenecks
+- how companies navigate dangerous transition periods by not mistaking partial operating relief for a real turnaround, while widening true participation and preserving enough independent organizational position to stop the old system from reabsorbing the attempted transformation

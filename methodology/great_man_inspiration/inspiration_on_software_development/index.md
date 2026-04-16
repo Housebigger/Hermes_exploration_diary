@@ -65,6 +65,7 @@ Purpose:
 - `team_process_and_quality/020-key-product-battles-need-full-organizational-mobilization.md`
 - `team_process_and_quality/021-dont-trade-surface-harmony-for-team-truth-and-discipline.md`
 - `team_process_and_quality/022-dont-confuse-cross-functional-alignment-with-real-execution-capacity.md`
+- `team_process_and_quality/024-dont-mistake-partial-org-alignment-for-a-real-project-turnaround.md`
 
 Purpose:
 - how software teams keep goals, discussion, and execution aligned
@@ -78,6 +79,7 @@ Purpose:
 - how software teams stop fighting key product battles with partial coordination by fully mobilizing cross-functional forces, governance changes, one-line feedback, and delivery conditions around the true main front
 - how software teams prevent slow internal decay by pulling disagreement, bad signals, and accountability gaps back into explicit mechanisms instead of letting surface harmony and private resentment run the organization
 - how software teams avoid mistaking leadership alignment and cross-functional handshakes for real execution capacity by widening role participation, clarifying shared rules, and replacing old governance bottlenecks
+- how software teams navigate dangerous transition periods by not mistaking partial organizational alignment for a real project turnaround, while widening real participation and preserving the independent judgement, quality lines, and execution positions needed to prevent the old system from reabsorbing the project
 
 ### indexes
 Reserved for future series indexes and overview notes.

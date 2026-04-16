@@ -25,6 +25,7 @@ Purpose:
 - `research_and_thesis/020-big-investment-opportunities-need-full-preparation.md`
 - `research_and_thesis/021-dont-trade-research-truth-for-surface-consensus.md`
 - `research_and_thesis/022-dont-confuse-sentiment-recovery-with-structural-turnaround.md`
+- `research_and_thesis/024-dont-mistake-partial-market-repair-for-a-real-thesis-turnaround.md`
 
 Purpose:
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
@@ -38,6 +39,7 @@ Purpose:
 - how investors stop approaching major opportunities with half-preparation by fully mobilizing research depth, cash reserves, position structure, verification, and governance rules
 - how investors stop letting holdings, group mood, and personal face distort research by forcing bad signals and thesis cracks back into explicit verification and action rules
 - how investors avoid mistaking sentiment recovery and top-level reassurance for structural turnaround by checking whether broader participants, new validation frameworks, and real mechanism changes have appeared
+- how investors navigate dangerous market transition periods by not mistaking partial market repair for a real thesis turnaround, while preserving independent research discipline and watching whether broader participation and mechanism change truly arrive
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
