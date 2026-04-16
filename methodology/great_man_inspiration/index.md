@@ -29,6 +29,8 @@ Subfolders:
 - `indexes/`
 
 Current contents:
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/002-dont-treat-bottom-up-product-change-as-mere-chaos.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/001-dont-segment-product-roles-by-surface-labels.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/product_strategy/006-small-spark-product-wedge-and-wave-expansion.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/007-investigation-first-product-discovery.md`
@@ -64,6 +66,8 @@ Subfolders:
 
 Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/003-red-political-power-foothold-thinking.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/008-economic-basics-before-big-moves.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/010-build-a-self-sustaining-life-economy.md`
@@ -98,6 +102,8 @@ Subfolders:
 - `execution_and_delivery/`
 
 Current contents:
+- `methodology/great_man_inspiration/inspiration_on_making_money/monetization_models/001-dont-judge-side-hustle-opportunities-by-surface-status.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/002-dont-dismiss-new-monetization-order-as-mere-chaos.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/monetization_models/009-classify-side-hustles-by-income-structure.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
@@ -127,6 +133,8 @@ Subfolders:
 - `trading_and_execution/`
 
 Current contents:
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/002-dont-mistake-structural-repricing-for-mere-chaos.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/001-dont-read-companies-by-sector-labels-alone.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/market_structure_and_cycles/010-real-production-before-policy-premium.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
@@ -154,6 +162,8 @@ Subfolders:
 - `strategy_and_execution/`
 
 Current contents:
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/002-dont-treat-bottom-up-correction-as-loss-of-control.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/001-dont-judge-org-allies-by-title-and-posture.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/007-no-investigation-no-organizational-voice.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/009-classify-roles-by-real-function-and-incentives.md`

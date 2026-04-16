@@ -30,6 +30,7 @@ Purpose:
 - how ordinary people build a real life base area under long pressure, keep room to move, and gradually grow through active, flexible, planned local wins
 
 ### judgement_and_decision
+- `judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`
 - `judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
@@ -37,6 +38,7 @@ Purpose:
 - `judgement_and_decision/018-find-the-main-contradiction-before-spending-your-life-force.md`
 
 Purpose:
+- how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
 - how to distinguish tools from goals
 - how to reduce internal cognitive noise before major decisions
 - how to keep criticism, fairness, and action from degenerating into self-sabotage
@@ -56,6 +58,7 @@ Purpose:
 - how to treat understanding itself as a compounding capability that deepens through action, reflection, correction, and renewed action rather than through detached overthinking
 
 ### cooperation_and_organization
+- `cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`
 - `cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md`
 - `cooperation_and_organization/011-real-support-comes-from-solving-concrete-problems.md`
 - `cooperation_and_organization/012-dont-fight-every-difference-build-a-broad-alliance.md`
@@ -70,6 +73,7 @@ Purpose:
 - `cooperation_and_organization/025-dont-let-chaotic-helpers-reopen-your-hard-won-life-order.md`
 
 Purpose:
+- how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
 - how to build a core zone under pressure
 - how to reduce internal fragmentation and overextension
 - how to preserve cooperation through fairness, structure, and supply

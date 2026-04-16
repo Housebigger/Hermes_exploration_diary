@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口是 003—026。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—026。
 - 除了这条顺序主线外，仓库里还有少量“非顺序先写”的拓展条目，例如 `《改造我们的学习》`。
 
 ## 1. 当前覆盖状态总览
@@ -15,10 +15,10 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 25 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 106 |
-| 顺序学习已连续覆盖范围 | 003—026 |
-| 顺序覆盖段标题核对结果 | 24/24 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 27 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 116 |
+| 顺序学习已连续覆盖范围 | 001—026 |
+| 顺序覆盖段标题核对结果 | 26/26 与 marxists.org 标题一致 |
 | 顺序概览是否连续 | 是 |
 | 顺序主线的下一篇 | 027《论持久战》 |
 
@@ -27,24 +27,22 @@
 ### 2.1 顺序主线当前已确认对齐
 
 - 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `026《抗日游击战争的战略问题》`。
-- 在 `003—026` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 在 `001—026` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - 当前下一篇尚未纳入顺序主线的是 `027《论持久战》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm
 
-### 2.2 当前顺序主线之前尚未写入的前两篇
+### 2.2 这次补齐后，顺序主线开头缺口已被补上
 
 | 顺序号 | 原文 | 真实链接 | 当前状态 |
 |---|---|---|---|
-| 001 | 《中国社会各阶级的分析》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm) | 尚未纳入 great_man_inspiration 顺序主线 |
-| 002 | 《湖南农民运动考察报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm) | 尚未纳入 great_man_inspiration 顺序主线 |
+| 001 | 《中国社会各阶级的分析》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm) | 已纳入顺序主线，已建立 5 个主题转译文件 |
+| 002 | 《湖南农民运动考察报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm) | 已纳入顺序主线，已建立 5 个主题转译文件 |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001 中国社会各阶级的分析           [ ]
-002 湖南农民运动考察报告           [ ]
-003—026 顺序主线已建立关联        [########################]
-027 论持久战                           [NEXT]
-060 改造我们的学习                        [EXTRA] 非顺序拓展
+001—026 顺序主线已建立关联        [##########################]
+027 论持久战                         [NEXT]
+060 改造我们的学习                  [EXTRA] 非顺序拓展
 ```
 
 ## 3. 主题缩写图例
@@ -64,6 +62,8 @@
 
 | 顺序号 | 原文 | 真实原文 | TL | SD | RC | SI | MM | EC | 文件数 |
 |---|---|---|---|---|---|---|---|---|---|
+| 001 | 《中国社会各阶级的分析》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/001-dont-misread-allies-by-surface-labels.md) | [SD](./inspiration_on_software_development/user_research_and_requirements/001-dont-segment-product-roles-by-surface-labels.md) | [RC](./inspiration_on_running_a_company/organization_design/001-dont-judge-org-allies-by-title-and-posture.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/001-dont-read-companies-by-sector-labels-alone.md) | [MM](./inspiration_on_making_money/monetization_models/001-dont-judge-side-hustle-opportunities-by-surface-status.md) | — | 5 |
+| 002 | 《湖南农民运动考察报告》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md) | [SD](./inspiration_on_software_development/team_process_and_quality/002-dont-treat-bottom-up-product-change-as-mere-chaos.md) | [RC](./inspiration_on_running_a_company/organization_design/002-dont-treat-bottom-up-correction-as-loss-of-control.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/002-dont-mistake-structural-repricing-for-mere-chaos.md) | [MM](./inspiration_on_making_money/execution_and_delivery/002-dont-dismiss-new-monetization-order-as-mere-chaos.md) | — | 5 |
 | 003 | 《中国的红色政权为什么能够存在？》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281005.htm) | [TL](./inspiration_on_today_life/survival_strategy/003-red-political-power-foothold-thinking.md) | — | — | — | — | — | 1 |
 | 004 | 《井冈山的斗争》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281125.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/004-jinggangshan-struggle-core-zone-and-anti-fragmentation.md) | — | — | — | — | — | 1 |
 | 005 | 《关于纠正党内的错误思想》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192912.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md) | [SD](./inspiration_on_software_development/team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md) | [RC](./inspiration_on_running_a_company/organization_design/005-rectify-internal-cognitive-noise-in-organizations.md) | — | — | — | 3 |
@@ -91,6 +91,26 @@
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | 1 |
 
 ## 5. 已建立关联的原文标题清单（按真实顺序）
+
+### 001《中国社会各阶级的分析》
+- 真实索引位置：第一卷 第一次国内革命战争时期 / 本卷第 1 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm
+- 已关联 inspiration 文件数：5
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/user_research_and_requirements/001-dont-segment-product-roles-by-surface-labels.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/001-dont-judge-org-allies-by-title-and-posture.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/001-dont-read-companies-by-sector-labels-alone.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/monetization_models/001-dont-judge-side-hustle-opportunities-by-surface-status.md`
+
+### 002《湖南农民运动考察报告》
+- 真实索引位置：第一卷 第一次国内革命战争时期 / 本卷第 2 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm
+- 已关联 inspiration 文件数：5
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/002-dont-treat-bottom-up-product-change-as-mere-chaos.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/organization_design/002-dont-treat-bottom-up-correction-as-loss-of-control.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/002-dont-mistake-structural-repricing-for-mere-chaos.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/002-dont-dismiss-new-monetization-order-as-mere-chaos.md`
 
 ### 003《中国的红色政权为什么能够存在？》
 - 真实索引位置：第二次国内革命战争时期 / 本卷第 3 条

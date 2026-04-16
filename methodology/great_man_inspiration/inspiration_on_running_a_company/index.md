@@ -11,6 +11,8 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/`
 
 ## Current contents
+- `organization_design/002-dont-treat-bottom-up-correction-as-loss-of-control.md`
+- `organization_design/001-dont-judge-org-allies-by-title-and-posture.md`
 - `organization_design/005-rectify-internal-cognitive-noise-in-organizations.md`
 - `organization_design/007-no-investigation-no-organizational-voice.md`
 - `organization_design/009-classify-roles-by-real-function-and-incentives.md`
@@ -35,6 +37,8 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
 
 ## Focus of the current notes
+- how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
+- how organizations identify allies, blockers, and swing forces by real incentives, dependency structure, and operating position instead of title and posture alone
 - how organizations identify recurring internal cognitive and coordination errors
 - how to keep criticism inside mechanisms instead of letting it decay into factional noise
 - how to preserve strategic focus instead of drifting into blind expansion and internal fragmentation

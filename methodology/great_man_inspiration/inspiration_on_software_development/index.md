@@ -23,11 +23,13 @@ Purpose:
 - how software teams identify the current main contradiction in product delivery and stop escalating every visible problem to the same strategic level
 
 ### user_research_and_requirements
+- `user_research_and_requirements/001-dont-segment-product-roles-by-surface-labels.md`
 - `user_research_and_requirements/007-investigation-first-product-discovery.md`
 - `user_research_and_requirements/009-segment-users-by-real-behavior-and-interests.md`
 - `user_research_and_requirements/017-product-understanding-grows-from-research-build-verify-repeat.md`
 
 Purpose:
+- how product teams segment users, buyers, blockers, and internal roles by real incentive, power, and workflow position instead of surface title
 - how product teams investigate before asserting what users need
 - how to treat discovery as problem-definition work rather than ceremony
 - how to avoid replacing field evidence with templates, opinions, or meeting energy
@@ -58,6 +60,7 @@ Purpose:
 - how software teams build real engineering base areas under long pressure, preserve delivery mobility, and gradually upgrade scattered firefighting into stronger main-force capability
 
 ### team_process_and_quality
+- `team_process_and_quality/002-dont-treat-bottom-up-product-change-as-mere-chaos.md`
 - `team_process_and_quality/005-rectifying-thought-errors-in-product-teams.md`
 - `team_process_and_quality/011-user-pain-and-practical-methods-over-slogans.md`
 - `team_process_and_quality/014-dont-confuse-stakeholder-statements-with-execution-support.md`
@@ -71,6 +74,7 @@ Purpose:
 - `team_process_and_quality/025-dont-let-unbounded-support-disrupt-your-engineering-order.md`
 
 Purpose:
+- how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
 - how software teams keep goals, discussion, and execution aligned
 - how to turn criticism into structured feedback instead of private resentment
 - how to resist evidence-light decision making and blind expansion

@@ -15,8 +15,10 @@ Important boundary:
 ## Subfolders
 - `side_hustle_selection/`
 - `monetization_models/`
+  - `monetization_models/001-dont-judge-side-hustle-opportunities-by-surface-status.md`
   - `monetization_models/009-classify-side-hustles-by-income-structure.md`
 - `execution_and_delivery/`
+  - `execution_and_delivery/002-dont-dismiss-new-monetization-order-as-mere-chaos.md`
   - `execution_and_delivery/010-side-hustle-needs-production-channels-and-discipline.md`
 - `execution_and_delivery/011-earn-trust-by-solving-real-customer-pain.md`
 - `execution_and_delivery/013-dont-stretch-every-side-project-line-concentrate-on-the-one-you-can-win.md`
@@ -35,6 +37,8 @@ Important boundary:
 - `execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
 
 Additional focus:
+- how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
+- how side-hustle builders separate true paying opportunities from status-heavy but structurally weak pseudo-opportunities by mapping who pays, who benefits, and who only contributes noise
 - how side-hustle builders widen channels, collaborators, and support networks when entering a larger stage
 - how to borrow outside help without losing your positioning, delivery boundaries, and long-term side-hustle direction
 - how side-hustle builders turn a personally clear direction into a shared operating system with partners, feedback, backbone nodes, and organized support

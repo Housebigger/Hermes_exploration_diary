@@ -15,6 +15,8 @@ Purpose:
 - how to separate durable policy benefit from liquidity-only excitement
 
 ### research_and_thesis
+- `research_and_thesis/002-dont-mistake-structural-repricing-for-mere-chaos.md`
+- `research_and_thesis/001-dont-read-companies-by-sector-labels-alone.md`
 - `research_and_thesis/009-classify-businesses-by-cashflow-source-and-control.md`
 - `research_and_thesis/014-verify-management-turnarounds-by-actions-not-guidance.md`
 - `research_and_thesis/015-broaden-your-information-front-without-losing-research-independence.md`
@@ -28,6 +30,8 @@ Purpose:
 - `research_and_thesis/024-dont-mistake-partial-market-repair-for-a-real-thesis-turnaround.md`
 
 Purpose:
+- how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
+- how investors judge companies by real cashflow dependence, support structure, and who bears risk instead of sector labels and management talk
 - how investors investigate companies by real cashflow source, control structure, and repeatability of earnings
 - how to distinguish durable business quality from story-driven classification errors
 - how investors verify management turnarounds by watching for stopped old mistakes, changed capital allocation, and continuous action rather than trusting guidance alone

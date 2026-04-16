@@ -21,6 +21,18 @@
 
 ## 已写入仓库的顺序阅读笔记（持续更新）
 
+- 001《中国社会各阶级的分析》
+  - `judgement_and_decision/001-dont-misread-allies-by-surface-labels.md`
+  - `../inspiration_on_software_development/user_research_and_requirements/001-dont-segment-product-roles-by-surface-labels.md`
+  - `../inspiration_on_running_a_company/organization_design/001-dont-judge-org-allies-by-title-and-posture.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/001-dont-read-companies-by-sector-labels-alone.md`
+  - `../inspiration_on_making_money/monetization_models/001-dont-judge-side-hustle-opportunities-by-surface-status.md`
+- 002《湖南农民运动考察报告》
+  - `cooperation_and_organization/002-dont-misjudge-bottom-up-change-as-mere-chaos.md`
+  - `../inspiration_on_software_development/team_process_and_quality/002-dont-treat-bottom-up-product-change-as-mere-chaos.md`
+  - `../inspiration_on_running_a_company/organization_design/002-dont-treat-bottom-up-correction-as-loss-of-control.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/002-dont-mistake-structural-repricing-for-mere-chaos.md`
+  - `../inspiration_on_making_money/execution_and_delivery/002-dont-dismiss-new-monetization-order-as-mere-chaos.md`
 - 003《中国的红色政权为什么能够存在？》
   - `survival_strategy/003-red-political-power-foothold-thinking.md`
 - 004《井冈山的斗争》
