@@ -193,6 +193,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/031-a-new-company-stage-begins-when-insight-joins-the-frontline.md`
   - `../inspiration_on_stock_investing/research_and_thesis/031-a-new-market-stage-begins-when-new-forces-really-enter.md`
   - `../inspiration_on_making_money/execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md`
+- 032《青年运动的方向》
+  - `cooperation_and_organization/032-awakened-vanguards-must-join-the-real-life-main-force.md`
+  - `../inspiration_on_software_development/team_process_and_quality/032-vanguards-must-join-the-real-delivery-main-force.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/032-vanguards-must-join-the-real-market-main-force.md`
+  - `../inspiration_on_making_money/execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -212,6 +218,7 @@
 - 027—029 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/014-stage-summary-027-029-from-backbone-building-to-cooperation-without-losing-initiative.md`
 - 028—030 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/015-stage-summary-028-030-from-backbone-building-and-cooperative-independence-to-main-battlefield-and-main-force-organization.md`
 - 029—031 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/016-stage-summary-029-031-from-cooperative-independence-and-main-battlefield-organization-to-new-stage-mass-entry.md`
+- 030—032 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/017-stage-summary-030-032-from-main-battlefield-and-mass-entry-to-vanguards-joining-the-main-force.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

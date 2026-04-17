@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—031。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—032。
 - 除了这条顺序主线外，仓库里还有少量“非顺序先写”的拓展条目，例如 `《改造我们的学习》`。
 
 ## 1. 当前覆盖状态总览
@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 32 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 141 |
-| 顺序学习已连续覆盖范围 | 001—031 |
-| 顺序覆盖段标题核对结果 | 31/31 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 33 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 146 |
+| 顺序学习已连续覆盖范围 | 001—032 |
+| 顺序覆盖段标题核对结果 | 32/32 与 marxists.org 标题一致 |
 | 顺序概览是否连续 | 是 |
-| 顺序主线的下一篇 | 032《青年运动的方向》 |
+| 顺序主线的下一篇 | 033《反对投降活动》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `031《五四运动》`。
-- 在 `001—031` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `032《青年运动的方向》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `032《青年运动的方向》`。
+- 在 `001—032` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `033《反对投降活动》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390630.htm
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -65,13 +65,14 @@
 | 029 | 《统一战线中的独立自主问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 030 | 《战争和战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381106.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 031 | 《五四运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390501.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 032 | 《青年运动的方向》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—031 顺序主线已建立关联        [###############################]
-032 青年运动的方向                    [NEXT]
+001—032 顺序主线已建立关联        [################################]
+033 反对投降活动                      [NEXT]
 060 改造我们的学习                  [EXTRA] 非顺序拓展
 ```
 
@@ -123,6 +124,7 @@
 | 029 | 《统一战线中的独立自主问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/029-cooperate-broadly-without-surrendering-your-initiative.md) | [SD](./inspiration_on_software_development/team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md) | [MM](./inspiration_on_making_money/execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md) | — | 5 |
 | 030 | 《战争和战略问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381106.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/030-major-life-battles-need-a-main-battlefield-and-main-force.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/030-major-software-battles-need-a-main-battlefield-and-main-force.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/030-major-investment-battles-need-a-main-battlefield-and-research-main-force.md) | [MM](./inspiration_on_making_money/execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md) | — | 5 |
 | 031 | 《五四运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390501.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/031-a-new-life-stage-begins-when-the-awakened-join-the-real-majority.md) | [SD](./inspiration_on_software_development/team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/031-a-new-company-stage-begins-when-insight-joins-the-frontline.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/031-a-new-market-stage-begins-when-new-forces-really-enter.md) | [MM](./inspiration_on_making_money/execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md) | — | 5 |
+| 032 | 《青年运动的方向》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/032-awakened-vanguards-must-join-the-real-life-main-force.md) | [SD](./inspiration_on_software_development/team_process_and_quality/032-vanguards-must-join-the-real-delivery-main-force.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/032-vanguards-must-join-the-real-market-main-force.md) | [MM](./inspiration_on_making_money/execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md) | — | 5 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | 1 |
 
 ## 5. 已建立关联的原文标题清单（按真实顺序）
@@ -422,6 +424,16 @@
   - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/031-a-new-market-stage-begins-when-new-forces-really-enter.md`
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md`
 
+### 032《青年运动的方向》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 14 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm
+- 已关联 inspiration 文件数：5
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/032-awakened-vanguards-must-join-the-real-life-main-force.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/032-vanguards-must-join-the-real-delivery-main-force.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/032-vanguards-must-join-the-real-market-main-force.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -431,6 +443,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`032《青年运动的方向》`
+- 如果要从当前边界继续向下推进，下一篇应是：`033《反对投降活动》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

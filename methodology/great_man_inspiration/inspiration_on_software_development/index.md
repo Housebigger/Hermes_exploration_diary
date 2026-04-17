@@ -79,6 +79,7 @@ Purpose:
 - `team_process_and_quality/028-dont-ask-to-be-the-core-team-before-becoming-a-real-software-backbone.md`
 - `team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md`
 - `team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md`
+- `team_process_and_quality/032-vanguards-must-join-the-real-delivery-main-force.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -98,6 +99,7 @@ Purpose:
 - how software teams stop anxiously asking to be treated as the core team and instead build the backbone quality—reliability, standards, cooperation, talent development, disciplined execution, and feedback capacity—that makes real strategic responsibility gradually flow toward them
 - how software teams widen cross-team cooperation and make active concessions where needed without surrendering engineering judgement, quality lines, execution initiative, or the ability to move on decisive work before every external actor feels fully comfortable
 - how software teams recognize that a real new product stage begins when insight-holding roles stop staying inside expert consensus, join the frontline of users and delivery, and turn scattered understanding into translatable, organization-wide execution power
+- how software teams stop mistaking expert roles for the whole delivery main force, and instead connect product and engineering insight with the real burden-bearing frontline so broader execution power can be organized
 
 ### indexes
 Reserved for future series indexes and overview notes.

@@ -40,6 +40,7 @@ Important boundary:
 - `execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md`
 - `execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md`
 - `execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md`
+- `execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
@@ -62,3 +63,4 @@ Additional focus:
 - how side-hustle builders widen channels, collaborators, and support networks without surrendering customer control, delivery standards, time boundaries, and project direction, so cooperation expands the business instead of reducing it to an appendage of stronger outside systems
 - how side-hustle builders stop treating a decisive monetization battle as one more side task, and instead identify the main battlefield, organize their operating main force around it, and make most support work serve that central breakthrough line
 - how side-hustle builders recognize that a real new growth stage begins when personal insight leaves the small circle, joins real demand and real customers, and turns scattered approval into organized buying, delivery, and referral power
+- how side-hustle builders stop mistaking insight-holding creators for the whole business main force, and instead connect their early judgment with real customers and burden-bearing delivery scenes so broader demand power can be organized
