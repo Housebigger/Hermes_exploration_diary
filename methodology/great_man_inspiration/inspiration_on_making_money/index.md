@@ -36,6 +36,7 @@ Important boundary:
 - `execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
 - `execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
 - `execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
+- `execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
@@ -54,3 +55,4 @@ Additional focus:
 - how side-hustle builders protect hard-won pricing, delivery, and cooperation order during growth periods by welcoming useful introductions without letting favors, informal coordination, or familiar pressure reopen boundaryless operations
 - how side-hustle builders build real operating base areas under long pressure, preserve cashflow and delivery mobility, and gradually turn scattered hustle survival into stronger main-force business capacity
 - how side-hustle builders avoid both early give-up and overnight-takeoff fantasy by using stage judgment, long positioning, local decisive pushes, and sustained support-system building to turn weak positions into winnable ones
+- how side-hustle builders stop acting like the lead too early and instead build the real backbone quality—reliability, boundary discipline, cooperation ability, people development, and continuous learning—that makes genuine leadership and larger operating responsibility sustainable

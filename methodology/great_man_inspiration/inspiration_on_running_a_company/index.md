@@ -21,6 +21,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `organization_design/017-organizational-understanding-grows-from-field-contact-and-revalidation.md`
 - `organization_design/021-dont-trade-surface-harmony-for-organizational-truth.md`
 - `organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md`
+- `organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md`
 - `leadership_and_talent/011-win-followership-by-solving-real-problems.md`
 - `leadership_and_talent/014-trust-turnarounds-only-after-real-costly-actions.md`
 - `strategy_and_execution/006-local-strongholds-and-strategic-wave-expansion.md`
@@ -66,3 +67,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies protect hard-won operating order during coordination periods by welcoming real support while preventing unauthorized intervention, reopened old privileges, and boundaryless cooperation from dragging the business back into chaos
 - how companies build real operating base areas under long pressure, preserve cash and organizational mobility, and gradually turn weak-position survival into stronger main-force business capacity
 - how companies avoid both defeatist contraction and premature expansion by using stage judgment, long positioning, local decisive battles, and sustained mobilization to turn weak operating positions into winnable ones
+- how companies stop prematurely claiming a leadership position and instead build the real organizational backbone—cadre quality, discipline, feedback democracy, alliance work, talent use, and learning capacity—that makes larger responsibility and leadership legitimacy actually sustainable

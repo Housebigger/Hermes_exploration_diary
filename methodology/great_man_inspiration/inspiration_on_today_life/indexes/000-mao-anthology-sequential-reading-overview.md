@@ -13,9 +13,9 @@
 - 第二卷 抗日战争时期（上）：40篇
 - 第三卷 抗日战争时期（下）：31篇
 - 第四卷 第三次国内革命战争时期：70篇
-- 第五卷 社会主义革命和社会主义建设时期（一）：71篇
+- 第五卷 社会主义革命和社会主义建设时期（一）：70篇
 
-合计主干文本：230篇
+合计主干文本：229篇
 
 说明：目录中另有未删节本、补充文本、其它文献、PDF文库，我这次优先完成了卷一至卷五主干文本的顺序学习与综合归纳。
 
@@ -169,6 +169,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md`
   - `../inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
   - `../inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
+- 028《中国共产党在民族战争中的地位》
+  - `cooperation_and_organization/028-dont-ask-for-a-key-place-before-becoming-a-reliable-backbone.md`
+  - `../inspiration_on_software_development/team_process_and_quality/028-dont-ask-to-be-the-core-team-before-becoming-a-real-software-backbone.md`
+  - `../inspiration_on_running_a_company/organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md`
+  - `../inspiration_on_making_money/execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -184,6 +190,7 @@
 - 023—025 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/010-stage-summary-023-025-from-broader-participation-and-independent-position-to-boundary-governance-and-anti-disruption.md`
 - 024—026 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/011-stage-summary-024-026-from-transition-discipline-and-boundary-governance-to-base-area-building-and-flexible-growth.md`
 - 025—027 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/012-stage-summary-025-027-from-boundary-governance-and-base-area-building-to-stage-judgment-and-protracted-positioning.md`
+- 026—028 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/013-stage-summary-026-028-from-base-area-building-and-protracted-positioning-to-backbone-building-and-leadership-readiness.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

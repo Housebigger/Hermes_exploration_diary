@@ -73,6 +73,7 @@ Purpose:
 - `cooperation_and_organization/023-dont-fight-major-life-battles-as-a-one-person-defensive-war.md`
 - `cooperation_and_organization/024-dont-mistake-partial-turning-points-for-a-real-life-system-upgrade.md`
 - `cooperation_and_organization/025-dont-let-chaotic-helpers-reopen-your-hard-won-life-order.md`
+- `cooperation_and_organization/028-dont-ask-for-a-key-place-before-becoming-a-reliable-backbone.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -90,6 +91,7 @@ Purpose:
 - how to stop fighting major life battles as a one-person defensive war by turning support into real participation, upgrading old life systems, and shifting from passive damage control to active initiative
 - how ordinary people navigate dangerous transition periods by not mistaking partial turning points for a real life-system upgrade, while both widening real participation and preserving enough independent position to keep the new direction from being absorbed by the old system
 - how ordinary people protect hard-won life order during cooperation periods by welcoming real help without allowing chaotic helpers, emotional pressure, or boundaryless intervention to reopen old disorder
+- how ordinary people stop anxiously asking for a key place in a bigger life battle and instead build the backbone quality—reliability, cooperation, discipline, people development, and learning—that makes real responsibility and trust gradually grow toward them
 
 ## Writing convention
 

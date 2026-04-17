@@ -74,6 +74,7 @@ Purpose:
 - `team_process_and_quality/022-dont-confuse-cross-functional-alignment-with-real-execution-capacity.md`
 - `team_process_and_quality/024-dont-mistake-partial-org-alignment-for-a-real-project-turnaround.md`
 - `team_process_and_quality/025-dont-let-unbounded-support-disrupt-your-engineering-order.md`
+- `team_process_and_quality/028-dont-ask-to-be-the-core-team-before-becoming-a-real-software-backbone.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -90,6 +91,7 @@ Purpose:
 - how software teams avoid mistaking leadership alignment and cross-functional handshakes for real execution capacity by widening role participation, clarifying shared rules, and replacing old governance bottlenecks
 - how software teams navigate dangerous transition periods by not mistaking partial organizational alignment for a real project turnaround, while widening real participation and preserving the independent judgement, quality lines, and execution positions needed to prevent the old system from reabsorbing the project
 - how software teams protect hard-won engineering order during collaboration periods by welcoming useful support without allowing unbounded intervention, process bypass, or authority confusion to reopen old delivery chaos
+- how software teams stop anxiously asking to be treated as the core team and instead build the backbone quality—reliability, standards, cooperation, talent development, disciplined execution, and feedback capacity—that makes real strategic responsibility gradually flow toward them
 
 ### indexes
 Reserved for future series indexes and overview notes.
