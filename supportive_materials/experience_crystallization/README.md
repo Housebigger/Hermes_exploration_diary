@@ -25,3 +25,4 @@ Current seed note:
 - `012-stage-summary-025-027-from-boundary-governance-and-base-area-building-to-stage-judgment-and-protracted-positioning.md`
 - `013-stage-summary-026-028-from-base-area-building-and-protracted-positioning-to-backbone-building-and-leadership-readiness.md`
 - `014-stage-summary-027-029-from-backbone-building-to-cooperation-without-losing-initiative.md`
+- `015-stage-summary-028-030-from-backbone-building-and-cooperative-independence-to-main-battlefield-and-main-force-organization.md`

@@ -38,6 +38,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
 - `strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md`
 - `strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md`
+- `strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md`
 
 ## Focus of the current notes
 - how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
@@ -70,3 +71,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies avoid both defeatist contraction and premature expansion by using stage judgment, long positioning, local decisive battles, and sustained mobilization to turn weak operating positions into winnable ones
 - how companies stop prematurely claiming a leadership position and instead build the real organizational backbone—cadre quality, discipline, feedback democracy, alliance work, talent use, and learning capacity—that makes larger responsibility and leadership legitimacy actually sustainable
 - how companies widen alliance structures, make strategic concessions, and still preserve long-term direction, organizational initiative, and development position so cooperation with stronger external forces does not turn the business into a passive appendage
+- how companies stop managing decisive hard battles as one more parallel operating issue, and instead identify the main battlefield, organize business main force around it, and make most organizational work directly or indirectly serve that central strategic line

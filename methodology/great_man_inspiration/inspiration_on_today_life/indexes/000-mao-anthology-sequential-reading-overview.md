@@ -181,6 +181,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md`
   - `../inspiration_on_stock_investing/research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md`
   - `../inspiration_on_making_money/execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md`
+- 030《战争和战略问题》
+  - `cooperation_and_organization/030-major-life-battles-need-a-main-battlefield-and-main-force.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/030-major-software-battles-need-a-main-battlefield-and-main-force.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/030-major-investment-battles-need-a-main-battlefield-and-research-main-force.md`
+  - `../inspiration_on_making_money/execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -198,6 +204,7 @@
 - 025—027 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/012-stage-summary-025-027-from-boundary-governance-and-base-area-building-to-stage-judgment-and-protracted-positioning.md`
 - 026—028 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/013-stage-summary-026-028-from-base-area-building-and-protracted-positioning-to-backbone-building-and-leadership-readiness.md`
 - 027—029 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/014-stage-summary-027-029-from-backbone-building-to-cooperation-without-losing-initiative.md`
+- 028—030 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/015-stage-summary-028-030-from-backbone-building-and-cooperative-independence-to-main-battlefield-and-main-force-organization.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
