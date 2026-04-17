@@ -30,12 +30,39 @@
 - 在 `001—028` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
 - 当前下一篇尚未纳入顺序主线的是 `029《统一战线中的独立自主问题》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm
 
-### 2.2 这次补齐后，顺序主线开头缺口已被补上
+### 2.2 已覆盖毛泽东原文完整对照表
 
-| 顺序号 | 原文 | 真实链接 | 当前状态 |
+| 顺序号 | 原文 | 真实链接 | 状态 |
 |---|---|---|---|
-| 001 | 《中国社会各阶级的分析》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm) | 已纳入顺序主线，已建立 5 个主题转译文件 |
-| 002 | 《湖南农民运动考察报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm) | 已纳入顺序主线，已建立 5 个主题转译文件 |
+| 001 | 《中国社会各阶级的分析》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 002 | 《湖南农民运动考察报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 003 | 《中国的红色政权为什么能够存在？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281005.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
+| 004 | 《井冈山的斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281125.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
+| 005 | 《关于纠正党内的错误思想》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192912.htm) | 已覆盖（顺序主线，3 个主题转译文件） |
+| 006 | 《星星之火，可以燎原》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19300105.htm) | 已覆盖（顺序主线，3 个主题转译文件） |
+| 007 | 《反对本本主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193005.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 008 | 《必须注意经济工作》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 009 | 《怎样分析农村阶级》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 010 | 《我们的经济政策》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193401.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 011 | 《关心群众生活，注意工作方法》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19340127.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 012 | 《论反对日本帝国主义的策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19351227.htm) | 已覆盖（顺序主线，3 个主题转译文件） |
+| 013 | 《中国革命战争的战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193612.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 014 | 《关于蒋介石声明的声明》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19361228.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 015 | 《中国共产党在抗日时期的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 016 | 《为争取千百万群众进入抗日民族统一战线而斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370508.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 017 | 《实践论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193707.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 018 | 《矛盾论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193708.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 019 | 《反对日本进攻的方针、办法和前途》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 020 | 《为动员一切力量争取抗战胜利而斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370825.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 021 | 《反对自由主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370907.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 022 | 《国共合作成立后的迫切任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370929.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 023 | 《和英国记者贝特兰的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 024 | 《上海太原失陷以后抗日战争的形势和任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371112.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 025 | 《陕甘宁边区政府第八路军后方留守处布告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 026 | 《抗日游击战争的战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 027 | 《论持久战》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 028 | 《中国共产党在民族战争中的地位》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
