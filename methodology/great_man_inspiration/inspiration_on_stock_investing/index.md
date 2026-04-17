@@ -31,6 +31,7 @@ Purpose:
 - `research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md`
 - `research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md`
 - `research_and_thesis/030-major-investment-battles-need-a-main-battlefield-and-research-main-force.md`
+- `research_and_thesis/031-a-new-market-stage-begins-when-new-forces-really-enter.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -50,6 +51,7 @@ Purpose:
 - how investors stop acting like big-picture masters too early and instead build the real research backbone—independent judgement, alliance with real information, verification discipline, feedback openness, and anti-two-faced narrative hygiene—that makes larger market responsibility and conviction sustainable
 - how investors widen information alliances and discussion surfaces without surrendering research sovereignty, so broader participation improves verification quality instead of turning the portfolio into a passive follower of market authority and consensus mood
 - how investors stop treating a decisive market battle as one more item in a watchlist, and instead identify the main battlefield, organize research main force around it, and make most supporting observation and execution work serve that central thesis or risk battle
+- how investors recognize that a real new market stage begins not when a few smart participants feel convinced, but when broader validating forces actually enter and early insight becomes linked to expanding real-world confirmation
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

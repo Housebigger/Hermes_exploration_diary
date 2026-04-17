@@ -187,6 +187,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md`
   - `../inspiration_on_stock_investing/research_and_thesis/030-major-investment-battles-need-a-main-battlefield-and-research-main-force.md`
   - `../inspiration_on_making_money/execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md`
+- 031《五四运动》
+  - `cooperation_and_organization/031-a-new-life-stage-begins-when-the-awakened-join-the-real-majority.md`
+  - `../inspiration_on_software_development/team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/031-a-new-company-stage-begins-when-insight-joins-the-frontline.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/031-a-new-market-stage-begins-when-new-forces-really-enter.md`
+  - `../inspiration_on_making_money/execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -205,6 +211,7 @@
 - 026—028 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/013-stage-summary-026-028-from-base-area-building-and-protracted-positioning-to-backbone-building-and-leadership-readiness.md`
 - 027—029 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/014-stage-summary-027-029-from-backbone-building-to-cooperation-without-losing-initiative.md`
 - 028—030 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/015-stage-summary-028-030-from-backbone-building-and-cooperative-independence-to-main-battlefield-and-main-force-organization.md`
+- 029—031 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/016-stage-summary-029-031-from-cooperative-independence-and-main-battlefield-organization-to-new-stage-mass-entry.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

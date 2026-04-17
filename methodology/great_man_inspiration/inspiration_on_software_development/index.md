@@ -78,6 +78,7 @@ Purpose:
 - `team_process_and_quality/025-dont-let-unbounded-support-disrupt-your-engineering-order.md`
 - `team_process_and_quality/028-dont-ask-to-be-the-core-team-before-becoming-a-real-software-backbone.md`
 - `team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md`
+- `team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -96,6 +97,7 @@ Purpose:
 - how software teams protect hard-won engineering order during collaboration periods by welcoming useful support without allowing unbounded intervention, process bypass, or authority confusion to reopen old delivery chaos
 - how software teams stop anxiously asking to be treated as the core team and instead build the backbone quality—reliability, standards, cooperation, talent development, disciplined execution, and feedback capacity—that makes real strategic responsibility gradually flow toward them
 - how software teams widen cross-team cooperation and make active concessions where needed without surrendering engineering judgement, quality lines, execution initiative, or the ability to move on decisive work before every external actor feels fully comfortable
+- how software teams recognize that a real new product stage begins when insight-holding roles stop staying inside expert consensus, join the frontline of users and delivery, and turn scattered understanding into translatable, organization-wide execution power
 
 ### indexes
 Reserved for future series indexes and overview notes.
