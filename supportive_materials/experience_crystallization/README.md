@@ -23,3 +23,5 @@ Current seed note:
 - `010-stage-summary-023-025-from-broader-participation-and-independent-position-to-boundary-governance-and-anti-disruption.md`
 - `011-stage-summary-024-026-from-transition-discipline-and-boundary-governance-to-base-area-building-and-flexible-growth.md`
 - `012-stage-summary-025-027-from-boundary-governance-and-base-area-building-to-stage-judgment-and-protracted-positioning.md`
+- `013-stage-summary-026-028-from-base-area-building-and-protracted-positioning-to-backbone-building-and-leadership-readiness.md`
+- `014-stage-summary-027-029-from-backbone-building-to-cooperation-without-losing-initiative.md`

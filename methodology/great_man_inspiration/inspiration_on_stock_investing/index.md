@@ -29,6 +29,7 @@ Purpose:
 - `research_and_thesis/022-dont-confuse-sentiment-recovery-with-structural-turnaround.md`
 - `research_and_thesis/024-dont-mistake-partial-market-repair-for-a-real-thesis-turnaround.md`
 - `research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md`
+- `research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -46,6 +47,7 @@ Purpose:
 - how investors avoid mistaking sentiment recovery and top-level reassurance for structural turnaround by checking whether broader participants, new validation frameworks, and real mechanism changes have appeared
 - how investors navigate dangerous market transition periods by not mistaking partial market repair for a real thesis turnaround, while preserving independent research discipline and watching whether broader participation and mechanism change truly arrive
 - how investors stop acting like big-picture masters too early and instead build the real research backbone—independent judgement, alliance with real information, verification discipline, feedback openness, and anti-two-faced narrative hygiene—that makes larger market responsibility and conviction sustainable
+- how investors widen information alliances and discussion surfaces without surrendering research sovereignty, so broader participation improves verification quality instead of turning the portfolio into a passive follower of market authority and consensus mood
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

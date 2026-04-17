@@ -175,6 +175,12 @@
   - `../inspiration_on_running_a_company/organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md`
   - `../inspiration_on_stock_investing/research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md`
   - `../inspiration_on_making_money/execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md`
+- 029《统一战线中的独立自主问题》
+  - `cooperation_and_organization/029-cooperate-broadly-without-surrendering-your-initiative.md`
+  - `../inspiration_on_software_development/team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md`
+  - `../inspiration_on_making_money/execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -191,6 +197,7 @@
 - 024—026 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/011-stage-summary-024-026-from-transition-discipline-and-boundary-governance-to-base-area-building-and-flexible-growth.md`
 - 025—027 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/012-stage-summary-025-027-from-boundary-governance-and-base-area-building-to-stage-judgment-and-protracted-positioning.md`
 - 026—028 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/013-stage-summary-026-028-from-base-area-building-and-protracted-positioning-to-backbone-building-and-leadership-readiness.md`
+- 027—029 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/014-stage-summary-027-029-from-backbone-building-to-cooperation-without-losing-initiative.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

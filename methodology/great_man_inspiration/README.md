@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—028。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—029。
 - 除了这条顺序主线外，仓库里还有少量“非顺序先写”的拓展条目，例如 `《改造我们的学习》`。
 
 ## 1. 当前覆盖状态总览
@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 29 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 126 |
-| 顺序学习已连续覆盖范围 | 001—028 |
-| 顺序覆盖段标题核对结果 | 28/28 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 30 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 131 |
+| 顺序学习已连续覆盖范围 | 001—029 |
+| 顺序覆盖段标题核对结果 | 29/29 与 marxists.org 标题一致 |
 | 顺序概览是否连续 | 是 |
-| 顺序主线的下一篇 | 029《统一战线中的独立自主问题》 |
+| 顺序主线的下一篇 | 030《战争和战略问题》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `028《中国共产党在民族战争中的地位》`。
-- 在 `001—028` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `029《统一战线中的独立自主问题》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `029《统一战线中的独立自主问题》`。
+- 在 `001—029` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `030《战争和战略问题》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381106.htm
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -62,13 +62,14 @@
 | 026 | 《抗日游击战争的战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 027 | 《论持久战》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 028 | 《中国共产党在民族战争中的地位》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 029 | 《统一战线中的独立自主问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—028 顺序主线已建立关联        [############################]
-029 统一战线中的独立自主问题          [NEXT]
+001—029 顺序主线已建立关联        [#############################]
+030 战争和战略问题                    [NEXT]
 060 改造我们的学习                  [EXTRA] 非顺序拓展
 ```
 
@@ -117,6 +118,7 @@
 | 026 | 《抗日游击战争的战略问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm) | [TL](./inspiration_on_today_life/survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md) | [MM](./inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md) | — | 5 |
 | 027 | 《论持久战》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | [TL](./inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md) | [MM](./inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md) | — | 5 |
 | 028 | 《中国共产党在民族战争中的地位》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/028-dont-ask-for-a-key-place-before-becoming-a-reliable-backbone.md) | [SD](./inspiration_on_software_development/team_process_and_quality/028-dont-ask-to-be-the-core-team-before-becoming-a-real-software-backbone.md) | [RC](./inspiration_on_running_a_company/organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md) | [MM](./inspiration_on_making_money/execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md) | — | 5 |
+| 029 | 《统一战线中的独立自主问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/029-cooperate-broadly-without-surrendering-your-initiative.md) | [SD](./inspiration_on_software_development/team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md) | [MM](./inspiration_on_making_money/execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md) | — | 5 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | 1 |
 
 ## 5. 已建立关联的原文标题清单（按真实顺序）
@@ -386,6 +388,16 @@
   - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md`
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md`
 
+### 029《统一战线中的独立自主问题》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 11 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm
+- 已关联 inspiration 文件数：5
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/029-cooperate-broadly-without-surrendering-your-initiative.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -395,6 +407,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`029《统一战线中的独立自主问题》`
+- 如果要从当前边界继续向下推进，下一篇应是：`030《战争和战略问题》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。
