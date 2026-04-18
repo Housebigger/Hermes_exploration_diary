@@ -217,6 +217,13 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/035-dont-treat-a-new-business-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
   - `../inspiration_on_stock_investing/research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
   - `../inspiration_on_making_money/execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+- 036《和中央社、扫荡报、新民报三记者的谈话》
+  - `cooperation_and_organization/036-dont-treat-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
+  - `../inspiration_on_software_development/team_process_and_quality/036-dont-treat-allies-as-outsiders-build-team-self-reliance-and-defend-boundaries.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/036-dont-treat-business-allies-as-outsiders-build-org-self-reliance-and-defend-boundaries.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/036-dont-treat-validation-allies-as-outsiders-build-research-self-reliance-and-defend-boundaries.md`
+  - `../inspiration_on_making_money/execution_and_delivery/036-dont-treat-project-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -240,6 +247,7 @@
 - 031—033 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/018-stage-summary-031-033-from-new-stage-mass-entry-and-vanguards-joining-the-main-force-to-resisting-surrender-logic-and-holding-the-main-alliance.md`
 - 033—034 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/019-stage-summary-033-034-from-resisting-surrender-logic-and-holding-the-main-alliance-to-protecting-builders-and-punishing-repeat-breakers.md`
 - 034—035 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/020-stage-summary-034-035-from-protecting-builders-and-punishing-repeat-breakers-to-holding-the-line-in-a-new-stage-and-preparing-counterattack.md`
+- 035—036 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/021-stage-summary-035-036-from-holding-the-line-in-a-new-stage-and-preparing-counterattack-to-building-self-reliance-alliance-clarity-and-strict-self-defense.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

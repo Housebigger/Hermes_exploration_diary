@@ -36,6 +36,7 @@ Purpose:
 - `research_and_thesis/033-dont-let-appeasement-logic-break-your-thesis-and-validation-alliance.md`
 - `research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
 - `research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
+- `research_and_thesis/036-dont-treat-validation-allies-as-outsiders-build-research-self-reliance-and-defend-boundaries.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -60,6 +61,7 @@ Purpose:
 - how investors recognize that under market pressure the first fatal move is often not price weakness itself but internal appeasement logic that abandons the main thesis, breaks the validation framework, and trades disciplined judgment for emotional relief
 - how investors keep a research system mature by protecting the thesis-and-validation framework, making repeat discipline-breakers pay a cost, and refusing to let emotional relief repeatedly overrule verification
 - how investors avoid treating a newly stabilized market phase as rest, and instead hold the main thesis, prevent validation drift and research backsliding, and turn temporary relief into preparation for higher-quality counterattacks
+- how investors stop treating genuine validation allies as outsiders, build research self-reliance through stronger internal process, and defend discipline boundaries without turning disagreement into self-sabotage
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

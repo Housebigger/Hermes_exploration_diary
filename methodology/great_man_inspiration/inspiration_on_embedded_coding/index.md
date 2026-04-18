@@ -34,11 +34,13 @@ Focus:
 
 ### team_process_and_knowledge
 - `team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md`
+- `team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
 
 Focus:
 - knowledge sedimentation
 - retrospective quality
 - turning incidents into reusable team assets
+- alliance-aware joint debugging and collaboration boundary governance
 
 ## Writing convention
 

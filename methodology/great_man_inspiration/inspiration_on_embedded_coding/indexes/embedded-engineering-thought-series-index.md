@@ -71,6 +71,18 @@
 - 为什么技术复盘要从情绪和口号层升级为结构分析与动作沉淀
 - 如何把一次问题处理转化为案例库、调试手册、checklist 和组织能力
 
+
+### 6. 从《和中央社、扫荡报、新民报三记者的谈话》看嵌入式团队：不要把一起扛板级问题的人先当异己，要把工程自力更生、联合调试和边界自卫做成下一阶段准备反攻的结构
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
+
+核心主题：
+- 为什么嵌入式团队在相持阶段不能把准备反攻误成全面重构或舒服停摆
+- 为什么工程自力更生不是少数高手继续硬扛，而是现场信息、责任边界和调试机制的内部升级
+- 为什么硬件、驱动、测试、FAE、工厂与供应商接口人不能先被当成异己，而应按友军逻辑组织联合调试
+- 为什么联调磨擦既不能无限放大，也不能无限忍让，而要落到严格自卫的工程边界治理
+
 ## 后续候选主题
 
 ## 这个专栏的写法原则

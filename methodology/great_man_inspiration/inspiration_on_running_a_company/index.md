@@ -44,6 +44,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/033-dont-let-appeasement-logic-break-your-company-mainline-and-alliance.md`
 - `strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
 - `strategy_and_execution/035-dont-treat-a-new-business-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+- `strategy_and_execution/036-dont-treat-business-allies-as-outsiders-build-org-self-reliance-and-defend-boundaries.md`
 
 ## Focus of the current notes
 - how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
@@ -82,3 +83,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies recognize that under sustained pressure the first collapse often comes not from external competition alone but from internal appeasement logic that blurs the mainline, isolates backbone operators, and trades real strategic position for surface calm
 - how companies turn claimed unity into real operating order by protecting backbone builders, making repeat destroyers pay a cost, and refusing to let surface calm repeatedly reward the people who break the business mainline
 - how companies avoid mistaking a newly stabilized operating phase for rest, and instead hold the business mainline, keep the backbone coalition from drifting apart, continue system progress, and turn temporary relief into preparation for counterattack
+- how companies stop treating real business allies as outsiders, build organizational self-reliance through internal governance upgrade, and defend boundaries without dissolving cooperation into factional drag
