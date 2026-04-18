@@ -51,6 +51,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/032-vanguards-must-join-the-real-delivery-main-force.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/033-dont-let-appeasement-logic-break-your-project-mainline-and-alliance.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/023-dont-run-key-projects-as-a-passive-defensive-war.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
@@ -94,6 +95,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/030-major-life-battles-need-a-main-battlefield-and-main-force.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/031-a-new-life-stage-begins-when-the-awakened-join-the-real-majority.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/032-awakened-vanguards-must-join-the-real-life-main-force.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/033-dont-let-surrender-logic-split-your-main-life-alliance.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/005-rectify-internal-chaos-before-chasing-opportunity.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/007-investigate-before-judging-major-decisions.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
@@ -139,6 +141,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/033-dont-let-appeasement-logic-break-your-project-mainline-and-sales-alliance.md`
 
 ### 5. inspiration_on_stock_investing
 Translate historical texts into practical methods for stock-market investing, market observation, thesis research, risk control, and execution discipline.
@@ -171,6 +174,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/030-major-investment-battles-need-a-main-battlefield-and-research-main-force.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/031-a-new-market-stage-begins-when-new-forces-really-enter.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/032-vanguards-must-join-the-real-market-main-force.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/033-dont-let-appeasement-logic-break-your-thesis-and-validation-alliance.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
@@ -216,6 +220,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/031-a-new-company-stage-begins-when-insight-joins-the-frontline.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/033-dont-let-appeasement-logic-break-your-company-mainline-and-alliance.md`
 
 ## Naming convention
 

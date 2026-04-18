@@ -80,6 +80,7 @@ Purpose:
 - `team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md`
 - `team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md`
 - `team_process_and_quality/032-vanguards-must-join-the-real-delivery-main-force.md`
+- `team_process_and_quality/033-dont-let-appeasement-logic-break-your-project-mainline-and-alliance.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -100,6 +101,7 @@ Purpose:
 - how software teams widen cross-team cooperation and make active concessions where needed without surrendering engineering judgement, quality lines, execution initiative, or the ability to move on decisive work before every external actor feels fully comfortable
 - how software teams recognize that a real new product stage begins when insight-holding roles stop staying inside expert consensus, join the frontline of users and delivery, and turn scattered understanding into translatable, organization-wide execution power
 - how software teams stop mistaking expert roles for the whole delivery main force, and instead connect product and engineering insight with the real burden-bearing frontline so broader execution power can be organized
+- how software teams recognize that under sustained pressure the first fatal move is often not external opposition itself, but internal appeasement logic that lowers the mainline, isolates truth-tellers, and trades long-term execution capacity for short-term calm
 
 ### indexes
 Reserved for future series indexes and overview notes.

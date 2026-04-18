@@ -41,6 +41,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md`
 - `strategy_and_execution/031-a-new-company-stage-begins-when-insight-joins-the-frontline.md`
 - `strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md`
+- `strategy_and_execution/033-dont-let-appeasement-logic-break-your-company-mainline-and-alliance.md`
 
 ## Focus of the current notes
 - how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
@@ -76,3 +77,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies stop managing decisive hard battles as one more parallel operating issue, and instead identify the main battlefield, organize business main force around it, and make most organizational work directly or indirectly serve that central strategic line
 - how companies recognize that a real new operating stage begins only when top-level insight joins frontline customer and delivery reality, allowing strategy to combine with burden-bearing organizational forces and become wider mobilization and execution capacity
 - how companies stop mistaking insightful managers for the whole operating main force, and instead connect leadership judgement with frontline burden-bearing systems so broader business mobilization can actually happen
+- how companies recognize that under sustained pressure the first collapse often comes not from external competition alone but from internal appeasement logic that blurs the mainline, isolates backbone operators, and trades real strategic position for surface calm
