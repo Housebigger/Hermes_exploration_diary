@@ -12,6 +12,8 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md`
 - `engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md`
 - `engineering_strategy/014-dont-treat-a-new-embedded-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+- `engineering_strategy/015-dont-just-know-the-right-embedded-direction-build-the-mobilization-system.md`
+- `engineering_strategy/016-key-embedded-battles-need-full-system-mobilization-not-half-measures.md`
 
 Focus:
 - long-cycle projects
@@ -20,6 +22,8 @@ Focus:
 - building engineering base areas under long pressure
 - concentrating main force on the decisive battlefield
 - holding the main line and preparing structural counterattack in a new stage
+- turning correct direction into an embedded mobilization system
+- full-system mobilization for decisive embedded battles
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -46,6 +50,8 @@ Focus:
 - `team_process_and_knowledge/011-cooperate-broadly-without-surrendering-embedded-initiative.md`
 - `team_process_and_knowledge/012-dont-let-appeasement-logic-break-your-embedded-mainline-and-alliance.md`
 - `team_process_and_knowledge/013-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
+- `team_process_and_knowledge/017-dont-claim-the-core-seat-before-becoming-a-real-embedded-backbone.md`
+- `team_process_and_knowledge/018-vanguards-must-join-the-real-embedded-main-force.md`
 
 Focus:
 - knowledge sedimentation
@@ -57,6 +63,8 @@ Focus:
 - cooperative independence in broad collaboration
 - mainline-and-alliance protection under sustained pressure
 - consequence structures for repeat breakers of version and evidence discipline
+- backbone-building before claiming a central engineering seat
+- bringing vanguard understanding into real delivery, production-test, and maintenance main force
 
 ## Writing convention
 

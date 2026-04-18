@@ -121,12 +121,14 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/019-dont-just-set-strategy-build-the-org-and-resource-system.md`
   - `../inspiration_on_stock_investing/research_and_thesis/019-dont-just-be-right-build-the-research-and-positioning-system.md`
   - `../inspiration_on_making_money/execution_and_delivery/019-dont-just-have-the-right-side-hustle-direction-build-the-system.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/015-dont-just-know-the-right-embedded-direction-build-the-mobilization-system.md`
 - 020《为动员一切力量争取抗战胜利而斗争》
   - `cooperation_and_organization/020-major-life-battles-need-full-mobilization-not-half-measures.md`
   - `../inspiration_on_software_development/team_process_and_quality/020-key-product-battles-need-full-organizational-mobilization.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/020-company-crucial-phases-need-full-mobilization-not-partial-effort.md`
   - `../inspiration_on_stock_investing/research_and_thesis/020-big-investment-opportunities-need-full-preparation.md`
   - `../inspiration_on_making_money/execution_and_delivery/020-side-hustle-critical-phases-need-full-system-mobilization.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/016-key-embedded-battles-need-full-system-mobilization-not-half-measures.md`
 - 021《反对自由主义》
   - `cooperation_and_organization/021-dont-trade-principled-feedback-for-surface-harmony.md`
   - `../inspiration_on_software_development/team_process_and_quality/021-dont-trade-surface-harmony-for-team-truth-and-discipline.md`
@@ -178,6 +180,7 @@
   - `../inspiration_on_running_a_company/organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md`
   - `../inspiration_on_stock_investing/research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md`
   - `../inspiration_on_making_money/execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/017-dont-claim-the-core-seat-before-becoming-a-real-embedded-backbone.md`
 - 029《统一战线中的独立自主问题》
   - `cooperation_and_organization/029-cooperate-broadly-without-surrendering-your-initiative.md`
   - `../inspiration_on_software_development/team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md`
@@ -204,6 +207,7 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md`
   - `../inspiration_on_stock_investing/research_and_thesis/032-vanguards-must-join-the-real-market-main-force.md`
   - `../inspiration_on_making_money/execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/018-vanguards-must-join-the-real-embedded-main-force.md`
 - 033《反对投降活动》
   - `cooperation_and_organization/033-dont-let-surrender-logic-split-your-main-life-alliance.md`
   - `../inspiration_on_software_development/team_process_and_quality/033-dont-let-appeasement-logic-break-your-project-mainline-and-alliance.md`
