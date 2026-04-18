@@ -27,5 +27,6 @@ Current seed note:
 - `014-stage-summary-027-029-from-backbone-building-to-cooperation-without-losing-initiative.md`
 - `015-stage-summary-028-030-from-backbone-building-and-cooperative-independence-to-main-battlefield-and-main-force-organization.md`
 - `016-stage-summary-029-031-from-cooperative-independence-and-main-battlefield-organization-to-new-stage-mass-entry.md`
-
 - `017-stage-summary-030-032-from-main-battlefield-and-mass-entry-to-vanguards-joining-the-main-force.md`
+- `018-stage-summary-031-033-from-new-stage-mass-entry-and-vanguards-joining-the-main-force-to-resisting-surrender-logic-and-holding-the-main-alliance.md`
+- `019-stage-summary-033-034-from-resisting-surrender-logic-and-holding-the-main-alliance-to-protecting-builders-and-punishing-repeat-breakers.md`

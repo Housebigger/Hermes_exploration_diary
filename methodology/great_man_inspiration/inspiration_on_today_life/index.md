@@ -79,6 +79,7 @@ Purpose:
 - `cooperation_and_organization/031-a-new-life-stage-begins-when-the-awakened-join-the-real-majority.md`
 - `cooperation_and_organization/032-awakened-vanguards-must-join-the-real-life-main-force.md`
 - `cooperation_and_organization/033-dont-let-surrender-logic-split-your-main-life-alliance.md`
+- `cooperation_and_organization/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -102,6 +103,7 @@ Purpose:
 - how ordinary people recognize that a real new life stage begins only when the awakened stop circling inside small high-understanding groups and instead join real-majority life, combine insight with everyday burden-bearing forces, and turn personal clarity into connection, translation, and organization capacity
 - how ordinary people stop mistaking awakened vanguards for the main force, and instead join real life's burden-bearing majority, organize broader support, and turn insight into practical main-force mobilization
 - how ordinary people recognize that major life systems often do not first collapse under outer pressure, but under inner surrender logic that urges false peace, breaks main alliances, and trades away the real line that must be held
+- how ordinary people build real long-term unity by protecting the people who keep the main line alive, refusing to reward repeat boundary-breakers, and making consequences part of any honest life alliance
 
 ## Writing convention
 

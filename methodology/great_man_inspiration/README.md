@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—033。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—034。
 - 除了这条顺序主线外，仓库里还有少量“非顺序先写”的拓展条目，例如 `《改造我们的学习》`。
 
 ## 1. 当前覆盖状态总览
@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 34 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 151 |
-| 顺序学习已连续覆盖范围 | 001—033 |
-| 顺序覆盖段标题核对结果 | 33/33 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 35 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 156 |
+| 顺序学习已连续覆盖范围 | 001—034 |
+| 顺序覆盖段标题核对结果 | 34/34 与 marxists.org 标题一致 |
 | 顺序概览是否连续 | 是 |
-| 顺序主线的下一篇 | 034《必须制裁反动派》 |
+| 顺序主线的下一篇 | 035《关于国际新形势对新华日报记者的谈话》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `033《反对投降活动》`。
-- 在 `001—033` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `034《必须制裁反动派》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `034《必须制裁反动派》`。
+- 在 `001—034` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `035《关于国际新形势对新华日报记者的谈话》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390901.htm
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -67,13 +67,14 @@
 | 031 | 《五四运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390501.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 032 | 《青年运动的方向》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 033 | 《反对投降活动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390630.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 034 | 《必须制裁反动派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—033 顺序主线已建立关联        [#################################]
-034 必须制裁反动派                    [NEXT]
+001—034 顺序主线已建立关联        [##################################]
+035 关于国际新形势对新华日报记者的谈话  [NEXT]
 060 改造我们的学习                  [EXTRA] 非顺序拓展
 ```
 
@@ -127,6 +128,7 @@
 | 031 | 《五四运动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390501.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/031-a-new-life-stage-begins-when-the-awakened-join-the-real-majority.md) | [SD](./inspiration_on_software_development/team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/031-a-new-company-stage-begins-when-insight-joins-the-frontline.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/031-a-new-market-stage-begins-when-new-forces-really-enter.md) | [MM](./inspiration_on_making_money/execution_and_delivery/031-a-new-side-hustle-stage-begins-when-insight-joins-real-demand.md) | — | 5 |
 | 032 | 《青年运动的方向》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/032-awakened-vanguards-must-join-the-real-life-main-force.md) | [SD](./inspiration_on_software_development/team_process_and_quality/032-vanguards-must-join-the-real-delivery-main-force.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/032-vanguards-must-join-the-real-business-main-force.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/032-vanguards-must-join-the-real-market-main-force.md) | [MM](./inspiration_on_making_money/execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md) | — | 5 |
 | 033 | 《反对投降活动》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390630.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/033-dont-let-surrender-logic-split-your-main-life-alliance.md) | [SD](./inspiration_on_software_development/team_process_and_quality/033-dont-let-appeasement-logic-break-your-project-mainline-and-alliance.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/033-dont-let-appeasement-logic-break-your-company-mainline-and-alliance.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/033-dont-let-appeasement-logic-break-your-thesis-and-validation-alliance.md) | [MM](./inspiration_on_making_money/execution_and_delivery/033-dont-let-appeasement-logic-break-your-project-mainline-and-sales-alliance.md) | — | 5 |
+| 034 | 《必须制裁反动派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md) | [SD](./inspiration_on_software_development/team_process_and_quality/034-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md) | [MM](./inspiration_on_making_money/execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md) | — | 5 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | 1 |
 
 ## 5. 已建立关联的原文标题清单（按真实顺序）
@@ -446,6 +448,16 @@
   - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/033-dont-let-appeasement-logic-break-your-thesis-and-validation-alliance.md`
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/033-dont-let-appeasement-logic-break-your-project-mainline-and-sales-alliance.md`
 
+### 034《必须制裁反动派》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 16 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm
+- 已关联 inspiration 文件数：5
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/034-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -455,6 +467,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`034《必须制裁反动派》`
+- 如果要从当前边界继续向下推进，下一篇应是：`035《关于国际新形势对新华日报记者的谈话》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

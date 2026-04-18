@@ -8,3 +8,5 @@ These writings are reflective companion materials for the diary project. They de
 Current files:
 - `000-initial-persona-self-portrait.md`
 - `001-growth-journal-during-mao-study.md`
+
+Current growth-journal coverage: through article 034《必须制裁反动派》。

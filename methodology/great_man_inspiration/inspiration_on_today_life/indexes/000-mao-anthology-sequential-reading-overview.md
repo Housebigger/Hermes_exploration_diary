@@ -205,6 +205,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/033-dont-let-appeasement-logic-break-your-company-mainline-and-alliance.md`
   - `../inspiration_on_stock_investing/research_and_thesis/033-dont-let-appeasement-logic-break-your-thesis-and-validation-alliance.md`
   - `../inspiration_on_making_money/execution_and_delivery/033-dont-let-appeasement-logic-break-your-project-mainline-and-sales-alliance.md`
+- 034《必须制裁反动派》
+  - `cooperation_and_organization/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
+  - `../inspiration_on_software_development/team_process_and_quality/034-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
+  - `../inspiration_on_making_money/execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -226,6 +232,7 @@
 - 029—031 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/016-stage-summary-029-031-from-cooperative-independence-and-main-battlefield-organization-to-new-stage-mass-entry.md`
 - 030—032 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/017-stage-summary-030-032-from-main-battlefield-and-mass-entry-to-vanguards-joining-the-main-force.md`
 - 031—033 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/018-stage-summary-031-033-from-new-stage-mass-entry-and-vanguards-joining-the-main-force-to-resisting-surrender-logic-and-holding-the-main-alliance.md`
+- 033—034 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/019-stage-summary-033-034-from-resisting-surrender-logic-and-holding-the-main-alliance-to-protecting-builders-and-punishing-repeat-breakers.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
