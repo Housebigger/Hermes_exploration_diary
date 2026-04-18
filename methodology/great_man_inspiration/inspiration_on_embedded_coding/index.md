@@ -11,6 +11,7 @@ Theme: translate historical texts into embedded software engineering methods.
 - `engineering_strategy/001-on-protracted-war-long-cycle-embedded-software.md`
 - `engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md`
 - `engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md`
+- `engineering_strategy/014-dont-treat-a-new-embedded-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 
 Focus:
 - long-cycle projects
@@ -18,6 +19,7 @@ Focus:
 - endurance versus panic and rashness
 - building engineering base areas under long pressure
 - concentrating main force on the decisive battlefield
+- holding the main line and preparing structural counterattack in a new stage
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -41,6 +43,9 @@ Focus:
 - `team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
 - `team_process_and_knowledge/007-dont-trade-surface-harmony-for-embedded-truth-and-discipline.md`
 - `team_process_and_knowledge/008-dont-let-unbounded-support-reopen-your-embedded-order.md`
+- `team_process_and_knowledge/011-cooperate-broadly-without-surrendering-embedded-initiative.md`
+- `team_process_and_knowledge/012-dont-let-appeasement-logic-break-your-embedded-mainline-and-alliance.md`
+- `team_process_and_knowledge/013-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
 
 Focus:
 - knowledge sedimentation
@@ -49,6 +54,9 @@ Focus:
 - alliance-aware joint debugging and collaboration boundary governance
 - truth-preserving feedback and issue escalation discipline
 - collaboration-entry control and order-protection rules
+- cooperative independence in broad collaboration
+- mainline-and-alliance protection under sustained pressure
+- consequence structures for repeat breakers of version and evidence discipline
 
 ## Writing convention
 

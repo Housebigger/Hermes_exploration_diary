@@ -184,6 +184,7 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md`
   - `../inspiration_on_stock_investing/research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md`
   - `../inspiration_on_making_money/execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/011-cooperate-broadly-without-surrendering-embedded-initiative.md`
 - 030《战争和战略问题》
   - `cooperation_and_organization/030-major-life-battles-need-a-main-battlefield-and-main-force.md`
   - `../inspiration_on_software_development/iteration_and_delivery/030-major-software-battles-need-a-main-battlefield-and-main-force.md`
@@ -209,18 +210,21 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/033-dont-let-appeasement-logic-break-your-company-mainline-and-alliance.md`
   - `../inspiration_on_stock_investing/research_and_thesis/033-dont-let-appeasement-logic-break-your-thesis-and-validation-alliance.md`
   - `../inspiration_on_making_money/execution_and_delivery/033-dont-let-appeasement-logic-break-your-project-mainline-and-sales-alliance.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/012-dont-let-appeasement-logic-break-your-embedded-mainline-and-alliance.md`
 - 034《必须制裁反动派》
   - `cooperation_and_organization/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
   - `../inspiration_on_software_development/team_process_and_quality/034-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
   - `../inspiration_on_stock_investing/research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
   - `../inspiration_on_making_money/execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/013-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
 - 035《关于国际新形势对新华日报记者的谈话》
   - `cooperation_and_organization/035-dont-treat-a-new-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
   - `../inspiration_on_software_development/team_process_and_quality/035-dont-treat-a-new-project-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/035-dont-treat-a-new-business-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
   - `../inspiration_on_stock_investing/research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
   - `../inspiration_on_making_money/execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/014-dont-treat-a-new-embedded-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - 036《和中央社、扫荡报、新民报三记者的谈话》
   - `cooperation_and_organization/036-dont-treat-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
   - `../inspiration_on_software_development/team_process_and_quality/036-dont-treat-allies-as-outsiders-build-team-self-reliance-and-defend-boundaries.md`
