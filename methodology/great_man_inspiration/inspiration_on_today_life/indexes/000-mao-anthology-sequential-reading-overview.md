@@ -211,6 +211,12 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
   - `../inspiration_on_stock_investing/research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
   - `../inspiration_on_making_money/execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
+- 035《关于国际新形势对新华日报记者的谈话》
+  - `cooperation_and_organization/035-dont-treat-a-new-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+  - `../inspiration_on_software_development/team_process_and_quality/035-dont-treat-a-new-project-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/035-dont-treat-a-new-business-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
+  - `../inspiration_on_making_money/execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 
 ## 阶段补充小结（自动追加）
 
@@ -233,6 +239,7 @@
 - 030—032 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/017-stage-summary-030-032-from-main-battlefield-and-mass-entry-to-vanguards-joining-the-main-force.md`
 - 031—033 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/018-stage-summary-031-033-from-new-stage-mass-entry-and-vanguards-joining-the-main-force-to-resisting-surrender-logic-and-holding-the-main-alliance.md`
 - 033—034 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/019-stage-summary-033-034-from-resisting-surrender-logic-and-holding-the-main-alliance-to-protecting-builders-and-punishing-repeat-breakers.md`
+- 034—035 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/020-stage-summary-034-035-from-protecting-builders-and-punishing-repeat-breakers-to-holding-the-line-in-a-new-stage-and-preparing-counterattack.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

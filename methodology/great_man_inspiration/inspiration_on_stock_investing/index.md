@@ -35,6 +35,7 @@ Purpose:
 - `research_and_thesis/032-vanguards-must-join-the-real-market-main-force.md`
 - `research_and_thesis/033-dont-let-appeasement-logic-break-your-thesis-and-validation-alliance.md`
 - `research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
+- `research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -58,6 +59,7 @@ Purpose:
 - how investors stop mistaking early smart-money insight for the full market main force, and instead keep joining research judgement to broader validating participation so a thesis is carried by real market structure
 - how investors recognize that under market pressure the first fatal move is often not price weakness itself but internal appeasement logic that abandons the main thesis, breaks the validation framework, and trades disciplined judgment for emotional relief
 - how investors keep a research system mature by protecting the thesis-and-validation framework, making repeat discipline-breakers pay a cost, and refusing to let emotional relief repeatedly overrule verification
+- how investors avoid treating a newly stabilized market phase as rest, and instead hold the main thesis, prevent validation drift and research backsliding, and turn temporary relief into preparation for higher-quality counterattacks
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

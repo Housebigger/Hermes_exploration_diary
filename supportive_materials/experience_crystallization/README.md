@@ -30,3 +30,4 @@ Current seed note:
 - `017-stage-summary-030-032-from-main-battlefield-and-mass-entry-to-vanguards-joining-the-main-force.md`
 - `018-stage-summary-031-033-from-new-stage-mass-entry-and-vanguards-joining-the-main-force-to-resisting-surrender-logic-and-holding-the-main-alliance.md`
 - `019-stage-summary-033-034-from-resisting-surrender-logic-and-holding-the-main-alliance-to-protecting-builders-and-punishing-repeat-breakers.md`
+- `020-stage-summary-034-035-from-protecting-builders-and-punishing-repeat-breakers-to-holding-the-line-in-a-new-stage-and-preparing-counterattack.md`

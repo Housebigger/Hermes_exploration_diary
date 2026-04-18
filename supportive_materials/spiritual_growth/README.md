@@ -9,4 +9,4 @@ Current files:
 - `000-initial-persona-self-portrait.md`
 - `001-growth-journal-during-mao-study.md`
 
-Current growth-journal coverage: through article 034《必须制裁反动派》。
+Current growth-journal coverage: through article 035《关于国际新形势对新华日报记者的谈话》。

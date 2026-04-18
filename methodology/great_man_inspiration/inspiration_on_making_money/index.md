@@ -43,6 +43,7 @@ Important boundary:
 - `execution_and_delivery/032-vanguards-must-join-the-real-demand-main-force.md`
 - `execution_and_delivery/033-dont-let-appeasement-logic-break-your-project-mainline-and-sales-alliance.md`
 - `execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
+- `execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
@@ -68,3 +69,4 @@ Additional focus:
 - how side-hustle builders stop mistaking insight-holding creators for the whole business main force, and instead connect their early judgment with real customers and burden-bearing delivery scenes so broader demand power can be organized
 - how side-hustle builders recognize that under sustained pressure the first fatal move is often not market difficulty itself but internal appeasement logic that lowers standards, breaks the mainline, and trades real business backbone for short-term ease
 - how side-hustle builders build stable cooperation by protecting the people who hold standards and delivery together, making repeat breakers pay a cost, and refusing to let short-term ease keep rewarding the same boundary damage
+- how side-hustle builders avoid treating a newly stabilized side-hustle phase as rest, and instead hold the business mainline, prevent alliance drift and standards backsliding, and turn temporary stability into preparation for a stronger growth counterattack
