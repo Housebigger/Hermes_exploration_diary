@@ -133,6 +133,7 @@
   - `../inspiration_on_running_a_company/organization_design/021-dont-trade-surface-harmony-for-organizational-truth.md`
   - `../inspiration_on_stock_investing/research_and_thesis/021-dont-trade-research-truth-for-surface-consensus.md`
   - `../inspiration_on_making_money/execution_and_delivery/021-dont-trade-surface-harmony-for-sustainable-side-hustle-collaboration.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/007-dont-trade-surface-harmony-for-embedded-truth-and-discipline.md`
 - 022《国共合作成立后的迫切任务》
   - `cooperation_and_organization/022-dont-stop-at-formal-cooperation-build-shared-rules-and-real-support.md`
   - `../inspiration_on_software_development/team_process_and_quality/022-dont-confuse-cross-functional-alignment-with-real-execution-capacity.md`
@@ -157,12 +158,14 @@
   - `../inspiration_on_running_a_company/organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md`
   - `../inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
   - `../inspiration_on_making_money/execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/008-dont-let-unbounded-support-reopen-your-embedded-order.md`
 - 026《抗日游击战争的战略问题》
   - `survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md`
   - `../inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md`
   - `../inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
   - `../inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md`
 - 027《论持久战》
   - `long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
   - `../inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
@@ -187,6 +190,7 @@
   - `../inspiration_on_running_a_company/strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md`
   - `../inspiration_on_stock_investing/research_and_thesis/030-major-investment-battles-need-a-main-battlefield-and-research-main-force.md`
   - `../inspiration_on_making_money/execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md`
+  - `../inspiration_on_embedded_coding/engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md`
 - 031《五四运动》
   - `cooperation_and_organization/031-a-new-life-stage-begins-when-the-awakened-join-the-real-majority.md`
   - `../inspiration_on_software_development/team_process_and_quality/031-a-new-product-stage-begins-when-insight-joins-the-frontline.md`

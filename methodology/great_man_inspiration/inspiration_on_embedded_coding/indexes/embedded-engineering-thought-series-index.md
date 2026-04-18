@@ -83,7 +83,56 @@
 - 为什么硬件、驱动、测试、FAE、工厂与供应商接口人不能先被当成异己，而应按友军逻辑组织联合调试
 - 为什么联调磨擦既不能无限放大，也不能无限忍让，而要落到严格自卫的工程边界治理
 
+### 7. 从《反对自由主义》看嵌入式团队：别拿表面和气换工程真相，板级异常、现场坏信号和质量问题必须进机制
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/007-dont-trade-surface-harmony-for-embedded-truth-and-discipline.md`
+
+核心主题：
+- 为什么嵌入式项目常死于被纵容的坏信号，而不是单个公开大故障
+- 为什么板级异常、现场噪音、版本回归和证据缺口必须进入正式机制
+- 为什么不能让情面、资历和关系覆盖工程事实与质量纪律
+- 为什么跨层协作必须把反馈、升级和纠偏做成真相保护系统
+
+### 8. 从《陕甘宁边区政府第八路军后方留守处布告》看嵌入式团队：协作期别让临时支援、未授权改动和关系型插手重开工程混乱
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/008-dont-let-unbounded-support-reopen-your-embedded-order.md`
+
+核心主题：
+- 为什么版本、板卡、产测和 patch 准入规则是嵌入式项目的既得工程成果
+- 为什么真正的支援不会要求团队拆掉已经修好的工程系统
+- 为什么联合调试和量产收敛最怕未经授权的介入与入口失守
+- 为什么协作稳定不只靠好意，还要靠权限、边界、记录和升级处理机制
+
+### 9. 从《抗日游击战争的战略问题》看资源弱势的嵌入式团队：先建工程根据地，用局部快仗和灵活机动穿过长期压力
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md`
+
+核心主题：
+- 为什么弱势嵌入式团队不能照着强者的正面工程打法平均铺开所有战线
+- 为什么工程根据地要落实为稳定版本线、基准板卡、可复现实验面和观测链
+- 为什么整体防守中仍要主动创造局部快仗和可收口的小胜
+- 为什么多线压力下必须集中主力打穿一路并把小打法升级成主力能力
+
+### 10. 从《战争和战略问题》看嵌入式项目：真正决定成败的不是到处救火，而是识别主战场并围绕主链路组织主力
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md`
+
+核心主题：
+- 为什么嵌入式项目关键阶段不能继续用平均主义方式管理所有问题
+- 为什么主战场一旦明确，其它测试、日志、工厂和协同动作都要重新排位
+- 为什么没有成建制的工程主力，项目即使知道重点也很难真正改局
+- 为什么团队不仅要研究单个故障，还要研究主战场本身的结构、变量与打法
+
 ## 后续候选主题
+
+- `029《统一战线中的独立自主问题》`：合作面扩大时，如何既借力又不丢固件主线判断和执行主动权。
+- `034《必须制裁反动派》`：对重复破坏版本纪律、接口边界和证据链的人，为什么不能只讲合作不讲后果。
+- `035《关于国际新形势对新华日报记者的谈话》`：新阶段不是舒服停摆，而是围绕主线升级准备反攻结构。
+- `033《反对投降活动》`：别让妥协逻辑拆掉嵌入式主线、主联盟和验证纪律。
 
 ## 这个专栏的写法原则
 

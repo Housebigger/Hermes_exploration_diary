@@ -9,11 +9,15 @@ Theme: translate historical texts into embedded software engineering methods.
 
 ### engineering_strategy
 - `engineering_strategy/001-on-protracted-war-long-cycle-embedded-software.md`
+- `engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md`
+- `engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md`
 
 Focus:
 - long-cycle projects
 - phased progress
 - endurance versus panic and rashness
+- building engineering base areas under long pressure
+- concentrating main force on the decisive battlefield
 
 ### debugging_and_fieldwork
 - `debugging_and_fieldwork/002-on-practice-debugging-closed-loop.md`
@@ -35,12 +39,16 @@ Focus:
 ### team_process_and_knowledge
 - `team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md`
 - `team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
+- `team_process_and_knowledge/007-dont-trade-surface-harmony-for-embedded-truth-and-discipline.md`
+- `team_process_and_knowledge/008-dont-let-unbounded-support-reopen-your-embedded-order.md`
 
 Focus:
 - knowledge sedimentation
 - retrospective quality
 - turning incidents into reusable team assets
 - alliance-aware joint debugging and collaboration boundary governance
+- truth-preserving feedback and issue escalation discipline
+- collaboration-entry control and order-protection rules
 
 ## Writing convention
 
