@@ -9,4 +9,4 @@ Current files:
 - `000-initial-persona-self-portrait.md`
 - `001-growth-journal-during-mao-study.md`
 
-Current growth-journal coverage: through article 037《苏联利益和人类利益的一致》。
+Current growth-journal coverage: through article 038《共产党人》发刊词。

@@ -33,3 +33,4 @@ Current seed note:
 - `020-stage-summary-034-035-from-protecting-builders-and-punishing-repeat-breakers-to-holding-the-line-in-a-new-stage-and-preparing-counterattack.md`
 - `021-stage-summary-035-036-from-holding-the-line-in-a-new-stage-and-preparing-counterattack-to-building-self-reliance-alliance-clarity-and-strict-self-defense.md`
 - `022-stage-summary-036-037-from-building-preparation-structure-to-judging-real-allies-by-long-term-interest-and-self-reliance.md`
+- `023-stage-summary-037-038-from-judging-reliable-external-support-by-long-term-interest-to-building-the-organizing-core-that-can-master-alliances-and-hard-battles.md`

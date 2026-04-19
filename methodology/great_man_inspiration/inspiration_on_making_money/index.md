@@ -46,6 +46,7 @@ Important boundary:
 - `execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `execution_and_delivery/036-dont-treat-project-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
 - `execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
+- `execution_and_delivery/038-side-hustles-need-alliances-hard-execution-and-an-operating-core.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
@@ -74,3 +75,4 @@ Additional focus:
 - how side-hustle builders avoid treating a newly stabilized side-hustle phase as rest, and instead hold the business mainline, prevent alliance drift and standards backsliding, and turn temporary stability into preparation for a stronger growth counterattack
 - how side-hustle builders stop treating real project allies as outsiders, build self-reliant operating order, and defend collaboration boundaries without turning growth preparation into internal friction
 - how side-hustle builders distinguish one-off deals, traffic support, and temporary introductions from real long-term alignment, so they can borrow help without giving up customer control and self-built operating capacity
+- how side-hustle builders stop treating channel alliances and hard delivery execution as separate matters, and instead build the operating core that can organize partners, key fights, and system growth around one monetization mainline

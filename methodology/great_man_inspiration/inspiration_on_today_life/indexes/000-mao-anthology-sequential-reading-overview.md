@@ -245,6 +245,14 @@
   - `../inspiration_on_making_money/execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/019-dont-judge-embedded-allies-by-surface-deals-see-whose-interests-really-align.md`
 
+- 038《共产党人》发刊词
+  - `cooperation_and_organization/038-major-life-battles-need-alliances-hard-action-and-an-organizing-core.md`
+  - `../inspiration_on_software_development/team_process_and_quality/038-projects-need-alliances-hard-fights-and-an-organizing-core.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/038-companies-need-alliances-hard-execution-and-an-organizing-core.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/038-investing-needs-information-alliances-hard-execution-and-a-research-core.md`
+  - `../inspiration_on_making_money/execution_and_delivery/038-side-hustles-need-alliances-hard-execution-and-an-operating-core.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md`
+
 ## 阶段补充小结（自动追加）
 
 - 012—014 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`
@@ -269,6 +277,7 @@
 - 034—035 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/020-stage-summary-034-035-from-protecting-builders-and-punishing-repeat-breakers-to-holding-the-line-in-a-new-stage-and-preparing-counterattack.md`
 - 035—036 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/021-stage-summary-035-036-from-holding-the-line-in-a-new-stage-and-preparing-counterattack-to-building-self-reliance-alliance-clarity-and-strict-self-defense.md`
 - 036—037 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/022-stage-summary-036-037-from-building-preparation-structure-to-judging-real-allies-by-long-term-interest-and-self-reliance.md`
+- 037—038 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/023-stage-summary-037-038-from-judging-reliable-external-support-by-long-term-interest-to-building-the-organizing-core-that-can-master-alliances-and-hard-battles.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

@@ -38,6 +38,7 @@ Purpose:
 - `research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
 - `research_and_thesis/036-dont-treat-validation-allies-as-outsiders-build-research-self-reliance-and-defend-boundaries.md`
 - `research_and_thesis/037-dont-judge-thesis-allies-by-surface-deals-see-whose-interests-really-align.md`
+- `research_and_thesis/038-investing-needs-information-alliances-hard-execution-and-a-research-core.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -64,6 +65,7 @@ Purpose:
 - how investors avoid treating a newly stabilized market phase as rest, and instead hold the main thesis, prevent validation drift and research backsliding, and turn temporary relief into preparation for higher-quality counterattacks
 - how investors stop treating genuine validation allies as outsiders, build research self-reliance through stronger internal process, and defend discipline boundaries without turning disagreement into self-sabotage
 - how investors separate surface transactions, policy/news signals, and temporary external support from real long-term interest alignment, so one event does not prematurely rewrite the thesis or replace independent research
+- how investors stop treating information alliances and decisive execution as separate skills, and instead build the research core that can organize validation, position-taking, and self-correction around one thesis mainline
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

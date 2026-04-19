@@ -53,6 +53,7 @@ Focus:
 - `team_process_and_knowledge/017-dont-claim-the-core-seat-before-becoming-a-real-embedded-backbone.md`
 - `team_process_and_knowledge/018-vanguards-must-join-the-real-embedded-main-force.md`
 - `team_process_and_knowledge/019-dont-judge-embedded-allies-by-surface-deals-see-whose-interests-really-align.md`
+- `team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md`
 
 Focus:
 - knowledge sedimentation
@@ -67,6 +68,7 @@ Focus:
 - backbone-building before claiming a central engineering seat
 - bringing vanguard understanding into real delivery, production-test, and maintenance main force
 - long-term-interest judging in supplier, platform, and joint-debug relations so one support action, transaction, or coordinated move does not get mistaken for permanent engineering alignment
+- building the engineering core that can simultaneously organize external alliance surfaces, decisive version battles, and long-term knowledge/discipline construction around one embedded mainline
 
 ## Writing convention
 

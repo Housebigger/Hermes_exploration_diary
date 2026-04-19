@@ -84,6 +84,7 @@ Purpose:
 - `cooperation_and_organization/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
 - `cooperation_and_organization/035-dont-treat-a-new-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `cooperation_and_organization/036-dont-treat-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
+- `cooperation_and_organization/038-major-life-battles-need-alliances-hard-action-and-an-organizing-core.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -110,6 +111,7 @@ Purpose:
 - how ordinary people build real long-term unity by protecting the people who keep the main line alive, refusing to reward repeat boundary-breakers, and making consequences part of any honest life alliance
 - how ordinary people avoid mistaking a newly stabilized phase for rest, and instead hold the life mainline, prevent alliance drift and personal backsliding, and turn temporary stability into preparation for a stronger next move
 - how ordinary people stop treating real allies as outsiders, build self-reliant internal order, and defend boundaries without letting cooperation decay into mutual depletion
+- how ordinary people stop treating support networks and hard life battles as separate matters, and instead build themselves into the organizing core that can unite allies, fight decisive battles, and keep the mainline stable under long pressure
 
 ## Writing convention
 

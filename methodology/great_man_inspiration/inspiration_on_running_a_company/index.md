@@ -46,6 +46,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/035-dont-treat-a-new-business-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `strategy_and_execution/036-dont-treat-business-allies-as-outsiders-build-org-self-reliance-and-defend-boundaries.md`
 - `strategy_and_execution/037-dont-judge-business-allies-by-surface-deals-see-whose-interests-really-align.md`
+- `strategy_and_execution/038-companies-need-alliances-hard-execution-and-an-organizing-core.md`
 
 ## Focus of the current notes
 - how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
@@ -86,3 +87,4 @@ Reserved theme for future notes that translate historical texts into practical m
 - how companies avoid mistaking a newly stabilized operating phase for rest, and instead hold the business mainline, keep the backbone coalition from drifting apart, continue system progress, and turn temporary relief into preparation for counterattack
 - how companies stop treating real business allies as outsiders, build organizational self-reliance through internal governance upgrade, and defend boundaries without dissolving cooperation into factional drag
 - how companies distinguish tactical deals and public gestures from real long-term interest alignment, so leadership can use outside resources without surrendering strategic judgement or self-reliance
+- how companies stop treating alliance-building and hard execution as separate capabilities, and instead build the organizational core that can unify partners, decisive battles, and internal construction around one strategic mainline
