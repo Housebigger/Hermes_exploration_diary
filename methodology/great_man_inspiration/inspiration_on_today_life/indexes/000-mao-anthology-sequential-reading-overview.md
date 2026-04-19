@@ -237,6 +237,14 @@
   - `../inspiration_on_making_money/execution_and_delivery/036-dont-treat-project-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/006-dont-treat-debug-allies-as-outsiders-build-engineering-self-reliance-and-defend-boundaries.md`
 
+- 037《苏联利益和人类利益的一致》
+  - `judgement_and_decision/037-dont-judge-allies-by-surface-deals-see-whose-interests-really-align.md`
+  - `../inspiration_on_software_development/team_process_and_quality/037-dont-judge-project-allies-by-surface-deals-see-whose-interests-really-align.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/037-dont-judge-business-allies-by-surface-deals-see-whose-interests-really-align.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/037-dont-judge-thesis-allies-by-surface-deals-see-whose-interests-really-align.md`
+  - `../inspiration_on_making_money/execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/019-dont-judge-embedded-allies-by-surface-deals-see-whose-interests-really-align.md`
+
 ## 阶段补充小结（自动追加）
 
 - 012—014 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`
@@ -260,6 +268,7 @@
 - 033—034 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/019-stage-summary-033-034-from-resisting-surrender-logic-and-holding-the-main-alliance-to-protecting-builders-and-punishing-repeat-breakers.md`
 - 034—035 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/020-stage-summary-034-035-from-protecting-builders-and-punishing-repeat-breakers-to-holding-the-line-in-a-new-stage-and-preparing-counterattack.md`
 - 035—036 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/021-stage-summary-035-036-from-holding-the-line-in-a-new-stage-and-preparing-counterattack-to-building-self-reliance-alliance-clarity-and-strict-self-defense.md`
+- 036—037 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/022-stage-summary-036-037-from-building-preparation-structure-to-judging-real-allies-by-long-term-interest-and-self-reliance.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 

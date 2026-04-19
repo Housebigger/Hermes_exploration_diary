@@ -32,3 +32,4 @@ Current seed note:
 - `019-stage-summary-033-034-from-resisting-surrender-logic-and-holding-the-main-alliance-to-protecting-builders-and-punishing-repeat-breakers.md`
 - `020-stage-summary-034-035-from-protecting-builders-and-punishing-repeat-breakers-to-holding-the-line-in-a-new-stage-and-preparing-counterattack.md`
 - `021-stage-summary-035-036-from-holding-the-line-in-a-new-stage-and-preparing-counterattack-to-building-self-reliance-alliance-clarity-and-strict-self-defense.md`
+- `022-stage-summary-036-037-from-building-preparation-structure-to-judging-real-allies-by-long-term-interest-and-self-reliance.md`

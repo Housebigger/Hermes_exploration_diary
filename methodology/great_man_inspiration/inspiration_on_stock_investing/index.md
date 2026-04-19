@@ -37,6 +37,7 @@ Purpose:
 - `research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
 - `research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
 - `research_and_thesis/036-dont-treat-validation-allies-as-outsiders-build-research-self-reliance-and-defend-boundaries.md`
+- `research_and_thesis/037-dont-judge-thesis-allies-by-surface-deals-see-whose-interests-really-align.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
@@ -62,6 +63,7 @@ Purpose:
 - how investors keep a research system mature by protecting the thesis-and-validation framework, making repeat discipline-breakers pay a cost, and refusing to let emotional relief repeatedly overrule verification
 - how investors avoid treating a newly stabilized market phase as rest, and instead hold the main thesis, prevent validation drift and research backsliding, and turn temporary relief into preparation for higher-quality counterattacks
 - how investors stop treating genuine validation allies as outsiders, build research self-reliance through stronger internal process, and defend discipline boundaries without turning disagreement into self-sabotage
+- how investors separate surface transactions, policy/news signals, and temporary external support from real long-term interest alignment, so one event does not prematurely rewrite the thesis or replace independent research
 
 ### risk_and_position_management
 - `risk_and_position_management/008-cash-and-supply-lines-before-big-bets.md`

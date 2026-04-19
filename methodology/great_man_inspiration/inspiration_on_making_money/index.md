@@ -45,6 +45,7 @@ Important boundary:
 - `execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
 - `execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `execution_and_delivery/036-dont-treat-project-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
+- `execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos
@@ -72,3 +73,4 @@ Additional focus:
 - how side-hustle builders build stable cooperation by protecting the people who hold standards and delivery together, making repeat breakers pay a cost, and refusing to let short-term ease keep rewarding the same boundary damage
 - how side-hustle builders avoid treating a newly stabilized side-hustle phase as rest, and instead hold the business mainline, prevent alliance drift and standards backsliding, and turn temporary stability into preparation for a stronger growth counterattack
 - how side-hustle builders stop treating real project allies as outsiders, build self-reliant operating order, and defend collaboration boundaries without turning growth preparation into internal friction
+- how side-hustle builders distinguish one-off deals, traffic support, and temporary introductions from real long-term alignment, so they can borrow help without giving up customer control and self-built operating capacity

@@ -55,6 +55,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/034-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/035-dont-treat-a-new-project-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/036-dont-treat-allies-as-outsiders-build-team-self-reliance-and-defend-boundaries.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/037-dont-judge-project-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/023-dont-run-key-projects-as-a-passive-defensive-war.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
@@ -107,6 +108,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/009-see-through-labels-to-real-life-structure.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/014-judge-turning-points-by-actions-not-statements.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/018-find-the-main-contradiction-before-spending-your-life-force.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/037-dont-judge-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
@@ -151,6 +153,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/034-dont-call-it-cooperation-if-repeat-breakers-face-no-consequence.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/035-dont-treat-a-new-side-hustle-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/036-dont-treat-project-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
 
 ### 5. inspiration_on_stock_investing
 Translate historical texts into practical methods for stock-market investing, market observation, thesis research, risk control, and execution discipline.
@@ -187,6 +190,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/034-dont-call-it-discipline-if-repeat-breakers-face-no-consequence.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/035-dont-treat-a-new-market-stage-as-rest-hold-your-thesis-and-prepare-counterattack.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/036-dont-treat-validation-allies-as-outsiders-build-research-self-reliance-and-defend-boundaries.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/037-dont-judge-thesis-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/013-dont-defend-every-position-preserve-capital-for-high-odds-counterattacks.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/trading_and_execution/023-dont-trade-market-opportunities-as-a-passive-defensive-war.md`
 - `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
@@ -236,6 +240,7 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/034-dont-call-it-unity-if-repeat-breakers-face-no-consequence.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/035-dont-treat-a-new-business-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/036-dont-treat-business-allies-as-outsiders-build-org-self-reliance-and-defend-boundaries.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/037-dont-judge-business-allies-by-surface-deals-see-whose-interests-really-align.md`
 
 ## Naming convention
 

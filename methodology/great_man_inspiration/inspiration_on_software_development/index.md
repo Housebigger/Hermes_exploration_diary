@@ -84,6 +84,7 @@ Purpose:
 - `team_process_and_quality/034-dont-call-it-collaboration-if-repeat-breakers-face-no-consequence.md`
 - `team_process_and_quality/035-dont-treat-a-new-project-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `team_process_and_quality/036-dont-treat-allies-as-outsiders-build-team-self-reliance-and-defend-boundaries.md`
+- `team_process_and_quality/037-dont-judge-project-allies-by-surface-deals-see-whose-interests-really-align.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
@@ -108,6 +109,7 @@ Purpose:
 - how software teams build real collaboration by protecting builders, making repeat mainline-breaking behavior costly, and refusing to let surface harmony keep rewarding the people who repeatedly damage product and engineering order
 - how software teams avoid treating a newly stabilized project phase as rest, and instead hold the product-engineering mainline, prevent collaboration drift and process backsliding, and turn temporary stability into preparation for a stronger next push
 - how software teams stop treating real collaborators as outsiders, build self-reliant internal governance, and defend process boundaries without turning project recovery into internal warfare
+- how software teams distinguish tactical cooperation and external noise from real long-term alignment, so one integration, deal, or message does not rewrite the project mainline judgement or weaken engineering self-reliance
 
 ### indexes
 Reserved for future series indexes and overview notes.

@@ -9,4 +9,4 @@ Current files:
 - `000-initial-persona-self-portrait.md`
 - `001-growth-journal-during-mao-study.md`
 
-Current growth-journal coverage: through article 036《和中央社、扫荡报、新民报三记者的谈话》。
+Current growth-journal coverage: through article 037《苏联利益和人类利益的一致》。
