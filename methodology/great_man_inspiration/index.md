@@ -289,6 +289,15 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/041-统一战线创业中的联盟与阶级分析.md`
 - `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md`
 
+### 042《斯大林是中国人民的朋友》(1939-12-20)
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md`
+
+### 043《纪念白求恩》(1939-12-21)
+- `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

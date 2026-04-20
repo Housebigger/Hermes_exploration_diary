@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 42 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 219 |
-| 顺序学习已连续覆盖范围 | 001—041 |
-| 顺序覆盖段标题核对结果 | 41/41 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 44 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 225 |
+| 顺序学习已连续覆盖范围 | 001—043 |
+| 顺序覆盖段标题核对结果 | 43/43 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 042《纪念白求恩》 |
+| 顺序主线的下一篇 | 044《新民主主义论》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `041《中国革命和中国共产党》`。
-- 在 `001—041` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `042《纪念白求恩》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `043《纪念白求恩》`。
+- 在 `001—043` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `044《新民主主义论》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -75,13 +75,15 @@
 | 039 | 《目前形势和党的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391010.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 040 | 《大量吸收知识分子》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391201.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 041 | 《中国革命和中国共产党》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 042 | 《斯大林是中国人民的朋友》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
+| 043 | 《纪念白求恩》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—041 顺序主线已建立关联         [#########################################]
-042 《纪念白求恩》                   [NEXT]
+001—043 顺序主线已建立关联         [###########################################]
+044 《新民主主义论》                 [NEXT]
 060 改造我们的学习                   [EXTRA] 非顺序拓展
 ```
 ## 3. 主题缩写图例
@@ -143,6 +145,8 @@
 | 039 | 《目前形势和党的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391010.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/039-stalemate-phase-three-dangers-surrender-split-regression.md) | — | [RC](./inspiration_on_running_a_company/strategy_and_execution/039-stalemate-competition-three-internal-dangers.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/039-stalemate-market-three-investor-traps.md) | — | — | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md) | 4 |
 | 040 | 《大量吸收知识分子》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391201.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/040-dont-reject-capable-helpers-because-they-are-different.md) | [SD](./inspiration_on_software_development/team_process_and_quality/040-dont-reject-diverse-talent-in-tech-teams.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/040-boldly-absorb-knowledge-workers.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md) | 4 |
 | 041 | 《中国革命和中国共产党》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/041-认清形势是一切判断的根据.md) | [SD](./inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/041-统一战线创业中的联盟与阶级分析.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/041-投资中的形势判断与阶段性思维.md) | [MM](./inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md) | 6 |
+| 042 | 《斯大林是中国人民的朋友》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md) | — | — | — | — | — | — | 1 |
+| 043 | 《纪念白求恩》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | [TL](./inspiration_on_today_life/long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md) | [SD](./inspiration_on_software_development/team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md) | 4 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -572,6 +576,21 @@
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md`
 
+### 042《斯大林是中国人民的朋友》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 24 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm
+- 已关联 inspiration 文件数：1
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md`
+
+### 043《纪念白求恩》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 25 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm
+- 已关联 inspiration 文件数：4
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -581,6 +600,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`042《纪念白求恩》`
+- 如果要从当前边界继续向下推进，下一篇应是：`044《新民主主义论》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。
