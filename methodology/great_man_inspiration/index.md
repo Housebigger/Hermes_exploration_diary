@@ -282,6 +282,12 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/023-dont-fight-alone-mobilize-real-support-forces.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md`
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/041-认清形势是一切判断的根据.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/041-投资中的形势判断与阶段性思维.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/041-统一战线创业中的联盟与阶级分析.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md`
 
 ## Naming convention
 
