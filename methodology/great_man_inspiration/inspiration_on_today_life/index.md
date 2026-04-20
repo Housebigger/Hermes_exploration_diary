@@ -87,6 +87,7 @@ Purpose:
 - `cooperation_and_organization/035-dont-treat-a-new-stage-as-rest-hold-the-line-and-prepare-counterattack.md`
 - `cooperation_and_organization/036-dont-treat-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
 - `cooperation_and_organization/038-major-life-battles-need-alliances-hard-action-and-an-organizing-core.md`
+- `cooperation_and_organization/040-dont-reject-capable-helpers-because-they-are-different.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change

@@ -48,6 +48,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/037-dont-judge-business-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `strategy_and_execution/038-companies-need-alliances-hard-execution-and-an-organizing-core.md`
 - `strategy_and_execution/039-stalemate-competition-three-internal-dangers.md`
+- `leadership_and_talent/040-boldly-absorb-knowledge-workers.md`
 
 ## Focus of the current notes
 - how companies recognize bottom-up correction, distinguish real structural grievances from noise, and turn frontline pressure into governance upgrade instead of suppressing it as disorder
