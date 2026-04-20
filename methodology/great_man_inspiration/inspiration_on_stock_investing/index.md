@@ -73,6 +73,7 @@ Purpose:
 - `risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md`
 - `risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md`
 - `risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
+- `risk_and_position_management/039-stalemate-market-three-investor-traps.md`
 
 Purpose:
 - how investors keep cash, resilience, and optionality before making large bets

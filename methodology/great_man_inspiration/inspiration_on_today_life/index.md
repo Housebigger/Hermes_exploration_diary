@@ -37,6 +37,7 @@ Purpose:
 - `judgement_and_decision/014-judge-turning-points-by-actions-not-statements.md`
 - `judgement_and_decision/018-find-the-main-contradiction-before-spending-your-life-force.md`
 - `judgement_and_decision/037-dont-judge-allies-by-surface-deals-see-whose-interests-really-align.md`
+- `judgement_and_decision/039-stalemate-phase-three-dangers-surrender-split-regression.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
@@ -48,6 +49,7 @@ Purpose:
 - how to judge whether people and institutions have really changed by watching whether old harmful actions stop and new promises are continuously fulfilled
 - how to identify the current main contradiction in a messy life situation instead of treating every pressure, conflict, and desire as the same-level emergency
 - how to resist single-event emotional judgments in complex situations by distinguishing surface contact from real long-term interest alignment and by keeping self-reliance as the main line when external help shifts
+- how ordinary people recognize that when external pressure shifts from intense attack to prolonged low-level drain, the real threat becomes internal surrender, alliance fragmentation, and standards erosion
 
 ### long_term_growth
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`

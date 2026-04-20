@@ -23,6 +23,7 @@
 - [028 先成为可靠的骨干教师，再谈话语权](teacher_growth_and_backbone/028-become-a-reliable-backbone-teacher-before-asking-for-voice.md)
 - [029 在学校体系中协作，但保持自己的教学判断](teacher_growth_and_backbone/029-cooperate-in-school-system-but-keep-teaching-judgment.md)
 - [033 不要在压力下放弃教学标准和教育底线](teacher_growth_and_backbone/033-dont-surrender-teaching-standards-under-pressure.md)
+- [039 持续压力期教师的三大隐患：放弃、散伙、滑坡](teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md)
 
 ### school_governance_and_crisis_response（学校治理与危机应对）
 - [012 遇到棘手问题，先建立广泛的支持联盟](school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md)
