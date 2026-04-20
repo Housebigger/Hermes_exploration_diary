@@ -1,0 +1,39 @@
+# 教育从业者启发 — 导航索引
+
+> 来源：毛泽东选集学习笔记（001-038篇回顾筛选）
+> 定位：为体制内中学教师提供可落地的方法论启发
+
+## 子主题目录
+
+### student_understanding_and_guidance（读懂学生、分类施策）
+- [001 别被学生的表面标签骗了，先读懂真实状态](student_understanding_and_guidance/001-dont-be-fooled-by-student-surface-labels-read-real-status.md)
+- [002 别把学生自下而上的变化当"捣乱"](student_understanding_and_guidance/002-dont-treat-student-bottom-up-change-as-mere-trouble.md)
+- [009 分类施策：像分析阶级一样理解学生差异](student_understanding_and_guidance/009-classify-students-by-real-status-not-vague-impressions.md)
+- [011 真正关心学生的具体困难，才能赢得信任](student_understanding_and_guidance/011-win-student-trust-by-solving-concrete-problems.md)
+
+### classroom_and_teaching_design（课堂设计与教学方法）
+- [007 没有调查就没有发言权：先了解学生再教](classroom_and_teaching_design/007-no-investigation-no-right-to-teach.md)
+- [016 把正确的教育方向变成学生的组织化参与](classroom_and_teaching_design/016-turn-correct-direction-into-organized-student-participation.md)
+- [032 班干部和优等生不等于班级主力军](classroom_and_teaching_design/032-class-cadres-and-top-students-are-not-the-main-force.md)
+
+### teacher_growth_and_backbone（教师成长与骨干精神）
+- [015 争取广泛支持但不丢失教学主线](teacher_growth_and_backbone/015-seek-broad-support-without-losing-teaching-mainline.md)
+- [017 教学理解来自实践-反思-再实践的循环](teacher_growth_and_backbone/017-teaching-grows-from-practice-reflection-cycles.md)
+- [027 教育是持久战，分阶段推进才能赢](teacher_growth_and_backbone/027-education-is-protracted-war-advance-in-stages.md)
+- [028 先成为可靠的骨干教师，再谈话语权](teacher_growth_and_backbone/028-become-a-reliable-backbone-teacher-before-asking-for-voice.md)
+- [029 在学校体系中协作，但保持自己的教学判断](teacher_growth_and_backbone/029-cooperate-in-school-system-but-keep-teaching-judgment.md)
+- [033 不要在压力下放弃教学标准和教育底线](teacher_growth_and_backbone/033-dont-surrender-teaching-standards-under-pressure.md)
+
+### school_governance_and_crisis_response（学校治理与危机应对）
+- [012 遇到棘手问题，先建立广泛的支持联盟](school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md)
+- [013 不要处处设防，集中力量解决关键教育问题](school_governance_and_crisis_response/013-concentrate-force-on-key-educational-battles.md)
+- [018 抓住班级的主要矛盾，别同时跟所有问题开战](school_governance_and_crisis_response/018-find-the-main-contradiction-of-your-class.md)
+- [034 反复破坏规则的学生，必须有清晰的后果](school_governance_and_crisis_response/034-repeat-rule-breakers-must-face-clear-consequences.md)
+
+### school_coordination_and_organization（教师协作与组织建设）
+- [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
+- [021 教师团队不能用面子代替原则](school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md)
+- [023 别一个人扛，把支持变成真实参战力量](school_coordination_and_organization/023-dont-fight-alone-mobilize-real-support-forces.md)
+
+---
+统计：20篇笔记 / 5个子主题 / 覆盖001-038中20篇原文
