@@ -246,6 +246,42 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/036-dont-treat-business-allies-as-outsiders-build-org-self-reliance-and-defend-boundaries.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/037-dont-judge-business-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/038-companies-need-alliances-hard-execution-and-an-organizing-core.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/039-stalemate-competition-three-internal-dangers.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/040-boldly-absorb-knowledge-workers.md`
+
+### 7. inspiration_on_educational_undertakings
+Translate historical texts into practical methods for 体制内 education: teaching design, classroom management, student guidance, teacher growth, school governance, and teacher coordination.
+
+Subfolders:
+- `student_understanding_and_guidance/`
+- `classroom_and_teaching_design/`
+- `teacher_growth_and_backbone/`
+- `school_governance_and_crisis_response/`
+- `school_coordination_and_organization/`
+
+Current contents:
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/001-dont-be-fooled-by-student-surface-labels-read-real-status.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/002-dont-treat-student-bottom-up-change-as-mere-trouble.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/009-classify-students-by-real-status-not-vague-impressions.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/011-win-student-trust-by-solving-concrete-problems.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/007-no-investigation-no-right-to-teach.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/016-turn-correct-direction-into-organized-student-participation.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/032-class-cadres-and-top-students-are-not-the-main-force.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/015-seek-broad-support-without-losing-teaching-mainline.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/017-teaching-grows-from-practice-reflection-cycles.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/027-education-is-protracted-war-advance-in-stages.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/028-become-a-reliable-backbone-teacher-before-asking-for-voice.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/029-cooperate-in-school-system-but-keep-teaching-judgment.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/033-dont-surrender-teaching-standards-under-pressure.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/013-concentrate-force-on-key-educational-battles.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/018-find-the-main-contradiction-of-your-class.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/034-repeat-rule-breakers-must-face-clear-consequences.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/023-dont-fight-alone-mobilize-real-support-forces.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md`
 
 ## Naming convention
 

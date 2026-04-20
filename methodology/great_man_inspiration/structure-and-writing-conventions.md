@@ -16,6 +16,7 @@ Choose the practical application first, then place the file under the appropriat
   - `inspiration_on_making_money/`
   - `inspiration_on_stock_investing/`
   - `inspiration_on_running_a_company/`
+  - `inspiration_on_educational_undertakings/`
 
 ## Placement rules
 
@@ -63,10 +64,24 @@ Prefer these reserved themes:
 - `inspiration_on_stock_investing/`
 - `inspiration_on_running_a_company/`
 
+### If the note is mainly about education practice
+Place it under:
+`methodology/great_man_inspiration/inspiration_on_educational_undertakings/`
+
+Then choose one:
+- `student_understanding_and_guidance/`
+- `classroom_and_teaching_design/`
+- `teacher_growth_and_backbone/`
+- `school_governance_and_crisis_response/`
+- `school_coordination_and_organization/`
+
+Use this for teaching design, classroom management, student guidance, teacher development, school governance, and related education work. Target audience: 体制内 educators (e.g. 初中政治老师).
+
 Use them with this distinction:
 - `inspiration_on_making_money/` -> side-income, monetization, freelance/service offers, content/IP commercialization, and副业赚钱 systems
 - `inspiration_on_stock_investing/` -> stock-market investing, market observation, research discipline, position sizing, and risk control in二级市场
 - `inspiration_on_running_a_company/` -> company operation, leadership, organization design, and strategic execution
+- `inspiration_on_educational_undertakings/` -> education practice, school management, teaching design, teacher growth, and classroom governance for 体制内 educators
 
 ## Filename rules
 
