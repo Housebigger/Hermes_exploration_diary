@@ -16,11 +16,11 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 44 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 225 |
-| 顺序学习已连续覆盖范围 | 001—043 |
-| 顺序覆盖段标题核对结果 | 43/43 与 marxists.org 标题一致 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 231 |
+| 顺序学习已连续覆盖范围 | 001—044 |
+| 顺序覆盖段标题核对结果 | 44/44 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 044《新民主主义论》 |
+| 顺序主线的下一篇 | 045《克服投降危险，力争时局好转》 |
 
 ## 2. 与真实文章列表的比对结论
 
@@ -28,7 +28,7 @@
 
 - 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `043《纪念白求恩》`。
 - 在 `001—043` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `044《新民主主义论》`：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm
+- 当前下一篇尚未纳入顺序主线的是 `045《克服投降危险，力争时局好转》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -77,13 +77,15 @@
 | 041 | 《中国革命和中国共产党》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 042 | 《斯大林是中国人民的朋友》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
 | 043 | 《纪念白求恩》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 044 | 《新民主主义论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
 001—043 顺序主线已建立关联         [###########################################]
-044 《新民主主义论》                 [NEXT]
+044 《新民主主义论》                 [DONE]
+045 《克服投降危险，力争时局好转》   [NEXT]
 060 改造我们的学习                   [EXTRA] 非顺序拓展
 ```
 ## 3. 主题缩写图例
@@ -600,6 +602,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`044《新民主主义论》`
+- 如果要从当前边界继续向下推进，下一篇应是：`045《克服投降危险，力争时局好转》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

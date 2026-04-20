@@ -298,6 +298,14 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md`
 
+### 044《新民主主义论》(1940-01)
+- `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/mao-044-united-front-business-philosophy.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/mao-044-localize-methods-not-copy.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:
