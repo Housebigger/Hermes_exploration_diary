@@ -77,7 +77,7 @@
 | 041 | 《中国革命和中国共产党》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 042 | 《斯大林是中国人民的朋友》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
 | 043 | 《纪念白求恩》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
-| 044 | 《新民主主义论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 044 | 《新民主主义论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
@@ -149,7 +149,7 @@
 | 041 | 《中国革命和中国共产党》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/041-认清形势是一切判断的根据.md) | [SD](./inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/041-统一战线创业中的联盟与阶级分析.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/041-投资中的形势判断与阶段性思维.md) | [MM](./inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md) | 6 |
 | 042 | 《斯大林是中国人民的朋友》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md) | — | — | — | — | — | — | 1 |
 | 043 | 《纪念白求恩》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | [TL](./inspiration_on_today_life/long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md) | [SD](./inspiration_on_software_development/team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md) | 4 |
-| 044 | 《新民主主义论》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | [TL](./inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md) | — | [MM](./inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md) | — | [ED①](./inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md) [ED②](./inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md) | 6 |
+| 044 | 《新民主主义论》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | [TL](./inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/mao-044-stages-and-localize-investing.md) | [MM](./inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md) | — | [ED①](./inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md) [ED②](./inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md) | 7 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -597,10 +597,11 @@
 ### 044《新民主主义论》
 - 真实索引位置：第二卷 抗日战争时期（上） / 本卷最末条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm
-- 已关联 inspiration 文件数：6
+- 已关联 inspiration 文件数：7
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
   - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-044-stages-and-localize-investing.md`
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md`
   - ED①: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md`
   - ED②: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md`

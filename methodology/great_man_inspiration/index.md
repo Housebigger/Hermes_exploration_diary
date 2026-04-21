@@ -301,8 +301,9 @@ Current contents:
 ### 044《新民主主义论》(1940-01)
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/mao-044-united-front-business-philosophy.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/mao-044-localize-methods-not-copy.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-044-stages-and-localize-investing.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md`
 
