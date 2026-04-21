@@ -315,6 +315,14 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md`
 
+### 046《团结一切抗日力量，反对反共顽固派》(1940-02-01)
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-046-classify-customers-and-build-verifiable-credibility.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-046-classify-evidence-and-beware-of-fake-integration.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:

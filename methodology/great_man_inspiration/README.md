@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 45 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 238 |
-| 顺序学习已连续覆盖范围 | 001—045 |
-| 顺序覆盖段标题核对结果 | 45/45 与 marxists.org 标题一致 |
+| 当前已建立原文关联的毛文标题数 | 46 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 244 |
+| 顺序学习已连续覆盖范围 | 001—046 |
+| 顺序覆盖段标题核对结果 | 46/46 与 marxists.org 标题一致 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 046《团结一切抗日力量，反对反共顽固派》 |
+| 顺序主线的下一篇 | 047《必须强调团结和进步》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `045《克服投降危险，力争时局好转》`。
-- 在 `001—045` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `046《团结一切抗日力量，反对反共顽固派》`
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `046《团结一切抗日力量，反对反共顽固派》`。
+- 在 `001—046` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `047《必须强调团结和进步》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -79,14 +79,15 @@
 | 043 | 《纪念白求恩》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 044 | 《新民主主义论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 045 | 《克服投降危险，力争时局好转》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 046 | 《团结一切抗日力量，反对反共顽固派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—045 顺序主线已建立关联         [#############################################]
-045 《克服投降危险，力争时局好转》   [DONE]
-046 《团结一切抗日力量，反对反共顽固派》 [NEXT]
+001—046 顺序主线已建立关联         [##############################################]
+046 《团结一切抗日力量，反对反共顽固派》 [DONE]
+047 《必须强调团结和进步》            [NEXT]
 060 改造我们的学习                   [EXTRA] 非顺序拓展
 ```
 ## 3. 主题缩写图例
@@ -152,6 +153,7 @@
 | 043 | 《纪念白求恩》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | [TL](./inspiration_on_today_life/long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md) | [SD](./inspiration_on_software_development/team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md) | 4 |
 | 044 | 《新民主主义论》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | [TL](./inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/mao-044-stages-and-localize-investing.md) | [MM](./inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md) | — | [ED①](./inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md) [ED②](./inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md) | 7 |
 | 045 | 《克服投降危险，力争时局好转》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-045-dont-isolate-local-crises.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/mao-045-two-futures-coexist-and-dual-track-defense.md) | [MM](./inspiration_on_making_money/side_income_strategy/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md) | 6 |
+| 046 | 《团结一切抗日力量，反对反共顽固派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-046-classify-evidence-and-beware-of-fake-integration.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/mao-046-dont-overgeneralize-and-evidence-based-logic.md) | [MM](./inspiration_on_making_money/side_income_strategy/mao-046-classify-customers-and-build-verifiable-credibility.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md) | 6 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -618,6 +620,16 @@
   - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md`
 
+### 046《团结一切抗日力量，反对反共顽固派》
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm
+- 已关联 inspiration 文件数：6
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-046-classify-customers-and-build-verifiable-credibility.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-046-classify-evidence-and-beware-of-fake-integration.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -627,6 +639,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`046《团结一切抗日力量，反对反共顽固派》`
+- 如果要从当前边界继续向下推进，下一篇应是：`047《必须强调团结和进步》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。
