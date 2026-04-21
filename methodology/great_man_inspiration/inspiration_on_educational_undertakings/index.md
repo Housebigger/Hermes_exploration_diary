@@ -10,11 +10,13 @@
 - [002 别把学生自下而上的变化当"捣乱"](student_understanding_and_guidance/002-dont-treat-student-bottom-up-change-as-mere-trouble.md)
 - [009 分类施策：像分析阶级一样理解学生差异](student_understanding_and_guidance/009-classify-students-by-real-status-not-vague-impressions.md)
 - [011 真正关心学生的具体困难，才能赢得信任](student_understanding_and_guidance/011-win-student-trust-by-solving-concrete-problems.md)
+- [044 教学不能跳阶段：先尊重学生所处阶段，再谈目标拔高](student_understanding_and_guidance/mao-044-education-must-follow-stages.md)
 
 ### classroom_and_teaching_design（课堂设计与教学方法）
 - [007 没有调查就没有发言权：先了解学生再教](classroom_and_teaching_design/007-no-investigation-no-right-to-teach.md)
 - [016 把正确的教育方向变成学生的组织化参与](classroom_and_teaching_design/016-turn-correct-direction-into-organized-student-participation.md)
 - [032 班干部和优等生不等于班级主力军](classroom_and_teaching_design/032-class-cadres-and-top-students-are-not-the-main-force.md)
+- [044 教学内容可以先进，但课堂呈现必须本土化](classroom_and_teaching_design/mao-044-localize-teaching-design.md)
 
 ### teacher_growth_and_backbone（教师成长与骨干精神）
 - [015 争取广泛支持但不丢失教学主线](teacher_growth_and_backbone/015-seek-broad-support-without-losing-teaching-mainline.md)
@@ -30,6 +32,7 @@
 - [013 不要处处设防，集中力量解决关键教育问题](school_governance_and_crisis_response/013-concentrate-force-on-key-educational-battles.md)
 - [018 抓住班级的主要矛盾，别同时跟所有问题开战](school_governance_and_crisis_response/018-find-the-main-contradiction-of-your-class.md)
 - [034 反复破坏规则的学生，必须有清晰的后果](school_governance_and_crisis_response/034-repeat-rule-breakers-must-face-clear-consequences.md)
+- [041 学校治理先看清问题性质，再决定统一战线与主攻方向](school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md)
 
 ### school_coordination_and_organization（教师协作与组织建设）
 - [005 教师团队也需要"纠正错误思想"](school_coordination_and_organization/005-teacher-teams-also-need-thought-rectification.md)
@@ -38,4 +41,4 @@
 - [040 学校必须善待和用好年轻教师与外来人才](school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md)
 
 ---
-统计：20篇笔记 / 5个子主题 / 覆盖001-038中20篇原文
+统计：23篇笔记 / 5个子主题 / 覆盖001-044中23篇原文

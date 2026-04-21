@@ -253,6 +253,70 @@
   - `../inspiration_on_making_money/execution_and_delivery/038-side-hustles-need-alliances-hard-execution-and-an-operating-core.md`
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md`
 
+- 039《目前形势和党的任务》
+  - `judgement_and_decision/039-stalemate-phase-three-dangers-surrender-split-regression.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/039-stalemate-competition-three-internal-dangers.md`
+  - `../inspiration_on_stock_investing/risk_and_position_management/039-stalemate-market-three-investor-traps.md`
+  - `../inspiration_on_educational_undertakings/teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md`
+  - 本轮已评估 software_development 角度，但暂未单独成文：该文更强地指向僵持期的内部危险识别、组织稳态与风险控制，不如相邻文章那样直接落到软件交付机制与工程协同设计。
+  - 本轮已评估 making_money 角度，但暂未单独成文：该文更强地指向高压阶段的退让、分裂与内部瓦解风险，不如已有副业笔记那样直接落到项目成交、交付或变现结构。
+
+- 040《大量吸收知识分子》
+  - `cooperation_and_organization/040-dont-reject-capable-helpers-because-they-are-different.md`
+  - `../inspiration_on_software_development/team_process_and_quality/040-dont-reject-diverse-talent-in-tech-teams.md`
+  - `../inspiration_on_running_a_company/leadership_and_talent/040-boldly-absorb-knowledge-workers.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md`
+  - 本轮已评估 stock_investing 角度，但暂未单独成文：该文更强地指向人才吸纳、合作边界与组织用人，不如前后文章那样直接落到研究框架、仓位纪律或交易执行。
+  - 本轮已评估 making_money 角度，但暂未单独成文：其方法重点在于识别并吸纳有能力但背景不同的人才，不如已有副业主题笔记那样直接对应产品化、成交或交付场景。
+
+- 041《中国革命和中国共产党》
+  - `judgement_and_decision/041-认清形势是一切判断的根据.md`
+  - `../inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/041-统一战线创业中的联盟与阶级分析.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/041-投资中的形势判断与阶段性思维.md`
+  - `../inspiration_on_making_money/execution_and_delivery/041-副业赚钱的根据地战略.md`
+  - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md`
+
+- 042《斯大林是中国人民的朋友》
+  - `judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md`
+  - 本轮已评估 software_development / running_a_company / stock_investing / making_money / educational_undertakings 角度，但暂未单独成文：该文的方法重心更集中在“识别真正朋友”的判断题上，适合作为个人判断力提醒，不足以稳定展开成多个独立主题方法笔记。
+
+- 043《纪念白求恩》
+  - `long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md`
+  - `../inspiration_on_software_development/team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md`
+  - `../inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
+  - `../inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md`
+  - 本轮已评估 stock_investing 角度，但暂未单独成文：该文更适合落在品格、责任感与研究操守提醒上，不如已有投资主题笔记那样直接落到公司研究、风险管理或交易动作。
+  - 本轮已评估 making_money 角度，但暂未单独成文：其核心更偏职业品格、责任感与长期主义，不如前后文章那样直接指向副业结构、成交或项目交付。
+
+- 044《新民主主义论》
+  - `survival_strategy/mao-044-stages-cannot-be-skipped.md`
+  - `../inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/mao-044-united-front-business-philosophy.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/mao-044-stages-and-localize-investing.md`
+  - `../inspiration_on_making_money/execution_and_delivery/mao-044-localize-methods-not-copy.md`
+  - `../inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md`
+  - `../inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md`
+
+- 045《克服投降危险，力争时局好转》
+  - `judgement_and_decision/mao-045-dont-isolate-local-crises.md`
+  - `../inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/mao-045-two-futures-coexist-and-dual-track-defense.md`
+  - `../inspiration_on_making_money/execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
+  - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md`
+
+- 046《团结一切抗日力量，反对反共顽固派》
+  - `judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md`
+  - `../inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
+  - `../inspiration_on_making_money/execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
+  - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md`
+
+- 当前顺序覆盖已推进到：`046《团结一切抗日力量，反对反共顽固派》`
+- 如果继续顺序推进，下一篇应是：`047《必须强调团结和进步》`
+
 ## 阶段补充小结（自动追加）
 
 - 012—014 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/001-stage-summary-012-014-from-main-threat-to-verifying-turning-points.md`

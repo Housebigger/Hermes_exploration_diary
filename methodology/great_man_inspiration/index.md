@@ -285,9 +285,9 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md`
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/041-认清形势是一切判断的根据.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/041-投资中的形势判断与阶段性思维.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/041-统一战线创业中的联盟与阶级分析.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/041-投资中的形势判断与阶段性思维.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/041-统一战线创业中的联盟与阶级分析.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/041-副业赚钱的根据地战略.md`
 
 ### 042《斯大林是中国人民的朋友》(1939-12-20)
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md`
@@ -301,26 +301,26 @@ Current contents:
 ### 044《新民主主义论》(1940-01)
 - `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-044-stages-and-localize-investing.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/mao-044-united-front-business-philosophy.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/mao-044-stages-and-localize-investing.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/mao-044-localize-methods-not-copy.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md`
 
 ### 045《克服投降危险，力争时局好转》(1940-01-28)
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/mao-045-dont-isolate-local-crises.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-045-two-futures-coexist-and-dual-track-defense.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/mao-045-two-futures-coexist-and-dual-track-defense.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md`
 
 ### 046《团结一切抗日力量，反对反共顽固派》(1940-02-01)
 - `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md`
 - `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md`
-- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
-- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-046-classify-customers-and-build-verifiable-credibility.md`
-- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-046-classify-evidence-and-beware-of-fake-integration.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md`
 
 ## Naming convention

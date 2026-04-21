@@ -18,6 +18,7 @@ Purpose:
 - `survival_strategy/010-build-a-self-sustaining-life-economy.md`
 - `survival_strategy/013-dont-defend-every-inch-preserve-strength-and-counterattack-when-odds-shift.md`
 - `survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md`
+- `survival_strategy/mao-044-stages-cannot-be-skipped.md`
 
 Purpose:
 - how ordinary people build footholds
@@ -38,6 +39,7 @@ Purpose:
 - `judgement_and_decision/018-find-the-main-contradiction-before-spending-your-life-force.md`
 - `judgement_and_decision/037-dont-judge-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `judgement_and_decision/039-stalemate-phase-three-dangers-surrender-split-regression.md`
+- `judgement_and_decision/041-认清形势是一切判断的根据.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture

@@ -39,6 +39,8 @@ Purpose:
 - `research_and_thesis/036-dont-treat-validation-allies-as-outsiders-build-research-self-reliance-and-defend-boundaries.md`
 - `research_and_thesis/037-dont-judge-thesis-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `research_and_thesis/038-investing-needs-information-alliances-hard-execution-and-a-research-core.md`
+- `research_and_thesis/041-投资中的形势判断与阶段性思维.md`
+- `research_and_thesis/mao-044-stages-and-localize-investing.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

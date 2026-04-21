@@ -48,6 +48,8 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/037-dont-judge-business-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `strategy_and_execution/038-companies-need-alliances-hard-execution-and-an-organizing-core.md`
 - `strategy_and_execution/039-stalemate-competition-three-internal-dangers.md`
+- `strategy_and_execution/041-统一战线创业中的联盟与阶级分析.md`
+- `strategy_and_execution/mao-044-united-front-business-philosophy.md`
 - `leadership_and_talent/040-boldly-absorb-knowledge-workers.md`
 
 ## Focus of the current notes

@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—038。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—046。
 - 除了这条顺序主线外，仓库里还有少量“非顺序先写”的拓展条目，例如 `《改造我们的学习》`。
 
 ## 1. 当前覆盖状态总览
@@ -15,10 +15,10 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 46 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 244 |
+| 当前已建立原文关联的毛文标题数 | 47 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 250 |
 | 顺序学习已连续覆盖范围 | 001—046 |
-| 顺序覆盖段标题核对结果 | 46/46 与 marxists.org 标题一致 |
+| 顺序覆盖段标题核对结果 | 46/46 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
 | 顺序覆盖是否连续 | 是 |
 | 顺序主线的下一篇 | 047《必须强调团结和进步》 |
 
@@ -34,40 +34,40 @@
 
 | 顺序号 | 原文 | 真实链接 | 状态 |
 |---|---|---|---|
-| 001 | 《中国社会各阶级的分析》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 002 | 《湖南农民运动考察报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 001 | 《中国社会各阶级的分析》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 002 | 《湖南农民运动考察报告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 003 | 《中国的红色政权为什么能够存在？》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281005.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
 | 004 | 《井冈山的斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281125.htm) | 已覆盖（顺序主线，1 个主题转译文件） |
-| 005 | 《关于纠正党内的错误思想》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192912.htm) | 已覆盖（顺序主线，3 个主题转译文件） |
+| 005 | 《关于纠正党内的错误思想》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192912.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 006 | 《星星之火，可以燎原》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19300105.htm) | 已覆盖（顺序主线，3 个主题转译文件） |
-| 007 | 《反对本本主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193005.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 007 | 《反对本本主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193005.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 008 | 《必须注意经济工作》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
-| 009 | 《怎样分析农村阶级》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 009 | 《怎样分析农村阶级》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 010 | 《我们的经济政策》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193401.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 011 | 《关心群众生活，注意工作方法》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19340127.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
-| 012 | 《论反对日本帝国主义的策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19351227.htm) | 已覆盖（顺序主线，3 个主题转译文件） |
-| 013 | 《中国革命战争的战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193612.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 011 | 《关心群众生活，注意工作方法》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19340127.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 012 | 《论反对日本帝国主义的策略》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19351227.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 013 | 《中国革命战争的战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193612.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 014 | 《关于蒋介石声明的声明》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19361228.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 015 | 《中国共产党在抗日时期的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 016 | 《为争取千百万群众进入抗日民族统一战线而斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370508.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 017 | 《实践论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193707.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
-| 018 | 《矛盾论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193708.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 015 | 《中国共产党在抗日时期的任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 016 | 《为争取千百万群众进入抗日民族统一战线而斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370508.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 017 | 《实践论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193707.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 018 | 《矛盾论》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193708.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 019 | 《反对日本进攻的方针、办法和前途》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 020 | 《为动员一切力量争取抗战胜利而斗争》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370825.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
-| 021 | 《反对自由主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370907.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 021 | 《反对自由主义》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370907.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 022 | 《国共合作成立后的迫切任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370929.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 023 | 《和英国记者贝特兰的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
+| 023 | 《和英国记者贝特兰的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 024 | 《上海太原失陷以后抗日战争的形势和任务》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371112.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
 | 025 | 《陕甘宁边区政府第八路军后方留守处布告》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 026 | 《抗日游击战争的战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
-| 027 | 《论持久战》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 028 | 《中国共产党在民族战争中的地位》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
-| 029 | 《统一战线中的独立自主问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 027 | 《论持久战》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 028 | 《中国共产党在民族战争中的地位》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 029 | 《统一战线中的独立自主问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 030 | 《战争和战略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381106.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 031 | 《五四运动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390501.htm) | 已覆盖（顺序主线，5 个主题转译文件） |
-| 032 | 《青年运动的方向》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
-| 033 | 《反对投降活动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390630.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
-| 034 | 《必须制裁反动派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
+| 032 | 《青年运动的方向》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 033 | 《反对投降活动》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390630.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 034 | 《必须制裁反动派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 035 | 《关于国际新形势对新华日报记者的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390901.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 036 | 《和中央社、扫荡报、新民报三记者的谈话》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390916.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 037 | 《苏联利益和人类利益的一致》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390928.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
@@ -134,7 +134,7 @@
 | 024 | 《上海太原失陷以后抗日战争的形势和任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371112.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/024-dont-mistake-partial-turning-points-for-a-real-life-system-upgrade.md) | [SD](./inspiration_on_software_development/team_process_and_quality/024-dont-mistake-partial-org-alignment-for-a-real-project-turnaround.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/024-dont-mistake-partial-operating-relief-for-a-real-company-turnaround.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/024-dont-mistake-partial-market-repair-for-a-real-thesis-turnaround.md) | [MM](./inspiration_on_making_money/execution_and_delivery/024-dont-mistake-partial-side-hustle-momentum-for-a-real-system-takeoff.md) | — | — | 5 |
 | 025 | 《陕甘宁边区政府第八路军后方留守处布告》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/025-dont-let-chaotic-helpers-reopen-your-hard-won-life-order.md) | [SD](./inspiration_on_software_development/team_process_and_quality/025-dont-let-unbounded-support-disrupt-your-engineering-order.md) | [RC](./inspiration_on_running_a_company/organization_design/025-dont-let-coordination-reopen-your-operating-chaos.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/025-dont-let-soft-bullish-signals-break-your-risk-discipline.md) | [MM](./inspiration_on_making_money/execution_and_delivery/025-dont-let-favors-and-intros-break-your-side-hustle-boundaries.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/008-dont-let-unbounded-support-reopen-your-embedded-order.md) | — | 6 |
 | 026 | 《抗日游击战争的战略问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm) | [TL](./inspiration_on_today_life/survival_strategy/026-build-life-base-areas-and-fight-flexibly-under-long-pressure.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/026-build-business-base-areas-and-grow-main-force-under-long-pressure.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/026-build-investment-base-areas-and-stay-flexible-under-long-pressure.md) | [MM](./inspiration_on_making_money/execution_and_delivery/026-build-side-hustle-base-areas-and-grow-under-long-pressure.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/009-build-embedded-base-areas-and-grow-under-long-pressure.md) | — | 6 |
-| 027 | 《论持久战》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | [TL](./inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md) | [MM](./inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md) | — | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/027-education-is-protracted-war-advance-in-stages.md) | 6 |
+| 027 | 《论持久战》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm) | [TL](./inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md) | [MM](./inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/001-on-protracted-war-long-cycle-embedded-software.md) | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/027-education-is-protracted-war-advance-in-stages.md) | 7 |
 | 028 | 《中国共产党在民族战争中的地位》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/028-dont-ask-for-a-key-place-before-becoming-a-reliable-backbone.md) | [SD](./inspiration_on_software_development/team_process_and_quality/028-dont-ask-to-be-the-core-team-before-becoming-a-real-software-backbone.md) | [RC](./inspiration_on_running_a_company/organization_design/028-dont-claim-a-leadership-position-before-building-a-real-organizational-backbone.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/028-dont-act-like-a-big-picture-investor-before-becoming-a-real-research-backbone.md) | [MM](./inspiration_on_making_money/execution_and_delivery/028-dont-act-like-the-lead-before-becoming-a-real-side-hustle-backbone.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/017-dont-claim-the-core-seat-before-becoming-a-real-embedded-backbone.md) | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/028-become-a-reliable-backbone-teacher-before-asking-for-voice.md) | 7 |
 | 029 | 《统一战线中的独立自主问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/029-cooperate-broadly-without-surrendering-your-initiative.md) | [SD](./inspiration_on_software_development/team_process_and_quality/029-cooperate-broadly-without-surrendering-engineering-initiative.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/029-cooperate-broadly-without-surrendering-company-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/029-expand-information-alliances-without-surrendering-research-sovereignty.md) | [MM](./inspiration_on_making_money/execution_and_delivery/029-borrow-support-without-surrendering-side-hustle-control.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/011-cooperate-broadly-without-surrendering-embedded-initiative.md) | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/029-cooperate-in-school-system-but-keep-teaching-judgment.md) | 7 |
 | 030 | 《战争和战略问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381106.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/030-major-life-battles-need-a-main-battlefield-and-main-force.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/030-major-software-battles-need-a-main-battlefield-and-main-force.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/030-major-company-battles-need-a-main-battlefield-and-main-force.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/030-major-investment-battles-need-a-main-battlefield-and-research-main-force.md) | [MM](./inspiration_on_making_money/execution_and_delivery/030-major-side-hustle-battles-need-a-main-battlefield-and-main-force.md) | [EC](./inspiration_on_embedded_coding/engineering_strategy/010-major-embedded-battles-need-a-main-battlefield-and-main-force.md) | — | 6 |
@@ -148,12 +148,12 @@
 | 038 | 《共产党人》发刊词 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391004.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/038-major-life-battles-need-alliances-hard-action-and-an-organizing-core.md) | [SD](./inspiration_on_software_development/team_process_and_quality/038-projects-need-alliances-hard-fights-and-an-organizing-core.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/038-companies-need-alliances-hard-execution-and-an-organizing-core.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/038-investing-needs-information-alliances-hard-execution-and-a-research-core.md) | [MM](./inspiration_on_making_money/execution_and_delivery/038-side-hustles-need-alliances-hard-execution-and-an-operating-core.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md) | — | 6 |
 | 039 | 《目前形势和党的任务》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391010.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/039-stalemate-phase-three-dangers-surrender-split-regression.md) | — | [RC](./inspiration_on_running_a_company/strategy_and_execution/039-stalemate-competition-three-internal-dangers.md) | [SI](./inspiration_on_stock_investing/risk_and_position_management/039-stalemate-market-three-investor-traps.md) | — | — | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md) | 4 |
 | 040 | 《大量吸收知识分子》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391201.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/040-dont-reject-capable-helpers-because-they-are-different.md) | [SD](./inspiration_on_software_development/team_process_and_quality/040-dont-reject-diverse-talent-in-tech-teams.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/040-boldly-absorb-knowledge-workers.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md) | 4 |
-| 041 | 《中国革命和中国共产党》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/041-认清形势是一切判断的根据.md) | [SD](./inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/041-统一战线创业中的联盟与阶级分析.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/041-投资中的形势判断与阶段性思维.md) | [MM](./inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md) | 6 |
+| 041 | 《中国革命和中国共产党》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/041-认清形势是一切判断的根据.md) | [SD](./inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/041-统一战线创业中的联盟与阶级分析.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/041-投资中的形势判断与阶段性思维.md) | [MM](./inspiration_on_making_money/execution_and_delivery/041-副业赚钱的根据地战略.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md) | 6 |
 | 042 | 《斯大林是中国人民的朋友》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md) | — | — | — | — | — | — | 1 |
 | 043 | 《纪念白求恩》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm) | [TL](./inspiration_on_today_life/long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md) | [SD](./inspiration_on_software_development/team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md) | [RC](./inspiration_on_running_a_company/leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md) | 4 |
-| 044 | 《新民主主义论》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | [TL](./inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/mao-044-stages-and-localize-investing.md) | [MM](./inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md) | — | [ED①](./inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md) [ED②](./inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md) | 7 |
-| 045 | 《克服投降危险，力争时局好转》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-045-dont-isolate-local-crises.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/mao-045-two-futures-coexist-and-dual-track-defense.md) | [MM](./inspiration_on_making_money/side_income_strategy/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md) | 6 |
-| 046 | 《团结一切抗日力量，反对反共顽固派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md) | [RC](./inspiration_on_running_a_company/strategic_alliance/mao-046-classify-evidence-and-beware-of-fake-integration.md) | [SI](./inspiration_on_stock_investing/investment_philosophy/mao-046-dont-overgeneralize-and-evidence-based-logic.md) | [MM](./inspiration_on_making_money/side_income_strategy/mao-046-classify-customers-and-build-verifiable-credibility.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md) | 6 |
+| 044 | 《新民主主义论》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm) | [TL](./inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md) | [SD](./inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/mao-044-united-front-business-philosophy.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/mao-044-stages-and-localize-investing.md) | [MM](./inspiration_on_making_money/execution_and_delivery/mao-044-localize-methods-not-copy.md) | — | [ED①](./inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md) [ED②](./inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md) | 7 |
+| 045 | 《克服投降危险，力争时局好转》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-045-dont-isolate-local-crises.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/mao-045-two-futures-coexist-and-dual-track-defense.md) | [MM](./inspiration_on_making_money/execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md) | 6 |
+| 046 | 《团结一切抗日力量，反对反共顽固派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md) | [MM](./inspiration_on_making_money/execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md) | 6 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -421,12 +421,13 @@
 ### 027《论持久战》
 - 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 9 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm
-- 已关联 inspiration 文件数：6
+- 已关联 inspiration 文件数：7
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
   - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/027-major-company-battles-need-stage-judgment-and-protracted-positioning.md`
   - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/risk_and_position_management/027-major-investment-battles-need-stage-judgment-and-protracted-positioning.md`
   - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/027-major-side-hustle-battles-need-stage-judgment-and-protracted-positioning.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/engineering_strategy/001-on-protracted-war-long-cycle-embedded-software.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/teacher_growth_and_backbone/027-education-is-protracted-war-advance-in-stages.md`
 
 ### 028《中国共产党在民族战争中的地位》
@@ -578,9 +579,9 @@
 - 已关联 inspiration 文件数：6
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/041-认清形势是一切判断的根据.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/architecture_and_engineering/041-系统分析框架从现状到路线图.md`
-  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/041-统一战线创业中的联盟与阶级分析.md`
-  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/041-投资中的形势判断与阶段性思维.md`
-  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/041-副业赚钱的根据地战略.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/041-统一战线创业中的联盟与阶级分析.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/041-投资中的形势判断与阶段性思维.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/041-副业赚钱的根据地战略.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/041-教育工作者的形势认知与统一战线.md`
 
 ### 042《斯大林是中国人民的朋友》
@@ -604,9 +605,9 @@
 - 已关联 inspiration 文件数：7
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/survival_strategy/mao-044-stages-cannot-be-skipped.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
-  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-044-united-front-business-philosophy.md`
-  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-044-stages-and-localize-investing.md`
-  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-044-localize-methods-not-copy.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/mao-044-united-front-business-philosophy.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/mao-044-stages-and-localize-investing.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/mao-044-localize-methods-not-copy.md`
   - ED①: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md`
   - ED②: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md`
 
@@ -615,9 +616,9 @@
 - 已关联 inspiration 文件数：6
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/mao-045-dont-isolate-local-crises.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md`
-  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-045-two-futures-coexist-and-dual-track-defense.md`
-  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
-  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/mao-045-two-futures-coexist-and-dual-track-defense.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md`
 
 ### 046《团结一切抗日力量，反对反共顽固派》
@@ -625,9 +626,9 @@
 - 已关联 inspiration 文件数：6
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md`
-  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
-  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-046-classify-customers-and-build-verifiable-credibility.md`
-  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-046-classify-evidence-and-beware-of-fake-integration.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md`
 
 ### 060《改造我们的学习》

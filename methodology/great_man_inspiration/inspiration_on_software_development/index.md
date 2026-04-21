@@ -38,6 +38,7 @@ Purpose:
 
 ### architecture_and_engineering
 - `architecture_and_engineering/010-build-core-capacity-and-healthy-ecosystem.md`
+- `architecture_and_engineering/041-系统分析框架从现状到路线图.md`
 
 Purpose:
 - how teams identify and protect first-priority core capacity in system building
@@ -51,6 +52,7 @@ Purpose:
 - `iteration_and_delivery/026-build-engineering-base-areas-and-upgrade-under-long-pressure.md`
 - `iteration_and_delivery/027-major-software-battles-need-stage-judgment-and-protracted-positioning.md`
 - `iteration_and_delivery/030-major-software-battles-need-a-main-battlefield-and-main-force.md`
+- `iteration_and_delivery/mao-044-staged-delivery-not-one-shot.md`
 
 Purpose:
 - how teams build resource flow and supply lines for sustained delivery

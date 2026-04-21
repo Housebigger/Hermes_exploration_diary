@@ -47,6 +47,8 @@ Important boundary:
 - `execution_and_delivery/036-dont-treat-project-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
 - `execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `execution_and_delivery/038-side-hustles-need-alliances-hard-execution-and-an-operating-core.md`
+- `execution_and_delivery/041-副业赚钱的根据地战略.md`
+- `execution_and_delivery/mao-044-localize-methods-not-copy.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos

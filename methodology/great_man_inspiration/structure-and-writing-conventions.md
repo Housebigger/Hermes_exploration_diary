@@ -95,6 +95,28 @@ Examples:
 - `003-red-political-power-foothold-thinking.md`
 - `000-mao-anthology-sequential-reading-overview.md`
 
+## Sequential Mao article note style
+
+For article-by-article inspiration notes in the Mao anthology sequence, prefer a unified long-form transfer style rather than brief card notes or YAML-only summaries.
+
+Recommended skeleton:
+- `# 从《原文》看……`
+- `日期：YYYY-MM-DD`
+- `原文对应：`
+- `《原文标题》`
+- `写作背景：`
+- `说明：`
+- `核心思想的当代转译：`
+- numbered body sections such as `## 一、……` through `## 八、……`
+- closing section such as `## 九、给今天……的一句落地建议`
+
+Practical expectations:
+- Do not stop at a short摘录 or a few bullets if the surrounding sequence uses fuller long-form transfer notes.
+- Explain why the historical text mattered in its own moment, then translate it into today's practical scene.
+- Keep one clear modern mainline per note; do not stack many weak mini-insights into one shallow page.
+- Theme-specific notes may keep extra sections like self-check questions or related links, but those should be additions, not replacements for the core long-form structure.
+- Prefer consistent human-readable prose over frontmatter-heavy templates when the surrounding sequence is prose-first.
+
 ## Index maintenance
 
 Whenever a new note is added:
