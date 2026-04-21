@@ -307,6 +307,14 @@ Current contents:
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/student_understanding_and_guidance/mao-044-education-must-follow-stages.md`
 - `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/mao-044-localize-teaching-design.md`
 
+### 045《克服投降危险，力争时局好转》(1940-01-28)
+- `methodology/great_man_inspiration/inspiration_on_today_life/judgement_and_decision/mao-045-dont-isolate-local-crises.md`
+- `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md`
+- `methodology/great_man_inspiration/inspiration_on_stock_investing/investment_philosophy/mao-045-two-futures-coexist-and-dual-track-defense.md`
+- `methodology/great_man_inspiration/inspiration_on_making_money/side_income_strategy/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
+- `methodology/great_man_inspiration/inspiration_on_running_a_company/strategic_alliance/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
+- `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md`
+
 ## Naming convention
 
 Use stable topic-first filenames inside the theme subfolders:
