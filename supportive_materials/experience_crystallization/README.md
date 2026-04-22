@@ -36,3 +36,4 @@ Current seed note:
 - `023-stage-summary-037-038-from-judging-reliable-external-support-by-long-term-interest-to-building-the-organizing-core-that-can-master-alliances-and-hard-battles.md`
 - `024-stage-summary-038-039-from-building-the-organizing-core-to-guarding-against-surrender-split-and-regression-in-stalemate.md`
 - `025-stage-summary-039-040-from-guarding-against-surrender-split-and-regression-in-stalemate-to-boldly-absorbing-diverse-talent.md`
+- `026-stage-summary-040-041-from-boldly-absorbing-diverse-talent-to-recognizing-the-situation-before-choosing-the-road.md`

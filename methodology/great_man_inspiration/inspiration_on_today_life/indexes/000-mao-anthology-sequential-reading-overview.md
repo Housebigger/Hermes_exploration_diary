@@ -344,6 +344,7 @@
 - 037—038 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/023-stage-summary-037-038-from-judging-reliable-external-support-by-long-term-interest-to-building-the-organizing-core-that-can-master-alliances-and-hard-battles.md`
 - 038—039 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/024-stage-summary-038-039-from-building-the-organizing-core-to-guarding-against-surrender-split-and-regression-in-stalemate.md`
 - 039—040 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/025-stage-summary-039-040-from-guarding-against-surrender-split-and-regression-in-stalemate-to-boldly-absorbing-diverse-talent.md`
+- 040—041 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/026-stage-summary-040-041-from-boldly-absorbing-diverse-talent-to-recognizing-the-situation-before-choosing-the-road.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
