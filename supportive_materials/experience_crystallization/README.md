@@ -40,3 +40,4 @@ Current seed note:
 - `027-stage-summary-041-042-from-recognizing-the-situation-before-choosing-the-road-to-distinguishing-real-allies-by-their-actions.md`
 - `028-stage-summary-042-043-from-distinguishing-real-allies-by-their-actions-to-becoming-a-reliable-person-who-can-be-trusted-with-major-things.md`
 - `029-stage-summary-043-044-from-becoming-a-reliable-person-who-can-be-trusted-with-major-things-to-advancing-in-stages-and-digesting-methods-in-your-own-way.md`
+- `030-stage-summary-044-045-from-advancing-in-stages-and-digesting-methods-in-your-own-way-to-seeing-connected-crises-and-stopping-cumulative-retreat.md`
