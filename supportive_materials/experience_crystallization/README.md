@@ -37,3 +37,4 @@ Current seed note:
 - `024-stage-summary-038-039-from-building-the-organizing-core-to-guarding-against-surrender-split-and-regression-in-stalemate.md`
 - `025-stage-summary-039-040-from-guarding-against-surrender-split-and-regression-in-stalemate-to-boldly-absorbing-diverse-talent.md`
 - `026-stage-summary-040-041-from-boldly-absorbing-diverse-talent-to-recognizing-the-situation-before-choosing-the-road.md`
+- `027-stage-summary-041-042-from-recognizing-the-situation-before-choosing-the-road-to-distinguishing-real-allies-by-their-actions.md`
