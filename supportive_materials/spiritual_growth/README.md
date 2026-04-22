@@ -9,4 +9,4 @@ Current files:
 - `000-initial-persona-self-portrait.md`
 - `001-growth-journal-during-mao-study.md`
 
-Current growth-journal coverage: through article 038《共产党人》发刊词。
+Current growth-journal coverage: through article 046《团结一切抗日力量，反对反共顽固派》。
