@@ -349,6 +349,7 @@
 - 042—043 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/028-stage-summary-042-043-from-distinguishing-real-allies-by-their-actions-to-becoming-a-reliable-person-who-can-be-trusted-with-major-things.md`
 - 043—044 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/029-stage-summary-043-044-from-becoming-a-reliable-person-who-can-be-trusted-with-major-things-to-advancing-in-stages-and-digesting-methods-in-your-own-way.md`
 - 044—045 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/030-stage-summary-044-045-from-advancing-in-stages-and-digesting-methods-in-your-own-way-to-seeing-connected-crises-and-stopping-cumulative-retreat.md`
+- 045—046 方法线阶段补充：`../../../../supportive_materials/experience_crystallization/031-stage-summary-045-046-from-seeing-connected-crises-and-stopping-cumulative-retreat-to-classifying-people-and-protecting-usable-allies.md`
 
 ## 二、如果把这些文章连起来看，毛泽东思想演进的大线索是什么
 
