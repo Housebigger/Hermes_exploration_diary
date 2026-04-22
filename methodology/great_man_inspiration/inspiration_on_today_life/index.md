@@ -58,6 +58,7 @@ Purpose:
 - `long_term_growth/006-small-sparks-compounding-and-anti-premature-despair.md`
 - `long_term_growth/017-real-understanding-grows-from-action-reflection-and-verification.md`
 - `long_term_growth/027-major-life-battles-need-stage-judgment-and-protracted-positioning.md`
+- `long_term_growth/043-become-a-pure-person-not-a-clever-calculator.md`
 
 Purpose:
 - how small but real progress compounds under the right conditions

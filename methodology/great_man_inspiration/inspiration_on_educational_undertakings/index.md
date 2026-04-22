@@ -26,6 +26,7 @@
 - [029 在学校体系中协作，但保持自己的教学判断](teacher_growth_and_backbone/029-cooperate-in-school-system-but-keep-teaching-judgment.md)
 - [033 不要在压力下放弃教学标准和教育底线](teacher_growth_and_backbone/033-dont-surrender-teaching-standards-under-pressure.md)
 - [039 持续压力期教师的三大隐患：放弃、散伙、滑坡](teacher_growth_and_backbone/039-sustained-pressure-three-dangers-for-teachers.md)
+- [043 真正高水平的老师，不只是完成教学任务，而是对学生、课堂与棘手问题持续保持极端负责与真实热忱](teacher_growth_and_backbone/043-extreme-responsibility-and-warmth-the-bethune-standard-for-teachers.md)
 
 ### school_governance_and_crisis_response（学校治理与危机应对）
 - [012 遇到棘手问题，先建立广泛的支持联盟](school_governance_and_crisis_response/012-build-broad-support-alliance-for-tough-school-problems.md)
@@ -41,4 +42,4 @@
 - [040 学校必须善待和用好年轻教师与外来人才](school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md)
 
 ---
-统计：23篇笔记 / 5个子主题 / 覆盖001-044中23篇原文
+统计：24篇笔记 / 5个子主题 / 覆盖001-044中24篇原文
