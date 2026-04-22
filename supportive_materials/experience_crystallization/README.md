@@ -34,3 +34,5 @@ Current seed note:
 - `021-stage-summary-035-036-from-holding-the-line-in-a-new-stage-and-preparing-counterattack-to-building-self-reliance-alliance-clarity-and-strict-self-defense.md`
 - `022-stage-summary-036-037-from-building-preparation-structure-to-judging-real-allies-by-long-term-interest-and-self-reliance.md`
 - `023-stage-summary-037-038-from-judging-reliable-external-support-by-long-term-interest-to-building-the-organizing-core-that-can-master-alliances-and-hard-battles.md`
+- `024-stage-summary-038-039-from-building-the-organizing-core-to-guarding-against-surrender-split-and-regression-in-stalemate.md`
+- `025-stage-summary-039-040-from-guarding-against-surrender-split-and-regression-in-stalemate-to-boldly-absorbing-diverse-talent.md`
