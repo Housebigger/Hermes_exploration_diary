@@ -38,3 +38,4 @@ Current seed note:
 - `025-stage-summary-039-040-from-guarding-against-surrender-split-and-regression-in-stalemate-to-boldly-absorbing-diverse-talent.md`
 - `026-stage-summary-040-041-from-boldly-absorbing-diverse-talent-to-recognizing-the-situation-before-choosing-the-road.md`
 - `027-stage-summary-041-042-from-recognizing-the-situation-before-choosing-the-road-to-distinguishing-real-allies-by-their-actions.md`
+- `028-stage-summary-042-043-from-distinguishing-real-allies-by-their-actions-to-becoming-a-reliable-person-who-can-be-trusted-with-major-things.md`
