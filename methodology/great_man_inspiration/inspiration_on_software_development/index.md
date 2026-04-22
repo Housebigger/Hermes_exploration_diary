@@ -90,6 +90,7 @@ Purpose:
 - `team_process_and_quality/038-projects-need-alliances-hard-fights-and-an-organizing-core.md`
 - `team_process_and_quality/040-dont-reject-diverse-talent-in-tech-teams.md`
 - `team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md`
+- `team_process_and_quality/mao-045-dont-let-small-compromises-compound.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos

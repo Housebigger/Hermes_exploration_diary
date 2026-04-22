@@ -41,6 +41,7 @@ Purpose:
 - `judgement_and_decision/039-stalemate-phase-three-dangers-surrender-split-regression.md`
 - `judgement_and_decision/041-认清形势是一切判断的根据.md`
 - `judgement_and_decision/042-tell-real-friends-from-sweet-talkers-by-actions-not-words.md`
+- `judgement_and_decision/mao-045-dont-isolate-local-crises.md`
 
 Purpose:
 - how to judge allies, risks, and support systems by real interest structure and dependency instead of surface labels and pleasing posture
