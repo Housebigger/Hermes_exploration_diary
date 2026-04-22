@@ -50,6 +50,7 @@ Important boundary:
 - `execution_and_delivery/041-副业赚钱的根据地战略.md`
 - `execution_and_delivery/mao-044-localize-methods-not-copy.md`
 - `execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
+- `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
 - how side-hustle builders detect bottom-up demand and new monetization order early, instead of dismissing emerging small-scale paid behavior as low-end chaos

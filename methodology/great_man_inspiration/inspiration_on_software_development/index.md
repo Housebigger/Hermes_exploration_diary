@@ -91,6 +91,7 @@ Purpose:
 - `team_process_and_quality/040-dont-reject-diverse-talent-in-tech-teams.md`
 - `team_process_and_quality/043-extreme-ownership-and-craft-over-job-hopping-mindset.md`
 - `team_process_and_quality/mao-045-dont-let-small-compromises-compound.md`
+- `team_process_and_quality/mao-046-classify-and-evidence-based-integration.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos

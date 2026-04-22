@@ -42,6 +42,7 @@ Purpose:
 - `research_and_thesis/041-投资中的形势判断与阶段性思维.md`
 - `research_and_thesis/mao-044-stages-and-localize-investing.md`
 - `research_and_thesis/mao-045-two-futures-coexist-and-dual-track-defense.md`
+- `research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking
