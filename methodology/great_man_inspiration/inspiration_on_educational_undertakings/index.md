@@ -42,6 +42,7 @@
 - [021 教师团队不能用面子代替原则](school_coordination_and_organization/021-dont-trade-face-for-principles-in-teacher-teams.md)
 - [023 别一个人扛，把支持变成真实参战力量](school_coordination_and_organization/023-dont-fight-alone-mobilize-real-support-forces.md)
 - [040 学校必须善待和用好年轻教师与外来人才](school_coordination_and_organization/040-schools-must-welcome-and-develop-young-teachers.md)
+- [047 很多学校不是缺统一，而是把学校统一做成禁言、压新和表面整齐——先压不同意见，先削弱真扛事的老师，先把青年教师和公开反馈当麻烦，最后连暗耗、背后做局和失信都被“顾全大局”保护起来了](school_coordination_and_organization/047-real-school-unity-needs-progress-openness-and-protecting-builders.md)
 
 ---
-统计：26篇笔记 / 5个子主题 / 覆盖001-046中26篇原文
+统计：27篇笔记 / 5个子主题 / 覆盖001-047中27篇原文

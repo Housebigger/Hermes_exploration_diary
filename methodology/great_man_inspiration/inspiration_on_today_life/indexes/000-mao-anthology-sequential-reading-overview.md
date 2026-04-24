@@ -314,8 +314,15 @@
   - `../inspiration_on_making_money/execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
   - `../inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md`
 
-- 当前顺序覆盖已推进到：`046《团结一切抗日力量，反对反共顽固派》`
-- 如果继续顺序推进，下一篇应是：`047《必须强调团结和进步》`
+- 047《向国民党的十点要求》
+  - `cooperation_and_organization/047-real-unity-needs-progress-openness-and-protecting-doers.md`
+  - `../inspiration_on_software_development/team_process_and_quality/047-dont-turn-engineering-unity-into-silencing-builders.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/047-real-company-unity-needs-progress-openness-and-protecting-builders.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/047-real-school-unity-needs-progress-openness-and-protecting-builders.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
+
+- 当前顺序覆盖已推进到：`047《向国民党的十点要求》`
+- 如果继续顺序推进，下一篇应是：`048《中国工人》发刊词`
 
 ## 阶段补充小结（自动追加）
 

@@ -94,6 +94,7 @@ Purpose:
 - `cooperation_and_organization/036-dont-treat-allies-as-outsiders-build-self-reliance-and-defend-boundaries.md`
 - `cooperation_and_organization/038-major-life-battles-need-alliances-hard-action-and-an-organizing-core.md`
 - `cooperation_and_organization/040-dont-reject-capable-helpers-because-they-are-different.md`
+- `cooperation_and_organization/047-real-unity-needs-progress-openness-and-protecting-doers.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
@@ -121,6 +122,7 @@ Purpose:
 - how ordinary people avoid mistaking a newly stabilized phase for rest, and instead hold the life mainline, prevent alliance drift and personal backsliding, and turn temporary stability into preparation for a stronger next move
 - how ordinary people stop treating real allies as outsiders, build self-reliant internal order, and defend boundaries without letting cooperation decay into mutual depletion
 - how ordinary people stop treating support networks and hard life battles as separate matters, and instead build themselves into the organizing core that can unite allies, fight decisive battles, and keep the mainline stable under long pressure
+- how ordinary people resist fake unity by keeping cooperation tied to progress, open feedback, protection for real doers, room for young/new forces, and cleanup of hidden internal rot instead of sacrificing all of that for surface neatness
 
 ## Writing convention
 
