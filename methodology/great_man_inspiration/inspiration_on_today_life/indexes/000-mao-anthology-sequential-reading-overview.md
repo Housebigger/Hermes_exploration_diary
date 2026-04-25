@@ -321,8 +321,15 @@
   - `../inspiration_on_educational_undertakings/school_coordination_and_organization/047-real-school-unity-needs-progress-openness-and-protecting-builders.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
 
-- 当前顺序覆盖已推进到：`047《向国民党的十点要求》`
-- 如果继续顺序推进，下一篇应是：`048《中国工人》发刊词`
+- 048《中国工人》发刊词
+  - `cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md`
+  - `../inspiration_on_software_development/team_process_and_quality/048-dont-let-product-direction-float-above-the-real-delivery-main-force.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md`
+  - `../inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
+
+- 当前顺序覆盖已推进到：`048《中国工人》发刊词`
+- 如果继续顺序推进，下一篇应是：`049《必须强调团结和进步》`
 
 ## 阶段补充小结（自动追加）
 

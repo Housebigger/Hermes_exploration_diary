@@ -17,6 +17,7 @@
 - [016 把正确的教育方向变成学生的组织化参与](classroom_and_teaching_design/016-turn-correct-direction-into-organized-student-participation.md)
 - [032 班干部和优等生不等于班级主力军](classroom_and_teaching_design/032-class-cadres-and-top-students-are-not-the-main-force.md)
 - [044 教学内容可以先进，但课堂呈现必须本土化](classroom_and_teaching_design/mao-044-localize-teaching-design.md)
+- [048 很多老师不是没有教学目标，而是一直没把真正承重的学生主力、会带动同伴的骨干、外部教育帮助和反馈循环组织起来](classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md)
 
 ### teacher_growth_and_backbone（教师成长与骨干精神）
 - [015 争取广泛支持但不丢失教学主线](teacher_growth_and_backbone/015-seek-broad-support-without-losing-teaching-mainline.md)

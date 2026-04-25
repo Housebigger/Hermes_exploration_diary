@@ -95,6 +95,7 @@ Purpose:
 - `cooperation_and_organization/038-major-life-battles-need-alliances-hard-action-and-an-organizing-core.md`
 - `cooperation_and_organization/040-dont-reject-capable-helpers-because-they-are-different.md`
 - `cooperation_and_organization/047-real-unity-needs-progress-openness-and-protecting-doers.md`
+- `cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change

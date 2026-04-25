@@ -53,6 +53,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md`
 - `strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md`
 - `strategy_and_execution/047-real-company-unity-needs-progress-openness-and-protecting-builders.md`
+- `strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md`
 - `leadership_and_talent/040-boldly-absorb-knowledge-workers.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
