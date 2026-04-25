@@ -97,6 +97,7 @@ Purpose:
 - `cooperation_and_organization/047-real-unity-needs-progress-openness-and-protecting-doers.md`
 - `cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md`
 - `cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md`
+- `cooperation_and_organization/050-dont-call-it-a-new-order-if-most-people-still-have-no-real-say.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
