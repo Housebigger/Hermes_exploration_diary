@@ -328,8 +328,15 @@
   - `../inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
 
-- 当前顺序覆盖已推进到：`048《中国工人》发刊词`
-- 如果继续顺序推进，下一篇应是：`049《必须强调团结和进步》`
+- 049《必须强调团结和进步》
+  - `cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md`
+  - `../inspiration_on_software_development/team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
+
+- 当前顺序覆盖已推进到：`049《必须强调团结和进步》`
+- 如果继续顺序推进，下一篇应是：`050《新民主主义的宪政》`
 
 ## 阶段补充小结（自动追加）
 

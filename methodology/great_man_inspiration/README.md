@@ -7,7 +7,7 @@
 
 说明：
 - 下表中的“真实文章列表”按 marxists.org `index.htm` 的 0—5 主分卷、只统计带编号的主文章条目。
-- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—048。
+- 当前 `inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md` 的顺序覆盖窗口已经补齐到 001—049。
 - 除了这条顺序主线外，仓库里还有少量“非顺序先写”的拓展条目，例如 `《改造我们的学习》`。
 
 ## 1. 当前覆盖状态总览
@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 49 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 256 |
-| 顺序学习已连续覆盖范围 | 001—048 |
-| 顺序覆盖段标题核对结果 | 48/48 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
+| 当前已建立原文关联的毛文标题数 | 50 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 261 |
+| 顺序学习已连续覆盖范围 | 001—049 |
+| 顺序覆盖段标题核对结果 | 49/49 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 049《必须强调团结和进步》 |
+| 顺序主线的下一篇 | 050《新民主主义的宪政》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `048《中国工人》发刊词`。
-- 在 `001—048` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `049《必须强调团结和进步》`
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `049《必须强调团结和进步》`。
+- 在 `001—049` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `050《新民主主义的宪政》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -82,14 +82,15 @@
 | 046 | 《团结一切抗日力量，反对反共顽固派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 047 | 《向国民党的十点要求》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201b.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 048 | 《中国工人》发刊词 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 049 | 《必须强调团结和进步》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—048 顺序主线已建立关联         [################################################]
-048 《中国工人》发刊词                [DONE]
-049 《必须强调团结和进步》            [NEXT]
+001—049 顺序主线已建立关联         [#################################################]
+049 《必须强调团结和进步》            [DONE]
+050 《新民主主义的宪政》              [NEXT]
 060 改造我们的学习                   [EXTRA] 非顺序拓展
 ```
 ## 3. 主题缩写图例
@@ -158,6 +159,7 @@
 | 046 | 《团结一切抗日力量，反对反共顽固派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md) | [MM](./inspiration_on_making_money/execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md) | 6 |
 | 047 | 《向国民党的十点要求》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201b.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/047-real-unity-needs-progress-openness-and-protecting-doers.md) | [SD](./inspiration_on_software_development/team_process_and_quality/047-dont-turn-engineering-unity-into-silencing-builders.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/047-real-company-unity-needs-progress-openness-and-protecting-builders.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/047-real-school-unity-needs-progress-openness-and-protecting-builders.md) | 4 |
 | 048 | 《中国工人》发刊词 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md) | [SD](./inspiration_on_software_development/team_process_and_quality/048-dont-let-product-direction-float-above-the-real-delivery-main-force.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md) | 4 |
+| 049 | 《必须强调团结和进步》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md) | [SD](./inspiration_on_software_development/team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md) | 4 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -653,6 +655,15 @@
   - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md`
 
+### 049《必须强调团结和进步》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 31 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm
+- 已关联 inspiration 文件数：4
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -662,6 +673,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`049《必须强调团结和进步》`
+- 如果要从当前边界继续向下推进，下一篇应是：`050《新民主主义的宪政》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

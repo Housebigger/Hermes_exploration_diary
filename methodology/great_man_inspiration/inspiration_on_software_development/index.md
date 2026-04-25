@@ -94,6 +94,7 @@ Purpose:
 - `team_process_and_quality/mao-046-classify-and-evidence-based-integration.md`
 - `team_process_and_quality/047-dont-turn-engineering-unity-into-silencing-builders.md`
 - `team_process_and_quality/048-dont-let-product-direction-float-above-the-real-delivery-main-force.md`
+- `team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
