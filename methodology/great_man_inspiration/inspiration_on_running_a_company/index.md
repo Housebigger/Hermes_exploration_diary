@@ -56,6 +56,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md`
 - `strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md`
 - `strategy_and_execution/050-dont-call-it-a-new-company-order-if-most-builders-still-have-no-real-say.md`
+- `strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md`
 - `leadership_and_talent/040-boldly-absorb-knowledge-workers.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 

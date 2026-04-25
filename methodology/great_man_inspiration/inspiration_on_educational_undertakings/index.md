@@ -46,6 +46,7 @@
 - [047 很多学校不是缺统一，而是把学校统一做成禁言、压新和表面整齐——先压不同意见，先削弱真扛事的老师，先把青年教师和公开反馈当麻烦，最后连暗耗、背后做局和失信都被“顾全大局”保护起来了](school_coordination_and_organization/047-real-school-unity-needs-progress-openness-and-protecting-builders.md)
 - [049 很多学校不是败在外部压力太大，而是嘴上要统一，手上却不保护进步、不减少内耗、不支持真正推动学校升级的人，最后把所谓大局做成了慢慢滑向失真和失败的空壳](school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md)
 - [050 很多学校不是没有新制度和新口号，而是真正承担结果的大多数教师始终没有真实参与权、表达权和共同决定权，最后所谓治理升级只是换了一层包装的旧控制](school_coordination_and_organization/050-dont-call-it-a-new-school-order-if-most-teachers-still-have-no-real-say.md)
+- [051 很多学校不是没有制度，而是学校公共事务仍然被少数人包办，真正承担结果的教师、中间力量和可合作的人都没有真实位置，最后所谓共同治理只是换了说法的旧控制](school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md)
 
 ---
-统计：29篇笔记 / 5个子主题 / 覆盖001-050中29篇原文
+统计：30篇笔记 / 5个子主题 / 覆盖001-051中30篇原文
