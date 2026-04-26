@@ -16,7 +16,7 @@
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
 | 当前已建立原文关联的毛文标题数 | 52 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 269 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 273 |
 | 顺序学习已连续覆盖范围 | 001—051 |
 | 顺序覆盖段标题核对结果 | 51/51 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
 | 顺序覆盖是否连续 | 是 |
@@ -81,10 +81,10 @@
 | 045 | 《克服投降危险，力争时局好转》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 046 | 《团结一切抗日力量，反对反共顽固派》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 047 | 《向国民党的十点要求》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201b.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
-| 048 | 《中国工人》发刊词 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 048 | 《中国工人》发刊词 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 049 | 《必须强调团结和进步》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
 | 050 | 《新民主主义的宪政》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400220.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
-| 051 | 《抗日根据地的政权问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm) | 已覆盖（顺序主线，4 个主题转译文件） |
+| 051 | 《抗日根据地的政权问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm) | 已覆盖（顺序主线，6 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
@@ -160,10 +160,10 @@
 | 045 | 《克服投降危险，力争时局好转》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-045-dont-isolate-local-crises.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-045-dont-let-small-compromises-compound.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/mao-045-crisis-actions-must-drill-down-to-concrete-slogans.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/mao-045-two-futures-coexist-and-dual-track-defense.md) | [MM](./inspiration_on_making_money/execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-045-dont-let-fear-of-hurt-feelings-eat-your-bottom-line.md) | 6 |
 | 046 | 《团结一切抗日力量，反对反共顽固派》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm) | [TL](./inspiration_on_today_life/judgement_and_decision/mao-046-classify-dont-paint-with-one-brush.md) | [SD](./inspiration_on_software_development/team_process_and_quality/mao-046-classify-and-evidence-based-integration.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/mao-046-classify-evidence-and-beware-of-fake-integration.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md) | [MM](./inspiration_on_making_money/execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md) | — | [ED](./inspiration_on_educational_undertakings/school_governance_and_crisis_response/mao-046-classify-students-and-build-class-culture-with-facts.md) | 6 |
 | 047 | 《向国民党的十点要求》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201b.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/047-real-unity-needs-progress-openness-and-protecting-doers.md) | [SD](./inspiration_on_software_development/team_process_and_quality/047-dont-turn-engineering-unity-into-silencing-builders.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/047-real-company-unity-needs-progress-openness-and-protecting-builders.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/047-real-school-unity-needs-progress-openness-and-protecting-builders.md) | 4 |
-| 048 | 《中国工人》发刊词 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md) | [SD](./inspiration_on_software_development/team_process_and_quality/048-dont-let-product-direction-float-above-the-real-delivery-main-force.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md) | 4 |
+| 048 | 《中国工人》发刊词 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md) | [SD](./inspiration_on_software_development/team_process_and_quality/048-dont-let-product-direction-float-above-the-real-delivery-main-force.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md) | — | [MM](./inspiration_on_making_money/execution_and_delivery/048-dont-let-side-hustle-direction-float-above-the-real-demand-main-force.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md) | [ED](./inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md) | 6 |
 | 049 | 《必须强调团结和进步》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md) | [SD](./inspiration_on_software_development/team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md) | 4 |
 | 050 | 《新民主主义的宪政》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400220.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/050-dont-call-it-a-new-order-if-most-people-still-have-no-real-say.md) | [SD](./inspiration_on_software_development/team_process_and_quality/050-dont-call-it-a-new-software-order-if-most-builders-still-have-no-real-say.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/050-dont-call-it-a-new-company-order-if-most-builders-still-have-no-real-say.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/050-dont-call-it-a-new-school-order-if-most-teachers-still-have-no-real-say.md) | 4 |
-| 051 | 《抗日根据地的政权问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/051-dont-call-it-shared-governance-if-public-affairs-are-still-run-by-a-few.md) | [SD](./inspiration_on_software_development/team_process_and_quality/051-dont-call-it-shared-engineering-governance-if-public-affairs-are-still-run-by-a-few.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md) | — | — | — | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md) | 4 |
+| 051 | 《抗日根据地的政权问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/051-dont-call-it-shared-governance-if-public-affairs-are-still-run-by-a-few.md) | [SD](./inspiration_on_software_development/team_process_and_quality/051-dont-call-it-shared-engineering-governance-if-public-affairs-are-still-run-by-a-few.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md) | — | [MM](./inspiration_on_making_money/execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md) | 6 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -653,10 +653,12 @@
 ### 048《中国工人》发刊词
 - 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 30 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm
-- 已关联 inspiration 文件数：4
+- 已关联 inspiration 文件数：6
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/048-dont-let-product-direction-float-above-the-real-delivery-main-force.md`
   - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/048-dont-let-side-hustle-direction-float-above-the-real-demand-main-force.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md`
 
 ### 049《必须强调团结和进步》
@@ -680,10 +682,12 @@
 ### 051《抗日根据地的政权问题》
 - 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 33 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm
-- 已关联 inspiration 文件数：4
+- 已关联 inspiration 文件数：6
   - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/051-dont-call-it-shared-governance-if-public-affairs-are-still-run-by-a-few.md`
   - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/051-dont-call-it-shared-engineering-governance-if-public-affairs-are-still-run-by-a-few.md`
   - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md`
 
 ### 060《改造我们的学习》

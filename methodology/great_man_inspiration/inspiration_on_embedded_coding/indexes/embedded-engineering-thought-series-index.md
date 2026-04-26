@@ -239,7 +239,22 @@
 - 为什么真正的工程主心骨，要把版本主线、证据链、外部协作、知识沉淀和人才承接统一起来
 - 为什么一场场量产、定位和交付硬仗，必须沉淀成团队长期更能作战的系统能力，而不是只留下少数人的透支记忆
 
-## 后续候选主题
+### 21. 从《中国工人》发刊词看嵌入式团队推进：很多团队不是没有方向，而是一直没把真正承压的交付主力、会干实事的骨干、外部方法帮助和反馈循环组织起来
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
+
+核心主题：
+- 为什么很多嵌入式项目不是没有方向，而是没有把真正承压的交付主力组织起来
+- 为什么远目标必须被压回当前阶段任务，不能让架构愿景悬在半空
+- 为什么只有少数人听得懂的工程语言，组织不起真实主力系统
+- 为什么团队真正缺的常常不是一个更强专家，而是一批会干实事的骨干
+- 为什么外部方法帮助和持续反馈循环，是项目从“懂方向”走向“会推进”的关键
+
+### 22. 从《抗日根据地的政权问题》看嵌入式共享治理：很多团队不是没有规则，而是工程公共事务仍然被少数人包办，真正承压的人、中间力量和可合作的人都没有真实位置，最后所谓共享治理只是换了说法的旧控制
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
 
 - `023《和英国记者贝特兰的谈话》`：别把关键嵌入式硬仗打成少数工程师的被动防御战。
 - `024《上海太原失陷以后抗日战争的形势和任务》`：别把局部止损误成真实转折，要守住过渡期判断。

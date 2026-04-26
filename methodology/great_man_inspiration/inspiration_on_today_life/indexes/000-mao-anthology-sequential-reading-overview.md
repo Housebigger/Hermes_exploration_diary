@@ -326,7 +326,9 @@
   - `../inspiration_on_software_development/team_process_and_quality/048-dont-let-product-direction-float-above-the-real-delivery-main-force.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/048-dont-let-company-direction-float-above-the-real-frontline-main-force.md`
   - `../inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md`
-  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
+  - `../inspiration_on_making_money/execution_and_delivery/048-dont-let-side-hustle-direction-float-above-the-real-demand-main-force.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding 六个角度；stock_investing 角度将在后续小步中继续评估与展开。
 
 - 049《必须强调团结和进步》
   - `cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md`
@@ -347,7 +349,9 @@
   - `../inspiration_on_software_development/team_process_and_quality/051-dont-call-it-shared-engineering-governance-if-public-affairs-are-still-run-by-a-few.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md`
   - `../inspiration_on_educational_undertakings/school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md`
-  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
+  - `../inspiration_on_making_money/execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding 六个角度；stock_investing 角度将在后续小步中继续评估与展开。
 
 - 当前顺序覆盖已推进到：`051《抗日根据地的政权问题》`
 - 如果继续顺序推进，下一篇应是：`052《目前抗日统一战线中的策略问题》`

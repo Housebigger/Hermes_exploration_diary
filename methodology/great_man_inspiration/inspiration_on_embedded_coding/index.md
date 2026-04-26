@@ -54,6 +54,8 @@ Focus:
 - `team_process_and_knowledge/018-vanguards-must-join-the-real-embedded-main-force.md`
 - `team_process_and_knowledge/019-dont-judge-embedded-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md`
+- `team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
+- `team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
 
 Focus:
 - knowledge sedimentation
