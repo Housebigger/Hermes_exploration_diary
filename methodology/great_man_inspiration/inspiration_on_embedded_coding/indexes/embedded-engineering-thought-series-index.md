@@ -256,6 +256,37 @@
 文件：
 `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
 
+核心主题：
+- 为什么很多团队不是没有规则，而是工程公共事务仍然被少数人包办
+- 为什么真正稳定的治理结构，要让承担者、桥梁角色和中间力量都有真实位置
+- 为什么主导地位不能靠资源和权限在手来维持，而要靠方向正确、质量过硬和持续说服
+- 为什么不会认真争取中间力量的系统，很难把合作面真正做宽
+- 为什么真正的工程合作，不是把别人拉来站队，而是让别人能表达、能商量、能影响过程
+- 为什么“关键资源在我手里”绝不是不必解释、不必协商的理由
+
+### 23. 从《必须强调团结和进步》看嵌入式协作：很多团队不是败在外部压力太大，而是嘴上要协同，手上却不保护进步、不减少内耗、不支持真正推动升级的人，最后把所谓工程大局做成了慢慢滑向失真和失败的空壳
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/023-dont-call-it-embedded-collaboration-if-it-does-not-protect-progress.md`
+
+核心主题：
+- 为什么不要把协作理解成只要别起冲突就行
+- 为什么只保大局不护进步，终究会把工程系统做坏
+- 为什么长期放任倒退、内耗和背后进攻，会让团队从内部滑向失败
+- 为什么把新力量、现场反馈和真实问题当麻烦，系统会越来越旧、越来越空
+- 为什么真正成熟的工程大局观，是让协作本身带着升级能力
+
+### 24. 从《新民主主义的宪政》看嵌入式治理升级：很多团队不是没有新流程和新口号，而是大多数真正承压的建设者始终没有真实参与权、表达权和共同决定权，最后所谓治理升级只是换了一层包装的旧控制
+
+文件：
+`methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/024-dont-call-it-a-new-embedded-order-if-most-builders-still-have-no-real-say.md`
+
+核心主题：
+- 真正承压的建设者有没有位置
+- 规则能不能由更多承担后果的人共同作主
+- 治理升级不能只是旧控制换壳
+- 工程公共事务必须从少数人包办走向多数建设者共同参与
+
 - `023《和英国记者贝特兰的谈话》`：别把关键嵌入式硬仗打成少数工程师的被动防御战。
 - `024《上海太原失陷以后抗日战争的形势和任务》`：别把局部止损误成真实转折，要守住过渡期判断。
 - `031《五四运动》`：新阶段要让理解系统的人真正进入现场承重主体，而不是只停留在表达层。

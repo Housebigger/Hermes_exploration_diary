@@ -335,14 +335,17 @@
   - `../inspiration_on_software_development/team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md`
   - `../inspiration_on_educational_undertakings/school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md`
-  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
+  - `../inspiration_on_making_money/execution_and_delivery/049-dont-call-it-side-hustle-cooperation-if-it-does-not-protect-progress.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/023-dont-call-it-embedded-collaboration-if-it-does-not-protect-progress.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding 六个角度；stock_investing 角度将在后续小步中继续评估与展开。
 
 - 050《新民主主义的宪政》
   - `cooperation_and_organization/050-dont-call-it-a-new-order-if-most-people-still-have-no-real-say.md`
   - `../inspiration_on_software_development/team_process_and_quality/050-dont-call-it-a-new-software-order-if-most-builders-still-have-no-real-say.md`
   - `../inspiration_on_running_a_company/strategy_and_execution/050-dont-call-it-a-new-company-order-if-most-builders-still-have-no-real-say.md`
   - `../inspiration_on_educational_undertakings/school_coordination_and_organization/050-dont-call-it-a-new-school-order-if-most-teachers-still-have-no-real-say.md`
-  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings 四个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/024-dont-call-it-a-new-embedded-order-if-most-builders-still-have-no-real-say.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / embedded_coding 五个角度；stock_investing / making_money 角度将在后续小步中继续评估与展开。
 
 - 051《抗日根据地的政权问题》
   - `cooperation_and_organization/051-dont-call-it-shared-governance-if-public-affairs-are-still-run-by-a-few.md`
@@ -351,7 +354,8 @@
   - `../inspiration_on_educational_undertakings/school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md`
   - `../inspiration_on_making_money/execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
-  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding 六个角度；stock_investing 角度将在后续小步中继续评估与展开。
+  - `../inspiration_on_stock_investing/research_and_thesis/051-dont-call-it-shared-investment-governance-if-thesis-formation-is-still-run-by-a-few.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding / stock_investing 七个角度。
 
 - 当前顺序覆盖已推进到：`051《抗日根据地的政权问题》`
 - 如果继续顺序推进，下一篇应是：`052《目前抗日统一战线中的策略问题》`

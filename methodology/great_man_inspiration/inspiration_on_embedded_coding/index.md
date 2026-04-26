@@ -56,6 +56,8 @@ Focus:
 - `team_process_and_knowledge/020-embedded-projects-need-alliances-hard-fights-and-an-engineering-core.md`
 - `team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
 - `team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
+- `team_process_and_knowledge/023-dont-call-it-embedded-collaboration-if-it-does-not-protect-progress.md`
+- `team_process_and_knowledge/024-dont-call-it-a-new-embedded-order-if-most-builders-still-have-no-real-say.md`
 
 Focus:
 - knowledge sedimentation
