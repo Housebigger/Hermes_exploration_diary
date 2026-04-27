@@ -43,6 +43,8 @@ Purpose:
 - `research_and_thesis/mao-044-stages-and-localize-investing.md`
 - `research_and_thesis/mao-045-two-futures-coexist-and-dual-track-defense.md`
 - `research_and_thesis/mao-046-dont-overgeneralize-and-evidence-based-logic.md`
+- `research_and_thesis/049-dont-call-it-investment-cooperation-if-it-does-not-protect-progress.md`
+- `research_and_thesis/050-dont-call-it-a-new-investment-order-if-most-research-builders-still-have-no-real-say.md`
 - `research_and_thesis/051-dont-call-it-shared-investment-governance-if-thesis-formation-is-still-run-by-a-few.md`
 
 Purpose:

@@ -48,8 +48,10 @@ Important boundary:
 - `execution_and_delivery/037-dont-judge-side-hustle-allies-by-surface-deals-see-whose-interests-really-align.md`
 - `execution_and_delivery/038-side-hustles-need-alliances-hard-execution-and-an-operating-core.md`
 - `execution_and_delivery/041-副业赚钱的根据地战略.md`
+- `execution_and_delivery/047-dont-call-it-side-hustle-cooperation-if-it-turns-into-swallowing-builders.md`
 - `execution_and_delivery/048-dont-let-side-hustle-direction-float-above-the-real-demand-main-force.md`
 - `execution_and_delivery/049-dont-call-it-side-hustle-cooperation-if-it-does-not-protect-progress.md`
+- `execution_and_delivery/050-dont-call-it-a-new-side-hustle-order-if-most-builders-still-have-no-real-say.md`
 - `execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
 - `execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
