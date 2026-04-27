@@ -49,6 +49,7 @@ Purpose:
 - `research_and_thesis/050-dont-call-it-a-new-investment-order-if-most-research-builders-still-have-no-real-say.md`
 - `research_and_thesis/051-dont-call-it-shared-investment-governance-if-thesis-formation-is-still-run-by-a-few.md`
 - `research_and_thesis/052-broaden-investment-support-without-dropping-research-direction.md`
+- `research_and_thesis/053-real-investment-turnarounds-come-from-growing-new-research-capacity-not-just-defending-old-thesis.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

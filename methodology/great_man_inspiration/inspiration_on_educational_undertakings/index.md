@@ -48,6 +48,7 @@
 - [050 很多学校不是没有新制度和新口号，而是真正承担结果的大多数教师始终没有真实参与权、表达权和共同决定权，最后所谓治理升级只是换了一层包装的旧控制](school_coordination_and_organization/050-dont-call-it-a-new-school-order-if-most-teachers-still-have-no-real-say.md)
 - [051 很多学校不是没有制度，而是学校公共事务仍然被少数人包办，真正承担结果的教师、中间力量和可合作的人都没有真实位置，最后所谓共同治理只是换了说法的旧控制](school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md)
 - [052 支持面要做宽，但不能把学校主方向、主判断和主导责任一起交出去](school_coordination_and_organization/052-broaden-school-support-without-dropping-core-direction.md)
+- [053 真正能在承压阶段里翻盘的学校，不是把全部精力都花在守住旧秩序、证明自己没错和减少局部损失上，而是能在压力里继续做大新力量、新支持面和新教育空间](school_coordination_and_organization/053-real-school-turnarounds-come-from-growing-new-strength-not-just-defending-old-ground.md)
 
 ---
-统计：31篇笔记 / 5个子主题 / 覆盖001-052中31篇原文
+统计：32篇笔记 / 5个子主题 / 覆盖001-053中32篇原文

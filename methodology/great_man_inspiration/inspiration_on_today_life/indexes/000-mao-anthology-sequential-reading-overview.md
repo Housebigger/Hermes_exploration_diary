@@ -374,8 +374,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`052《目前抗日统一战线中的策略问题》`
-- 如果继续顺序推进，下一篇应是：`053《放手发展抗日力量，抵抗反共顽固派的进攻》`
+- 053《放手发展抗日力量，抵抗反共顽固派的进攻》
+  - `cooperation_and_organization/053-real-turnarounds-come-from-growing-new-strength-not-just-guarding-old-ground.md`
+  - `../inspiration_on_software_development/team_process_and_quality/053-real-engineering-turnarounds-come-from-growing-new-capacity-not-just-guarding-legacy-systems.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/053-real-company-turnarounds-come-from-growing-new-strength-not-just-defending-old-territory.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/053-real-school-turnarounds-come-from-growing-new-strength-not-just-defending-old-ground.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/053-real-investment-turnarounds-come-from-growing-new-research-capacity-not-just-defending-old-thesis.md`
+  - `../inspiration_on_making_money/execution_and_delivery/053-real-side-hustle-turnarounds-come-from-growing-new-strength-not-just-defending-old-business.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
+
+- 当前顺序覆盖已推进到：`053《放手发展抗日力量，抵抗反共顽固派的进攻》`
+- 如果继续顺序推进，下一篇应是：`054《团结到底》`
 
 ## 阶段补充小结（自动追加）
 

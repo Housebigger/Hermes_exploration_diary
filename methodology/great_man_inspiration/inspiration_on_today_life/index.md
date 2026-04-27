@@ -100,6 +100,7 @@ Purpose:
 - `cooperation_and_organization/050-dont-call-it-a-new-order-if-most-people-still-have-no-real-say.md`
 - `cooperation_and_organization/051-dont-call-it-shared-governance-if-public-affairs-are-still-run-by-a-few.md`
 - `cooperation_and_organization/052-broaden-support-surfaces-but-dont-drop-your-main-direction.md`
+- `cooperation_and_organization/053-real-turnarounds-come-from-growing-new-strength-not-just-guarding-old-ground.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change

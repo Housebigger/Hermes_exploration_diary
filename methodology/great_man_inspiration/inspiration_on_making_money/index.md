@@ -54,6 +54,7 @@ Important boundary:
 - `execution_and_delivery/050-dont-call-it-a-new-side-hustle-order-if-most-builders-still-have-no-real-say.md`
 - `execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
 - `execution_and_delivery/052-broaden-side-hustle-support-without-dropping-core-direction.md`
+- `execution_and_delivery/053-real-side-hustle-turnarounds-come-from-growing-new-strength-not-just-defending-old-business.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:
