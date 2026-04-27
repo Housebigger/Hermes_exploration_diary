@@ -321,7 +321,8 @@
   - `../inspiration_on_educational_undertakings/school_coordination_and_organization/047-real-school-unity-needs-progress-openness-and-protecting-builders.md`
   - `../inspiration_on_making_money/execution_and_delivery/047-dont-call-it-side-hustle-cooperation-if-it-turns-into-swallowing-builders.md`
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/025-dont-call-it-embedded-cooperation-if-it-turns-into-swallowing-builders.md`
-  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding 六个角度；stock_investing 角度将在后续小步中继续评估与展开。
+  - `../inspiration_on_stock_investing/research_and_thesis/047-dont-call-it-investment-cooperation-if-it-turns-into-swallowing-builders.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding / stock_investing 七个角度。
 
 - 048《中国工人》发刊词
   - `cooperation_and_organization/048-dont-let-big-goals-float-above-the-real-main-force.md`
@@ -330,7 +331,8 @@
   - `../inspiration_on_educational_undertakings/classroom_and_teaching_design/048-dont-let-teaching-goals-float-above-the-real-learning-main-force.md`
   - `../inspiration_on_making_money/execution_and_delivery/048-dont-let-side-hustle-direction-float-above-the-real-demand-main-force.md`
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/021-dont-let-embedded-direction-float-above-the-real-delivery-main-force.md`
-  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding 六个角度；stock_investing 角度将在后续小步中继续评估与展开。
+  - `../inspiration_on_stock_investing/research_and_thesis/048-dont-let-investment-direction-float-above-the-real-validating-main-force.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding / stock_investing 七个角度。
 
 - 049《必须强调团结和进步》
   - `cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md`
