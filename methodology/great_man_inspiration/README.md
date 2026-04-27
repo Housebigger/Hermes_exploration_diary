@@ -15,20 +15,20 @@
 | 指标 | 当前结果 |
 |---|---|
 | marxists.org 主文章总数（编号主条目） | 229 |
-| 当前已建立原文关联的毛文标题数 | 52 |
-| 当前已建立 `原文对应` 的 inspiration 文件数 | 284 |
-| 顺序学习已连续覆盖范围 | 001—051 |
-| 顺序覆盖段标题核对结果 | 51/51 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
+| 当前已建立原文关联的毛文标题数 | 53 |
+| 当前已建立 `原文对应` 的 inspiration 文件数 | 291 |
+| 顺序学习已连续覆盖范围 | 001—052 |
+| 顺序覆盖段标题核对结果 | 52/52 与 marxists.org 标题一致；另有 1 篇非顺序拓展 |
 | 顺序覆盖是否连续 | 是 |
-| 顺序主线的下一篇 | 052《目前抗日统一战线中的策略问题》 |
+| 顺序主线的下一篇 | 053《放手发展抗日力量，抵抗反共顽固派的进攻》 |
 
 ## 2. 与真实文章列表的比对结论
 
 ### 2.1 顺序主线当前已确认对齐
 
-- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `051《抗日根据地的政权问题》`。
-- 在 `001—051` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
-- 当前下一篇尚未纳入顺序主线的是 `052《目前抗日统一战线中的策略问题》`
+- 当前顺序主线已经和 marxists.org 的真实主文章列表对齐到 `052《目前抗日统一战线中的策略问题》`。
+- 在 `001—052` 这段里，仓库顺序标题与 marxists.org 原始标题逐条核对一致。
+- 当前下一篇尚未纳入顺序主线的是 `053《放手发展抗日力量，抵抗反共顽固派的进攻》`
 
 ### 2.2 已覆盖毛泽东原文完整对照表
 
@@ -85,14 +85,15 @@
 | 049 | 《必须强调团结和进步》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 050 | 《新民主主义的宪政》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400220.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 051 | 《抗日根据地的政权问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
+| 052 | 《目前抗日统一战线中的策略问题》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm) | 已覆盖（顺序主线，7 个主题转译文件） |
 | 060 | 《改造我们的学习》 | [marxists.org](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | 已覆盖（非顺序拓展，1 个主题转译文件） |
 
 ### 2.3 一个简单的覆盖示意图
 
 ```text
-001—051 顺序主线已建立关联         [###################################################]
-051 《抗日根据地的政权问题》          [DONE]
-052 《目前抗日统一战线中的策略问题》  [NEXT]
+001—052 顺序主线已建立关联         [####################################################]
+052 《目前抗日统一战线中的策略问题》  [DONE]
+053 《放手发展抗日力量，抵抗反共顽固派的进攻》 [NEXT]
 060 改造我们的学习                   [EXTRA] 非顺序拓展
 ```
 ## 3. 主题缩写图例
@@ -164,6 +165,7 @@
 | 049 | 《必须强调团结和进步》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md) | [SD](./inspiration_on_software_development/team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/049-dont-call-it-company-unity-if-it-does-not-protect-progress.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/049-dont-call-it-investment-cooperation-if-it-does-not-protect-progress.md) | [MM](./inspiration_on_making_money/execution_and_delivery/049-dont-call-it-side-hustle-cooperation-if-it-does-not-protect-progress.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/023-dont-call-it-embedded-collaboration-if-it-does-not-protect-progress.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md) | 7 |
 | 050 | 《新民主主义的宪政》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400220.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/050-dont-call-it-a-new-order-if-most-people-still-have-no-real-say.md) | [SD](./inspiration_on_software_development/team_process_and_quality/050-dont-call-it-a-new-software-order-if-most-builders-still-have-no-real-say.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/050-dont-call-it-a-new-company-order-if-most-builders-still-have-no-real-say.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/050-dont-call-it-a-new-investment-order-if-most-research-builders-still-have-no-real-say.md) | [MM](./inspiration_on_making_money/execution_and_delivery/050-dont-call-it-a-new-side-hustle-order-if-most-builders-still-have-no-real-say.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/024-dont-call-it-a-new-embedded-order-if-most-builders-still-have-no-real-say.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/050-dont-call-it-a-new-school-order-if-most-teachers-still-have-no-real-say.md) | 7 |
 | 051 | 《抗日根据地的政权问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/051-dont-call-it-shared-governance-if-public-affairs-are-still-run-by-a-few.md) | [SD](./inspiration_on_software_development/team_process_and_quality/051-dont-call-it-shared-engineering-governance-if-public-affairs-are-still-run-by-a-few.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/051-dont-call-it-shared-investment-governance-if-thesis-formation-is-still-run-by-a-few.md) | [MM](./inspiration_on_making_money/execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md) | 7 |
+| 052 | 《目前抗日统一战线中的策略问题》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm) | [TL](./inspiration_on_today_life/cooperation_and_organization/052-broaden-support-surfaces-but-dont-drop-your-main-direction.md) | [SD](./inspiration_on_software_development/team_process_and_quality/052-broaden-software-support-without-dropping-product-engineering-direction.md) | [RC](./inspiration_on_running_a_company/strategy_and_execution/052-broaden-company-support-without-dropping-strategic-direction.md) | [SI](./inspiration_on_stock_investing/research_and_thesis/052-broaden-investment-support-without-dropping-research-direction.md) | [MM](./inspiration_on_making_money/execution_and_delivery/052-broaden-side-hustle-support-without-dropping-core-direction.md) | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md) | [ED](./inspiration_on_educational_undertakings/school_coordination_and_organization/052-broaden-school-support-without-dropping-core-direction.md) | 7 |
 | 060 | 《改造我们的学习》 | [原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm) | — | — | — | — | — | [EC](./inspiration_on_embedded_coding/team_process_and_knowledge/005-rectify-learning-knowledge-retrospective.md) | — | 1 |
 ## 5. 已建立关联的原文标题清单（按真实顺序）
 
@@ -701,6 +703,18 @@
   - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/022-dont-call-it-shared-embedded-governance-if-public-affairs-are-still-run-by-a-few.md`
   - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md`
 
+### 052《目前抗日统一战线中的策略问题》
+- 真实索引位置：第二卷 抗日战争时期（上） / 本卷第 34 条
+- 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm
+- 已关联 inspiration 文件数：7
+  - TL: `methodology/great_man_inspiration/inspiration_on_today_life/cooperation_and_organization/052-broaden-support-surfaces-but-dont-drop-your-main-direction.md`
+  - SD: `methodology/great_man_inspiration/inspiration_on_software_development/team_process_and_quality/052-broaden-software-support-without-dropping-product-engineering-direction.md`
+  - RC: `methodology/great_man_inspiration/inspiration_on_running_a_company/strategy_and_execution/052-broaden-company-support-without-dropping-strategic-direction.md`
+  - SI: `methodology/great_man_inspiration/inspiration_on_stock_investing/research_and_thesis/052-broaden-investment-support-without-dropping-research-direction.md`
+  - MM: `methodology/great_man_inspiration/inspiration_on_making_money/execution_and_delivery/052-broaden-side-hustle-support-without-dropping-core-direction.md`
+  - EC: `methodology/great_man_inspiration/inspiration_on_embedded_coding/team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md`
+  - ED: `methodology/great_man_inspiration/inspiration_on_educational_undertakings/school_coordination_and_organization/052-broaden-school-support-without-dropping-core-direction.md`
+
 ### 060《改造我们的学习》
 - 真实索引位置：第三卷 抗日战争时期（下） / 本卷第 2 条
 - 原文链接：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
@@ -710,6 +724,6 @@
 ## 6. 使用建议
 
 - 如果要继续顺序学习，请优先看：`inspiration_on_today_life/indexes/000-mao-anthology-sequential-reading-overview.md`
-- 如果要从当前边界继续向下推进，下一篇应是：`052《目前抗日统一战线中的策略问题》`
+- 如果要从当前边界继续向下推进，下一篇应是：`053《放手发展抗日力量，抵抗反共顽固派的进攻》`
 - 如果要反查某篇 inspiration 对应哪篇毛文，可以先在本 README 的“原文 -> inspiration 文件 关联矩阵”里点链接。
 - 如果要反查某篇毛文已经转译到了哪些主题，也可以直接按本 README 第 5 节查看。

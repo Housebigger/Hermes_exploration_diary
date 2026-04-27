@@ -53,7 +53,7 @@ Important boundary:
 - `execution_and_delivery/049-dont-call-it-side-hustle-cooperation-if-it-does-not-protect-progress.md`
 - `execution_and_delivery/050-dont-call-it-a-new-side-hustle-order-if-most-builders-still-have-no-real-say.md`
 - `execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
-- `execution_and_delivery/mao-045-dont-let-fear-of-breakup-eat-your-bottom-line.md`
+- `execution_and_delivery/052-broaden-side-hustle-support-without-dropping-core-direction.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

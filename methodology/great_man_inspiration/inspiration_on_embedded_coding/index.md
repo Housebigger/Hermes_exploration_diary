@@ -59,6 +59,7 @@ Focus:
 - `team_process_and_knowledge/023-dont-call-it-embedded-collaboration-if-it-does-not-protect-progress.md`
 - `team_process_and_knowledge/024-dont-call-it-a-new-embedded-order-if-most-builders-still-have-no-real-say.md`
 - `team_process_and_knowledge/025-dont-call-it-embedded-cooperation-if-it-turns-into-swallowing-builders.md`
+- `team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md`
 
 Focus:
 - knowledge sedimentation

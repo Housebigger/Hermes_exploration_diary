@@ -364,8 +364,18 @@
   - `../inspiration_on_stock_investing/research_and_thesis/051-dont-call-it-shared-investment-governance-if-thesis-formation-is-still-run-by-a-few.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / making_money / embedded_coding / stock_investing 七个角度。
 
-- 当前顺序覆盖已推进到：`051《抗日根据地的政权问题》`
-- 如果继续顺序推进，下一篇应是：`052《目前抗日统一战线中的策略问题》`
+- 052《目前抗日统一战线中的策略问题》
+  - `cooperation_and_organization/052-broaden-support-surfaces-but-dont-drop-your-main-direction.md`
+  - `../inspiration_on_software_development/team_process_and_quality/052-broaden-software-support-without-dropping-product-engineering-direction.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/052-broaden-company-support-without-dropping-strategic-direction.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/052-broaden-school-support-without-dropping-core-direction.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/052-broaden-investment-support-without-dropping-research-direction.md`
+  - `../inspiration_on_making_money/execution_and_delivery/052-broaden-side-hustle-support-without-dropping-core-direction.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
+
+- 当前顺序覆盖已推进到：`052《目前抗日统一战线中的策略问题》`
+- 如果继续顺序推进，下一篇应是：`053《放手发展抗日力量，抵抗反共顽固派的进攻》`
 
 ## 阶段补充小结（自动追加）
 

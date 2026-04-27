@@ -99,6 +99,7 @@ Purpose:
 - `cooperation_and_organization/049-dont-call-it-unity-if-it-does-not-protect-progress.md`
 - `cooperation_and_organization/050-dont-call-it-a-new-order-if-most-people-still-have-no-real-say.md`
 - `cooperation_and_organization/051-dont-call-it-shared-governance-if-public-affairs-are-still-run-by-a-few.md`
+- `cooperation_and_organization/052-broaden-support-surfaces-but-dont-drop-your-main-direction.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change

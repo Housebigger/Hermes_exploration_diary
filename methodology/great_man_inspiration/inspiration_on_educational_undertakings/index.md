@@ -47,6 +47,7 @@
 - [049 很多学校不是败在外部压力太大，而是嘴上要统一，手上却不保护进步、不减少内耗、不支持真正推动学校升级的人，最后把所谓大局做成了慢慢滑向失真和失败的空壳](school_coordination_and_organization/049-dont-call-it-school-unity-if-it-does-not-protect-progress.md)
 - [050 很多学校不是没有新制度和新口号，而是真正承担结果的大多数教师始终没有真实参与权、表达权和共同决定权，最后所谓治理升级只是换了一层包装的旧控制](school_coordination_and_organization/050-dont-call-it-a-new-school-order-if-most-teachers-still-have-no-real-say.md)
 - [051 很多学校不是没有制度，而是学校公共事务仍然被少数人包办，真正承担结果的教师、中间力量和可合作的人都没有真实位置，最后所谓共同治理只是换了说法的旧控制](school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md)
+- [052 支持面要做宽，但不能把学校主方向、主判断和主导责任一起交出去](school_coordination_and_organization/052-broaden-school-support-without-dropping-core-direction.md)
 
 ---
-统计：30篇笔记 / 5个子主题 / 覆盖001-051中30篇原文
+统计：31篇笔记 / 5个子主题 / 覆盖001-052中31篇原文

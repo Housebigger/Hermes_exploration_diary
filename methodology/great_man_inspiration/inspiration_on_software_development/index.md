@@ -97,6 +97,7 @@ Purpose:
 - `team_process_and_quality/049-dont-call-it-engineering-unity-if-it-does-not-protect-progress.md`
 - `team_process_and_quality/050-dont-call-it-a-new-software-order-if-most-builders-still-have-no-real-say.md`
 - `team_process_and_quality/051-dont-call-it-shared-engineering-governance-if-public-affairs-are-still-run-by-a-few.md`
+- `team_process_and_quality/052-broaden-software-support-without-dropping-product-engineering-direction.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos
