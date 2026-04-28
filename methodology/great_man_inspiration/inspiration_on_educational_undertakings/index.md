@@ -49,6 +49,7 @@
 - [051 很多学校不是没有制度，而是学校公共事务仍然被少数人包办，真正承担结果的教师、中间力量和可合作的人都没有真实位置，最后所谓共同治理只是换了说法的旧控制](school_coordination_and_organization/051-dont-call-it-shared-school-governance-if-public-affairs-are-still-run-by-a-few.md)
 - [052 支持面要做宽，但不能把学校主方向、主判断和主导责任一起交出去](school_coordination_and_organization/052-broaden-school-support-without-dropping-core-direction.md)
 - [053 真正能在承压阶段里翻盘的学校，不是把全部精力都花在守住旧秩序、证明自己没错和减少局部损失上，而是能在压力里继续做大新力量、新支持面和新教育空间](school_coordination_and_organization/053-real-school-turnarounds-come-from-growing-new-strength-not-just-defending-old-ground.md)
+- [054 真正能把学校带到最后的，不是嘴上一直说别分裂，而是既能把真正该坚持的教育主线坚持到底，也能把真正该团结的组织力量团结到底](school_coordination_and_organization/054-unity-that-lasts-needs-holding-the-educational-mainline-and-keeping-the-school-together.md)
 
 ---
-统计：32篇笔记 / 5个子主题 / 覆盖001-053中32篇原文
+统计：33篇笔记 / 5个子主题 / 覆盖001-054中33篇原文

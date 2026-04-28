@@ -59,6 +59,7 @@ Reserved theme for future notes that translate historical texts into practical m
 - `strategy_and_execution/051-dont-call-it-shared-company-governance-if-public-affairs-are-still-run-by-a-few.md`
 - `strategy_and_execution/052-broaden-company-support-without-dropping-strategic-direction.md`
 - `strategy_and_execution/053-real-company-turnarounds-come-from-growing-new-strength-not-just-defending-old-territory.md`
+- `strategy_and_execution/054-unity-that-lasts-needs-holding-the-business-mainline-and-keeping-the-organization-together.md`
 - `leadership_and_talent/043-spot-and-cultivate-the-extremely-responsible-ones.md`
 
 ## Focus of the current notes

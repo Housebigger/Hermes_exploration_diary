@@ -99,6 +99,7 @@ Purpose:
 - `team_process_and_quality/051-dont-call-it-shared-engineering-governance-if-public-affairs-are-still-run-by-a-few.md`
 - `team_process_and_quality/052-broaden-software-support-without-dropping-product-engineering-direction.md`
 - `team_process_and_quality/053-real-engineering-turnarounds-come-from-growing-new-capacity-not-just-guarding-legacy-systems.md`
+- `team_process_and_quality/054-unity-that-lasts-needs-holding-the-mainline-and-keeping-the-coalition-together.md`
 
 Purpose:
 - how software teams investigate bottom-up feedback and turn messy frontline correction signals into product and governance upgrades instead of suppressing them as chaos

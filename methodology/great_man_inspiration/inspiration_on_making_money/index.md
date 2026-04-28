@@ -55,6 +55,7 @@ Important boundary:
 - `execution_and_delivery/051-dont-call-it-shared-side-hustle-governance-if-public-affairs-are-still-run-by-a-few.md`
 - `execution_and_delivery/052-broaden-side-hustle-support-without-dropping-core-direction.md`
 - `execution_and_delivery/053-real-side-hustle-turnarounds-come-from-growing-new-strength-not-just-defending-old-business.md`
+- `execution_and_delivery/054-unity-that-lasts-needs-holding-the-business-mainline-and-keeping-the-side-hustle-coalition-together.md`
 - `execution_and_delivery/mao-046-classify-customers-and-build-verifiable-credibility.md`
 
 Additional focus:

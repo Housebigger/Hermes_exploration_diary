@@ -384,8 +384,18 @@
   - `../inspiration_on_embedded_coding/team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
   - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
-- 当前顺序覆盖已推进到：`053《放手发展抗日力量，抵抗反共顽固派的进攻》`
-- 如果继续顺序推进，下一篇应是：`054《团结到底》`
+- 当前顺序覆盖已推进到：`054《团结到底》`
+- 如果继续顺序推进，下一篇应是：`055《论政策》`
+
+- 054《团结到底》
+  - `cooperation_and_organization/054-unity-that-lasts-needs-fighting-to-the-end-and-cooperating-to-the-end.md`
+  - `../inspiration_on_software_development/team_process_and_quality/054-unity-that-lasts-needs-holding-the-mainline-and-keeping-the-coalition-together.md`
+  - `../inspiration_on_running_a_company/strategy_and_execution/054-unity-that-lasts-needs-holding-the-business-mainline-and-keeping-the-organization-together.md`
+  - `../inspiration_on_educational_undertakings/school_coordination_and_organization/054-unity-that-lasts-needs-holding-the-educational-mainline-and-keeping-the-school-together.md`
+  - `../inspiration_on_stock_investing/research_and_thesis/054-unity-that-lasts-needs-holding-the-thesis-mainline-and-keeping-the-research-coalition-together.md`
+  - `../inspiration_on_making_money/execution_and_delivery/054-unity-that-lasts-needs-holding-the-business-mainline-and-keeping-the-side-hustle-coalition-together.md`
+  - `../inspiration_on_embedded_coding/team_process_and_knowledge/028-unity-that-lasts-needs-holding-the-engineering-mainline-and-keeping-the-embedded-coalition-together.md`
+  - 本轮已先完成 today_life / software_development / running_a_company / educational_undertakings / stock_investing / making_money / embedded_coding 七个角度。
 
 ## 阶段补充小结（自动追加）
 
