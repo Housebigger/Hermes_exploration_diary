@@ -62,6 +62,7 @@ Focus:
 - `team_process_and_knowledge/026-broaden-embedded-support-without-dropping-engineering-direction.md`
 - `team_process_and_knowledge/027-real-embedded-turnarounds-come-from-growing-new-strength-not-just-defending-old-delivery.md`
 - `team_process_and_knowledge/028-unity-that-lasts-needs-holding-the-engineering-mainline-and-keeping-the-embedded-coalition-together.md`
+- `team_process_and_knowledge/029-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-embedded-teams.md`
 Focus:
 - knowledge sedimentation
 - retrospective quality

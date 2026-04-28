@@ -50,6 +50,7 @@
 - [052 支持面要做宽，但不能把学校主方向、主判断和主导责任一起交出去](school_coordination_and_organization/052-broaden-school-support-without-dropping-core-direction.md)
 - [053 真正能在承压阶段里翻盘的学校，不是把全部精力都花在守住旧秩序、证明自己没错和减少局部损失上，而是能在压力里继续做大新力量、新支持面和新教育空间](school_coordination_and_organization/053-real-school-turnarounds-come-from-growing-new-strength-not-just-defending-old-ground.md)
 - [054 真正能把学校带到最后的，不是嘴上一直说别分裂，而是既能把真正该坚持的教育主线坚持到底，也能把真正该团结的组织力量团结到底](school_coordination_and_organization/054-unity-that-lasts-needs-holding-the-educational-mainline-and-keeping-the-school-together.md)
+- [055 真正成熟的教育政策感，不是只会站队或只会硬顶，而是能把联合、斗争、区别对待和分寸感一起用出来](school_coordination_and_organization/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-schools.md)
 
 ---
-统计：33篇笔记 / 5个子主题 / 覆盖001-054中33篇原文
+统计：34篇笔记 / 5个子主题 / 覆盖001-055中34篇原文

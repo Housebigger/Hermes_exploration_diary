@@ -51,6 +51,7 @@ Purpose:
 - `research_and_thesis/052-broaden-investment-support-without-dropping-research-direction.md`
 - `research_and_thesis/053-real-investment-turnarounds-come-from-growing-new-research-capacity-not-just-defending-old-thesis.md`
 - `research_and_thesis/054-unity-that-lasts-needs-holding-the-thesis-mainline-and-keeping-the-research-coalition-together.md`
+- `research_and_thesis/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure-for-investment-research.md`
 
 Purpose:
 - how investors detect bottom-up structural change, distinguish repricing from noise, and remap winners and losers when old narratives start breaking

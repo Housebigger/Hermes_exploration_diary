@@ -102,6 +102,7 @@ Purpose:
 - `cooperation_and_organization/052-broaden-support-surfaces-but-dont-drop-your-main-direction.md`
 - `cooperation_and_organization/053-real-turnarounds-come-from-growing-new-strength-not-just-guarding-old-ground.md`
 - `cooperation_and_organization/054-unity-that-lasts-needs-fighting-to-the-end-and-cooperating-to-the-end.md`
+- `cooperation_and_organization/055-policy-thinking-means-combining-unity-struggle-distinction-and-measure.md`
 
 Purpose:
 - how ordinary people recognize bottom-up change, stop mistaking real structural correction for mere chaos, and organize scattered support into lasting life change
